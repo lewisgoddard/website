@@ -1,0 +1,28 @@
+<nav>
+	<div class="main-content">
+		<ol class="breadcrumbs" style="float:left;">
+{% if page.layout == 'home' %}
+			<li>home
+{% else %}
+			<li><a href="{{ site.url }}">home</a>
+{% endif %}
+
+{% assign crumbs = page.url | split: '/' %}
+{% for crumb in crumbs offset: 1 %}
+	{% if forloop.last %}
+			<li>{{ page.breadcrumb | page.title }}
+  	{% else %}
+			<li><a href="{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' }}</a>
+	{% endif %}
+{% endfor %}
+		</ol>
+
+		<!-- TODO better nav on homepage
+		<ol style="float:right;">
+			<li><a href="{{ site.baseurl }}/search" title="Search">{% include icons/search.svg.html %}</a>
+		</ol>
+		-->
+
+		<div style="clear:both;"></div>
+	</div>
+</nav>

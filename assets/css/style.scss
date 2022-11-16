@@ -1,0 +1,158 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* $Body */
+/*! Colors.css 2.0.7 | Goddard & Hale Palette | MIT License | https://github.com/eustasy/colors.css */
+:root{--goddardhale-dark-text:#05060c;--goddardhale-light-text:#e6ebeb;--goddardhale-light-background:#e6ebeb;--goddardhale-medium-background:#828789;--goddardhale-dark-background:#32373b;--goddardhale-type-blue:#236084;--goddardhale-single-leaf:#b6e9dd;--goddardhale-double-leaf:#8adcc9;--goddardhale-triple-leaf:#70d4bd;--goddardhale-full-leaf:#49c7ab;--goddardhale-red:#ed254e;--goddardhale-yellow:#f9dc5c;--goddardhale-green:#49c7ab;--goddardhale-blue:#236084;--goddardhale-purple:#574d68;--goddardhale-cream:#f4fffd;--goddardhale-grey:#32373b;--goddardhale-red-50:#fdb0bf;--goddardhale-red-100:#fba0b2;--goddardhale-red-150:#fa91a6;--goddardhale-red-200:#f88199;--goddardhale-red-250:#f6728d;--goddardhale-red-300:#f46380;--goddardhale-red-350:#f25374;--goddardhale-red-400:#f14467;--goddardhale-red-450:#ef345b;--goddardhale-red-500:#ed254e;--goddardhale-red-550:#dd2146;--goddardhale-red-600:#ce1e3e;--goddardhale-red-650:#be1a37;--goddardhale-red-700:#ae162f;--goddardhale-red-750:#9f1327;--goddardhale-red-800:#8f0f1f;--goddardhale-red-850:#7f0b17;--goddardhale-red-900:#6f0710;--goddardhale-red-950:#600408;--goddardhale-yellow-50:#fefb7b;--goddardhale-yellow-100:#fef777;--goddardhale-yellow-150:#fdf474;--goddardhale-yellow-200:#fdf070;--goddardhale-yellow-250:#fced6d;--goddardhale-yellow-300:#fbea6a;--goddardhale-yellow-350:#fbe666;--goddardhale-yellow-400:#fae363;--goddardhale-yellow-450:#fadf5f;--goddardhale-yellow-500:#f9dc5c;--goddardhale-yellow-550:#e4c653;--goddardhale-yellow-600:#cfb04a;--goddardhale-yellow-650:#ba9a40;--goddardhale-yellow-700:#a58437;--goddardhale-yellow-750:#906e2e;--goddardhale-yellow-800:#7a5825;--goddardhale-yellow-850:#65421c;--goddardhale-yellow-900:#502c12;--goddardhale-yellow-950:#3b1609;--goddardhale-green-50:#93f9f0;--goddardhale-green-100:#8bf4e9;--goddardhale-green-150:#82eee1;--goddardhale-green-200:#7ae9d9;--goddardhale-green-250:#72e3d2;--goddardhale-green-300:#6addca;--goddardhale-green-350:#62d8c2;--goddardhale-green-400:#59d2ba;--goddardhale-green-450:#51cdb3;--goddardhale-green-500:#49c7ab;--goddardhale-green-550:#42b69a;--goddardhale-green-600:#3aa489;--goddardhale-green-650:#339378;--goddardhale-green-700:#2c8167;--goddardhale-green-750:#257056;--goddardhale-green-800:#1d5f44;--goddardhale-green-850:#164d33;--goddardhale-green-900:#0f3c22;--goddardhale-green-950:#072a11;--goddardhale-blue-50:#c2eff3;--goddardhale-blue-100:#b1dfe6;--goddardhale-blue-150:#9fcfda;--goddardhale-blue-200:#8dbfce;--goddardhale-blue-250:#7cb0c2;--goddardhale-blue-300:#6aa0b5;--goddardhale-blue-350:#5890a9;--goddardhale-blue-400:#46809d;--goddardhale-blue-450:#357090;--goddardhale-blue-500:#236084;--goddardhale-blue-550:#20577b;--goddardhale-blue-600:#1c4e72;--goddardhale-blue-650:#194568;--goddardhale-blue-700:#153c5f;--goddardhale-blue-750:#123456;--goddardhale-blue-800:#0e2b4d;--goddardhale-blue-850:#0b2244;--goddardhale-blue-900:#07193a;--goddardhale-blue-950:#041031;--goddardhale-purple-50:#eee9f0;--goddardhale-purple-100:#ddd7e1;--goddardhale-purple-150:#cdc6d2;--goddardhale-purple-200:#bcb5c3;--goddardhale-purple-250:#aba4b4;--goddardhale-purple-300:#9a92a4;--goddardhale-purple-350:#898195;--goddardhale-purple-400:#797086;--goddardhale-purple-450:#685e77;--goddardhale-purple-500:#574d68;--goddardhale-purple-550:#4f4560;--goddardhale-purple-600:#483e58;--goddardhale-purple-650:#403651;--goddardhale-purple-700:#382e49;--goddardhale-purple-750:#312741;--goddardhale-purple-800:#291f39;--goddardhale-purple-850:#211731;--goddardhale-purple-900:#190f2a;--goddardhale-purple-950:#120822;--goddardhale-cream-50:#f9ffff;--goddardhale-cream-100:#f8ffff;--goddardhale-cream-150:#f8fffe;--goddardhale-cream-200:#f7fffe;--goddardhale-cream-250:#f7fffe;--goddardhale-cream-300:#f6fffe;--goddardhale-cream-350:#f6fffe;--goddardhale-cream-400:#f5fffd;--goddardhale-cream-450:#f5fffd;--goddardhale-cream-500:#f4fffd;--goddardhale-cream-550:#dce6e4;--goddardhale-cream-600:#c3ccca;--goddardhale-cream-650:#abb3b1;--goddardhale-cream-700:#929a98;--goddardhale-cream-750:#7a817f;--goddardhale-cream-800:#626765;--goddardhale-cream-850:#494e4c;--goddardhale-cream-900:#313533;--goddardhale-cream-950:#181b19;--goddardhale-grey-50:#e6ebeb;--goddardhale-grey-100:#d2d7d8;--goddardhale-grey-150:#bec3c4;--goddardhale-grey-200:#aaafb1;--goddardhale-grey-250:#969b9d;--goddardhale-grey-300:#828789;--goddardhale-grey-350:#6e7376;--goddardhale-grey-400:#5a5f62;--goddardhale-grey-450:#464b4f;--goddardhale-grey-500:#32373b;--goddardhale-grey-550:#2d3236;--goddardhale-grey-600:#282c31;--goddardhale-grey-650:#23272b;--goddardhale-grey-700:#1e2126;--goddardhale-grey-750:#191c21;--goddardhale-grey-800:#14171c;--goddardhale-grey-850:#0f1117;--goddardhale-grey-900:#0a0c11;--goddardhale-grey-950:#05060c;}
+body {
+	color: var(--goddardhale-grey-750);
+}
+a {
+	color: var(--goddardhale-blue-750);
+}
+
+/* $Brands */
+:root {
+	--amazon: #FF9900;
+	--facebook: #4267B2;
+    --github: #333;
+    --linkedin: #0077B5;
+    --paypal: #003087;
+    --stackoverflow: #F48024;
+    --twitter: #1DA1F2;
+    --youtube: #FF0000;
+}
+
+/* $Header */
+.page-header {
+	color: var(--goddardhale-cream-100);
+	text-align: center;
+	background-color: var(--goddardhale-blue-750);
+	/* Background generated at https://www.joshwcomeau.com/gradient-generator/?angle=120&easingCurve=0.333%7C1%7C0.666%7C0&precision=8&colorMode=hcl&colors=772953%7Ce95420 */
+	background-image: linear-gradient(
+		120deg,
+		hsl(210deg 65% 20%) 0%,
+		hsl(211deg 68% 19%) 21%,
+		hsl(212deg 70% 18%) 30%,
+		hsl(213deg 72% 17%) 39%,
+		hsl(214deg 75% 16%) 46%,
+		hsl(215deg 78% 14%) 54%,
+		hsl(216deg 81% 13%) 61%,
+		hsl(218deg 84% 12%) 69%,
+		hsl(220deg 86% 11%) 79%,
+		hsl(224deg 85% 10%) 100%
+	);
+}
+.project-tagline {
+	margin-bottom: 0;
+}
+
+/* $Navigation */
+nav {
+	background: var(--goddardhale-grey-150);
+	border-bottom: 1px solid var(--goddardhale-grey-300);
+	border-top: 1px solid var(--goddardhale-grey-300);
+}
+nav .main-content {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+nav .main-content ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+nav .main-content ol li {
+	display: inline-block;
+	padding: 0.5rem;
+}
+nav ol.breadcrumbs > li:first-child {
+	padding-left: 0;
+}
+nav ol.breadcrumbs > li:before {
+	content: "\\\2003";
+	display: inline-block;
+	color: var(--goddardhale-grey-150);
+}
+nav svg {
+	fill: var(--goddardhale-grey-150);
+	max-height: 1rem;
+	max-width: 1rem;
+	transition: 300ms fill ease;
+}
+nav a:hover svg {
+	fill: var(--goddardhale-blue-750);
+}
+
+/* $Content */
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+	color: var(--goddardhale-blue-950);
+}
+.main-content blockquote {
+	color: var(--goddardhale-grey-150);
+	border-left: 0.3rem solid var(--goddardhale-grey-150);
+}
+.main-content hr {
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+	background-color: var(--goddardhale-grey-300);
+}
+.text-right {
+	text-align: right;
+}
+
+/* $Buttons */
+.btn {
+	font-weight: bold;
+}
+.btn.download, .btn.download:hover  {
+	color: var(--goddardhale-cream-100);
+	background: var(--goddardhale-blue-750);
+	margin: 0 auto;
+}
+.btn.download.magnet, .btn.download.magnet:hover  {
+	background: var(--goddardhale-red-750);
+}
+.btn.download.archive, .btn.download.archive:hover  {
+	background: var(--goddardhale-grey-150);
+}
+.btn svg {
+	fill: var(--goddardhale-cream-100);
+	height: 1.1rem;
+	margin-top: -0.2rem !important;
+	vertical-align: middle;
+	width: 1.1rem;
+}
+
+svg.warning {
+	fill: var(--goddardhale-red-750);
+}
+div.warning {
+	background: var(--goddardhale-red-750);
+	border-radius: 0.3rem;
+	color: var(--goddardhale-cream-100);
+	padding: 1rem 1rem 0.3rem;
+}
+.warning a {
+	color: var(--goddardhale-cream-100);
+	text-decoration: underline;
+}
+.warning h2,
+.warning h3 {
+	color: var(--goddardhale-cream-100);
+}
+.warning h2 svg {
+	fill: var(--goddardhale-cream-100);
+	padding-top: 5px;
+}
+.warning h3 svg {
+	fill: var(--goddardhale-cream-100);
+	vertical-align: sub;
+}
+
+/* $Footer */
+.site-footer {
+	border-top: 2px solid var(--goddardhale-grey-150);
+}
