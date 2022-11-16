@@ -1,0 +1,11 @@
+title: Lewis Goddard
+description: ...
+#url: "https://lewisgoddard.me.uk/" # the base hostname & protocol for your site
+
+permalink: /:title/
+page_excerpts: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+theme: jekyll-theme-cayman
