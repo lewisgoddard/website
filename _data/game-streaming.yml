@@ -1,0 +1,64 @@
+- xbox:
+  name: Xbox Cloud Gaming
+  status: Beta
+  platforms:
+    - PC
+    - iPhone
+    - iPad
+    - Android
+    - Xbox Series X|S and Xbox One
+    - Select Smart TVs
+  pricing:
+    - £10.99/month
+  performance:
+    - 1080p @ 60fps
+  catalogue:
+    - 381 games
+- playstation:
+  name: Sony PlayStation Plus (Premium)
+  previously: Sony Playstation Now
+  status: Public
+  pricing:
+    - £13.49/month
+  platforms:
+    - PC
+    - PlayStation
+  performance:
+    - 1080p
+  catalogue:
+    - Hundreds of PlayStation games from PS1, PS2, PS3, and PS4. No support for PS5 exclusive games yet.
+- geforce:
+  name: Nvidia GeForce Now
+  status: Public
+  platforms:
+    - PC
+    - Mac
+    - iPhone
+    - iPad
+    - Android
+    - Xbox Series X|S and Xbox One
+    - Select Smart TVs & Android TV
+  pricing:
+    - Free (1-hour sessions)
+    - £8.99/month (6-hour sessions)
+    - £17.99/month (8-hour sessions)
+  performance:
+    - 1080p @ 60fps
+    - 4k @ 120fps
+  catalogue:
+    - ~1,500 games
+    - https://www.nvidia.com/en-gb/geforce-now/games/
+- luna:
+  name: Amazon Luna
+  status: US Only
+  pricing:
+    - Free (with Prime)
+    - + $9.99/month for Luna+
+    - + $17.99/month for Ubisoft+
+    - + $4.99/month for Jackbox Games
+- stadia:
+  name: Google Stadia
+  status: Closed
+- shadow:
+  name: Shadow.Tech
+  status: Closed
