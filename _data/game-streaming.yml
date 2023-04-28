@@ -56,6 +56,20 @@
     - + $9.99/month for Luna+
     - + $17.99/month for Ubisoft+
     - + $4.99/month for Jackbox Games
+- nware:
+  name: Nware
+  status: Public
+  platforms:
+    - PC
+    - Android
+    - Select Smart TVs & Android TV
+  pricing:
+    - €8.99/month
+    - €10.99/month or €99.99/year
+  performance:
+    - 1080p @ 60fps
+  catalogue:
+    - Bring you own games - STEAM, Epic Games, Ubisoft, Roblox and Minecraft Launchers (premium plan only)
 - stadia:
   name: Google Stadia
   status: Closed
