@@ -104,6 +104,25 @@
     - 4k @ 60fps
   catalogue:
     - Bring you own games - just a remote connection to your PC.
+- shadow:
+  name: Shadow.tech
+  status: Public
+  platforms:
+    - PC
+    - Mac
+    - Linux
+    - iPhone
+    - iPad
+    - Android
+    - Select Smart TVs & Android TV
+    - Occulus Quest
+  pricing:
+    - £29.99/month
+    - £44.98/month with RTX
+  performance:
+    - 4k @ 60fps
+  catalogue:
+    - Bring you own games - just a remote connection to your PC.
 - stadia:
   name: Google Stadia
   status: Closed
