@@ -56,6 +56,24 @@
     - + $9.99/month for Luna+
     - + $17.99/month for Ubisoft+
     - + $4.99/month for Jackbox Games
+- boosteroid:
+  name: Boosteroid
+  status: Public
+  platforms:
+    - PC
+    - Mac
+    - Chromebook
+    - Linux
+    - iPhone
+    - iPad
+    - Android
+    - Select Smart TVs & Android TV
+  pricing:
+    - €9.89/month or €89.89/year
+  performance:
+    - 1080p @ 60fps
+  catalogue:
+    - You need to sign up for Boosteroid to see the full list of games.
 - nware:
   name: Nware
   status: Public
@@ -70,6 +88,22 @@
     - 1080p @ 60fps
   catalogue:
     - Bring you own games - STEAM, Epic Games, Ubisoft, Roblox and Minecraft Launchers (premium plan only)
+- parsec:
+  name: Parsec
+  status: Public
+  platforms:
+    - PC
+    - Mac
+    - Chromebook
+    - iPhone
+    - iPad
+    - Android
+  pricing:
+    - $9.99/month or $99.99/year
+  performance:
+    - 4k @ 60fps
+  catalogue:
+    - Bring you own games - just a remote connection to your PC.
 - stadia:
   name: Google Stadia
   status: Closed
