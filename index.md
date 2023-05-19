@@ -5,7 +5,7 @@
 
 {% for page in site.pages %}
 {% if page.url contains '/hardware/' %}
-{% unless page.url contains page.url == '/hardware/' %}
+{% unless page.url == '/hardware/' %}
 
 ### [{{ page.title }}]({{ page.url | relative_url }})
 
