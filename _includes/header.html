@@ -13,7 +13,12 @@
 	<a id="skip-to-content" href="#content">Skip to the content.</a>
 
 	<header class="page-header" role="banner">
+{% if page.layout == 'home' %}
 		<h1 class="project-name">{{ site.title }}</h1>
+{% else %}
+		<h1 class="project-name">{{ page.title }}</h1>
+		<h2 class="project-tagline">{{ site.title }}</h1>
+{% endif %}
 		<h2 class="project-tagline">
 			<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#111;&#100;&#100;&#97;&#114;&#100;&#46;&#108;&#101;&#119;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" class="email">{% include icons/email.svg.html %}</a>
 			<a href="https://www.linkedin.com/in/lewisgoddard/" class="linkedin">{% include icons/brands/linkedin.svg.html %}</a>
