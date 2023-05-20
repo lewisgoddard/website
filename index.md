@@ -1,11 +1,11 @@
 ---
 ---
 
-## Hardware
+## Recommendations
 
 {% for page in site.pages %}
-{% if page.url contains '/hardware/' %}
-{% unless page.url == '/hardware/' %}
+{% if page.url contains '/recommendations/' %}
+{% unless page.url == '/recommendations/' %}
 
 ### [{{ page.title }}]({{ page.url | relative_url }})
 
@@ -15,5 +15,5 @@
 {% endif %}
 {% endfor %}
 
-### [Continue &raquo;]({{ '/hardware/' | relative_url }})
+### [Continue &raquo;]({{ '/recommendations/' | relative_url }})
 {:.text-right}
