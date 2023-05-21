@@ -38,9 +38,9 @@ _**Bold** for better value near prices shown._
 
 ### Gaming
 
-- Low: Pair with Nvidia RTX 3060 / 3060 Ti / 3070 / 3070 Ti / 4060 / 4060 Ti or AMD Radeon RX 6600 / 6600 XT / 6650 XT / 6700 / 6700 XT / 6750 XT
-- Medium: Pair with Nvidia RTX 3080 / 3080 Ti / 4070 / 4070 Ti or AMD Radeon RX 6800 / 6800 XT / 6900 XT / 6950 XT
-- High: Pair with Nvidia RTX 4080 / 4090 or AMD Radeon RX 7900 XT / 7900 XTX
+- Low: Pair with Nvidia RTX 3060 / 3060 Ti / 3070 / 4060 / 4060 Ti or AMD Radeon RX 6600 / 6600 XT / 6650 XT / 6700
+- Medium: Pair with Nvidia RTX 3070 Ti / 3080 / 3080 Ti / 4070 or AMD Radeon RX 6700 XT / 6750 XT / 6800 / 6800 XT / 6900 XT / 6950 XT
+- High: Pair with Nvidia RTX 4070 Ti / 4080 / 4090 or AMD Radeon RX 7900 XT / 7900 XTX
 
 | Family   | Low Gaming          | Medium Gaming        | High Gaming          | 
 |----------|---------------------|----------------------|----------------------|
