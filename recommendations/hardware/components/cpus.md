@@ -9,7 +9,7 @@ _This page is for Desktop and Server class CPUs. For mobile CPUs see [Laptops](.
 
 _**Bold** for better value near prices shown._
 
-- AMD X3D performs below the cheaper non-X3D variants of the same CPUs in low-to-medium productivity. It is an application-specific buy in, only for high end machines.
+- AMD X3D performs below the cheaper non-X3D variants of the same CPUs in low-to-medium productivity. It is an application-specific buy-in, only for high end machines.
 - AMD 7000 is difficult to recommend due to only supporting DDR5 memory, a substantial additional expense outside of the highest end machines.
 - AMD 5000 is a good all rounder, but does not compete with the latest Intel chips.
 - AMD 4000 is generally poor for gaming, but offers good value for bargain-grade productivity.
@@ -24,33 +24,36 @@ _**Bold** for better value near prices shown._
 - Medium: Substantial multi-tasking, photo-editing, larger excel sheets.
 - High: Video Editing, light CAD work, massive excel sheets.
 
-| Family   | Basic Productivity | Medium Productivity | High Productivity |
-|----------|--------------------|---------------------|-------------------|
-| Intel 13 |                    | **i5-13500 ~£240**  |
-|          |                    | **i5 13400 ~£210**  | 
+| Family   | Basic Productivity | Medium Productivity | High Productivity  |
+|----------|--------------------|---------------------|--------------------|
+| Intel 13 |                    | **i5 13500 ~£240**  | i9 13900 ~£550     |
+|          | i3 13100 ~£140     | **i5 13400 ~£210**  | **i7 13700 ~£380** |
 | Intel 12 | **i5 12400 ~£175** |
 |          | i3 12100 ~£120     |
-| AMD 7000 |                    |                     | R9 7950X ~£530
-|          |                    |                     | R9 7900 ~£400
-| AMD 5000 | R5 5600G ~£110     | R7 5700G ~£170      | 
+| AMD 7000 |                    | R7 7700 ~£300       | R9 7950X ~£530     |
+|          |                    | R5 7600 ~£220       | R9 7900 ~£400      |
+| AMD 5000 | R7 5700G ~£170     | 
+|          | R5 5600G ~£110     |
 | AMD 4000 | **R5 4600G ~£90**  |
 
 ### Gaming
 
-- Low: Pair with Nvidia RTX 3060 / 3060 Ti or AMD Radeon RX 6600 / 6600 XT / 6650 XT
-- Medium: 
-- High: 
+- Low: Pair with Nvidia RTX 3060 / 3060 Ti / 3070 / 3070 Ti / 4060 / 4060 Ti or AMD Radeon RX 6600 / 6600 XT / 6650 XT / 6700 / 6700 XT / 6750 XT
+- Medium: Pair with Nvidia RTX 3080 / 3080 Ti / 4070 / 4070 Ti or AMD Radeon RX 6800 / 6800 XT / 6900 XT / 6950 XT
+- High: Pair with Nvidia RTX 4080 / 4090 or AMD Radeon RX 7900 XT / 7900 XTX
 
-| Family   | Low Gaming | Medium Gaming | High Gaming | 
-|----------|------------|---------------|-------------|
-| Intel 13 | **i5 13400F ~£190**
-|          | i3 13100F ~£110
-| Intel 12 | i5 12600KF ~£220
-|          | i5 12400F ~£150
-|          | **i3 12100F ~£90**
-| AMD 7000 |  
-| AMD 5000 | 
-| AMD 4000 | R5 4500 ~£70
+| Family   | Low Gaming          | Medium Gaming        | High Gaming          | 
+|----------|---------------------|----------------------|----------------------|
+| Intel 13 | i3 13100F ~£110     | **i5 13600KF ~£280** | i9 13900KF ~£520     |
+|          |                     | **i5 13500 ~£240**   | **i7 13700KF ~£380** |
+|          |                     | **i5 13400F ~£190**  |
+| Intel 12 | **i5 12400F ~£150** | i5 12600KF ~£220     |
+|          | **i3 12100F ~£90**  |
+| AMD 7000 |                     | R7 7700X ~£300       | R9 7950X ~£530       |
+|          |                     | R5 7600X ~£230       | R9 7900X ~£400       |
+| AMD 5000 | R7 5700X ~£170      |
+|          | R5 5600 ~£125       |
+| AMD 3000 | **R5 3600 ~£40**    |
 
 ## Intel
 
