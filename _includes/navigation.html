@@ -4,7 +4,7 @@
 {% if page.layout == 'home' %}
 			<li>home
 {% else %}
-			<li><a href="{{ site.url }}">home</a>
+			<li><a href="{{ site.baseurl }}">home</a>
 {% endif %}
 
 {% assign crumbs = page.url | split: '/' %}
