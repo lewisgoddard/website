@@ -1,6 +1,8 @@
 title: Lewis Goddard
 description: ...
-#url: "https://lewisgoddard.me.uk/" # the base hostname & protocol for your site
+# the base hostname & protocol for your site
+#url: "https://lewisgoddard.me.uk"
+url: "https://lewisgoddard.github.io"
 baseurl: /website
 
 permalink: /:title/
