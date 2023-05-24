@@ -107,6 +107,10 @@ nav a:hover svg {
 	margin-top: 2rem;
 	background-color: var(--goddardhale-grey-300);
 }
+.main-content table th,
+.main-content table td {
+    border: 1px solid var(--goddardhale-grey-350);
+}
 .text-right {
 	text-align: right;
 }
