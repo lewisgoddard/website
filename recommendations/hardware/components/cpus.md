@@ -56,33 +56,78 @@ _**Bold** for better value near prices shown._
 |          | R5 5600 ~£125       |
 | AMD 3000 | **R5 3600 ~£40**    |
 
+### Comparison Table
+
+_Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
+
+| SKU | Cores | Threads | TDP | Single Core | Multi Core | Rating |
+|-----|-------|---------|-----|-------------|------------|--------|
+| 12100 | 4+0 | 8 | 60 W | 
+| 12100F | 4+0 | 8 | 58 W | 
+| 12400 | 6+0 | 12 | 65 W | 
+| 12400F | 6+0 | 12 | 65 W | 
+| 12500 | 6+0 | 12 | 65 W | 
+| 12600 | 6+0 | 12 | 65 W | 
+| 12600K | 6+4 | 16 | 125 W | 
+| 12600KF | 6+4 | 16 | 125 W | 
+| 12700 | 8+4 | 20 | 65 W | 
+| 12700F | 8+4 | 20 | 65 W | 
+| 12700K| 8+4 | 20 | 125 W | 
+| 12700KF | 8+4 | 20 | 125 W | 
+| 12900 | 8+8 | 24 | 65 W | 
+| 12900F | 8+8 | 24 | 65 W | 
+| 12900K| 8+8 | 24 | 125 W | 
+| 12900KF | 8+8 | 24 | 125 W | 
+| 12900KS | 8+8 | 24 | 150 W | 
+| 13100 | 4+0 | 8 | 60 W | 
+| 13100F | 4+0 | 8 | 58 W | 
+| 13400 | 6+4 | 16 | 65 W | 
+| 13400F | 6+4 | 16 | 65 W | 
+| 13500 | 6+8 | 20 | 65 W | 
+| 13600 | 6+8 | 20 | 65 W | 
+| 13600K | 6+8 | 20 | 125 W | 
+| 13600KF | 6+8 | 20 | 125 W | 
+| 13700 | 8+8 | 24 | 65 W | 
+| 13700F | 8+8 | 24 | 65 W | 
+| 13700K| 8+8 | 24 | 125 W | 
+| 13700KF | 8+8 | 24 | 125 W | 
+| 13900 | 8+16 | 32 | 65 W | 
+| 13900F | 8+16 | 32 | 65 W | 
+| 13900K| 8+16 | 32 | 125 W | 
+| 13900KF | 8+16 | 32 | 125 W | 
+| 13900KS | 8+16 | 32 | 150 W | 
+
 ## Intel
 
 I have heard that generational improvement of Intel silicon is largely down to pushing more power for diminishing returns. While this adage may have been true for a time (14nm was almost exclusively in use from 5th gen / 2014 - 10th gen 2019) it no longer holds true. 12th gen Intel brought with them a new 10nm process and a move to a new naming scheme for such processes in line with AMDs naming, thus "Intel 7". It also brought a bit.LITTLE style core arrangement, with single-thread efficiency cores coupled with the existing dual-thread performance cores and continued DDR4 support throwing a substantial wrench in AMDs move towards price parity as a true competitor.
 
 ### Modifiers
 
-- F SKUs lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware 
+- F SKUs lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware that Intel Quicksync can noticeably speed up any video transcode you might do.
 - - For: Gamers that do not stream or encode video.
 - - Not For: People without a dedicated GPU, streamers or video editors.
 - K SKUs are unlocked for overclocking only on the top chipset motherboards available. Outside of that they typically only add a small amount of additional boost, the exception being the 12600K which adds 4 efficiency cores.
+- - For: Gamers on the highest motherboard chipset.
+- - Not For: Everyone else.
+- S SKUs
+- - For: Top-teir builds that have nowhere else to upgrade to.
+- - Not For: Everyone else.
+- T SKUs 
+- - For: 
+- - Not For:
 
 ### 12th gen (Alder Lake)
-- 12100[F] (4+0)
-- 12400[F] (6+0)
-- 12600K[F] (6+4)
-- 12700[K] (8+4)
 
 ### 13th gen (Raptor Lake)
 
-- 13100[F] (4+0)
-- 13400[F] (6+4)
-- 13600[K[F]] (6+8)
-- 13700[K/F] (8+8)
-- 13700[K/F] (8+16)
 
 ## AMD
 
+### Modifiers
+- G: 5000 series and earlier: Includes integrated graphics.
+- - For: Productivity users lacking dedicated graphics.
+- - Not For: Everyone else.
+- X: Slightly higher clocks, sometimes with no non-X variant available.
 
 ## ARM
 
