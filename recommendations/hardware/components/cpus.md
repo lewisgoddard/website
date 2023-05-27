@@ -64,13 +64,8 @@ _Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
 
 | SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
 |-----|-------|---------|-----|-------------|------------|-------|--------|
-| 12100 | 4+0 | 8 | 
-{% assign cpu = site.data.cpus['12100'] %}
-{{ cpu.tdp }} |
-{{ cpu.thread }} |
-{{ cpu.score }} |
-{{ cpu.price }} |
-| 12100F | 4+0 | 8 | 58 W | 
+| 12100 | 4+0 | 8 | {% assign cpu = site.data.cpus['12100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
+| 12100F | 4+0 | 8 | {% assign cpu = site.data.cpus['12100F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
 | 12400 | 6+0 | 12 | 65 W | 
 | 12400F | 6+0 | 12 | 65 W | 
 | 12500 | 6+0 | 12 | 65 W | 
