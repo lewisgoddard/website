@@ -86,7 +86,6 @@ _Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
 | 13400   | 6+4 | 16 | {% assign cpu = site.data.cpus['13400'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
 | 13400F  | 6+4 | 16 | {% assign cpu = site.data.cpus['13400F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
 | 13500   | 6+8 | 20 | {% assign cpu = site.data.cpus['13500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13600   | 6+8 | 20 | {% assign cpu = site.data.cpus['13600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
 | 13600K  | 6+8 | 20 | {% assign cpu = site.data.cpus['13600K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
 | 13600KF | 6+8 | 20 | {% assign cpu = site.data.cpus['13600KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
 | 13700   | 8+8 | 24 | {% assign cpu = site.data.cpus['13700'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
