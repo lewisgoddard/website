@@ -67,7 +67,7 @@ _Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
 {{ cpu.price }}
 
 | SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
-|-----|-------|---------|-----|-------------|------------|----------------|
+|-----|-------|---------|-----|-------------|------------|-------|--------|
 | 12100 | 4+0 | 8 | 60 W | 
 | 12100F | 4+0 | 8 | 58 W | 
 | 12400 | 6+0 | 12 | 65 W | 
