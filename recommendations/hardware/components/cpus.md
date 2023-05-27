@@ -134,13 +134,19 @@ _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, o
 var el = document.getElementsByTagName("td")
 for (var i = 0; i < el.length; i++) {
   if (el[i].innerHTML == "S") {
-    el[i].className += " " + "color-flatui-wisteria"
+    el[i].className += " " + "color-elementary-grape-500"
   } else if (el[i].innerHTML == "A") {
-    el[i].className += " " + "color-flatui-belize-hole"
+    el[i].className += " " + "color-elementary-blueberry-500"
   } else if (el[i].innerHTML == "B") {
-    el[i].className += " " + "color-flatui-green-sea"
+    el[i].className += " " + "color-elementary-mint-500"
   } else if (el[i].innerHTML == "C") {
-    el[i].className += " " + "color-flatui-nephritis"
+    el[i].className += " " + "color-elementary-lime-500"
+  } else if (el[i].innerHTML == "D") {
+    el[i].className += " " + "color-elementary-banana-500"
+  } else if (el[i].innerHTML == "E") {
+    el[i].className += " " + "color-elementary-orange-500"
+  } else if (el[i].innerHTML == "F") {
+    el[i].className += " " + "color-elementary-strawberry-500"
   } 
 }
 </script>
