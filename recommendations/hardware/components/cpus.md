@@ -101,8 +101,6 @@ _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, o
 | 3100 | 4 | 8 | {% assign cpu = site.data.cpus['3100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 4100 | 4 | 8 | {% assign cpu = site.data.cpus['4100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3300X | 4 | 8 | {% assign cpu = site.data.cpus['3300X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 3500 | 6 | 6 | {% assign cpu = site.data.cpus['3500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 3500X | 6 | 6 | {% assign cpu = site.data.cpus['3500X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 4500 | 6 | 12 | {% assign cpu = site.data.cpus['4500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5500 | 6 | 12 | {% assign cpu = site.data.cpus['5500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3600XT | 6 | 12 | {% assign cpu = site.data.cpus['3600XT'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
