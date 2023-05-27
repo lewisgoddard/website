@@ -58,6 +58,8 @@ _**Bold** for better value near prices shown._
 
 ### Comparison Table
 
+IMPORTANT: Rating does not account for Motherboard / RAM affordability, differing types of usability and existence of integrated graphics, or available upgrade paths. It is only based on a performance to price ratio that may be heavily outdated.
+
 _Note: Does not include Intel T-type SKUs or models below i3, like Pentium or Celeron._
 _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon._
 
