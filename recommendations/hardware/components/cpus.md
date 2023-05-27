@@ -64,39 +64,39 @@ _Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
 
 | SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
 |-----|-------|---------|-----|-------------|------------|-------|--------|
-| 12100   | 4+0 | 8 | {% assign cpu = site.data.cpus['12100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12100F  | 4+0 | 8 | {% assign cpu = site.data.cpus['12100F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12400   | 6+0 | 12 | {% assign cpu = site.data.cpus['12400'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12400F  | 6+0 | 12 | {% assign cpu = site.data.cpus['12400F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12500   | 6+0 | 12 | {% assign cpu = site.data.cpus['12500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12600   | 6+0 | 12 | {% assign cpu = site.data.cpus['12600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12600K  | 6+4 | 16 | {% assign cpu = site.data.cpus['12600K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12600KF | 6+4 | 16 | {% assign cpu = site.data.cpus['12600KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12700   | 8+4 | 20 | {% assign cpu = site.data.cpus['12700'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12700F  | 8+4 | 20 | {% assign cpu = site.data.cpus['12700F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12700K  | 8+4 | 20 | {% assign cpu = site.data.cpus['12700K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12700KF | 8+4 | 20 | {% assign cpu = site.data.cpus['12700KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12900   | 8+8 | 24 | {% assign cpu = site.data.cpus['12900'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12900F  | 8+8 | 24 | {% assign cpu = site.data.cpus['12900F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12900K  | 8+8 | 24 | {% assign cpu = site.data.cpus['12900K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12900KF | 8+8 | 24 | {% assign cpu = site.data.cpus['12900KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 12900KS | 8+8 | 24 | {% assign cpu = site.data.cpus['12900KS'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13100   | 4+0 | 8 | {% assign cpu = site.data.cpus['13100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13100F  | 4+0 | 8 | {% assign cpu = site.data.cpus['13100F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13400   | 6+4 | 16 | {% assign cpu = site.data.cpus['13400'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13400F  | 6+4 | 16 | {% assign cpu = site.data.cpus['13400F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13500   | 6+8 | 20 | {% assign cpu = site.data.cpus['13500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13600K  | 6+8 | 20 | {% assign cpu = site.data.cpus['13600K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13600KF | 6+8 | 20 | {% assign cpu = site.data.cpus['13600KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13700   | 8+8 | 24 | {% assign cpu = site.data.cpus['13700'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13700F  | 8+8 | 24 | {% assign cpu = site.data.cpus['13700F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13700K  | 8+8 | 24 | {% assign cpu = site.data.cpus['13700K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13700KF | 8+8 | 24 | {% assign cpu = site.data.cpus['13700KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13900   | 8+16 | 32 | {% assign cpu = site.data.cpus['13900'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13900F  | 8+16 | 32 | {% assign cpu = site.data.cpus['13900F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13900K  | 8+16 | 32 | {% assign cpu = site.data.cpus['13900K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13900KF | 8+16 | 32 | {% assign cpu = site.data.cpus['13900KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
-| 13900KS | 8+16 | 32 | {% assign cpu = site.data.cpus['13900KS'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} |
+| 12100   | 4+0 | 8 | {% assign cpu = site.data.cpus['12100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12100F  | 4+0 | 8 | {% assign cpu = site.data.cpus['12100F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12400   | 6+0 | 12 | {% assign cpu = site.data.cpus['12400'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12400F  | 6+0 | 12 | {% assign cpu = site.data.cpus['12400F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12500   | 6+0 | 12 | {% assign cpu = site.data.cpus['12500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12600   | 6+0 | 12 | {% assign cpu = site.data.cpus['12600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12600K  | 6+4 | 16 | {% assign cpu = site.data.cpus['12600K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12600KF | 6+4 | 16 | {% assign cpu = site.data.cpus['12600KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12700   | 8+4 | 20 | {% assign cpu = site.data.cpus['12700'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12700F  | 8+4 | 20 | {% assign cpu = site.data.cpus['12700F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12700K  | 8+4 | 20 | {% assign cpu = site.data.cpus['12700K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12700KF | 8+4 | 20 | {% assign cpu = site.data.cpus['12700KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12900   | 8+8 | 24 | {% assign cpu = site.data.cpus['12900'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12900F  | 8+8 | 24 | {% assign cpu = site.data.cpus['12900F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12900K  | 8+8 | 24 | {% assign cpu = site.data.cpus['12900K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12900KF | 8+8 | 24 | {% assign cpu = site.data.cpus['12900KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12900KS | 8+8 | 24 | {% assign cpu = site.data.cpus['12900KS'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13100   | 4+0 | 8 | {% assign cpu = site.data.cpus['13100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13100F  | 4+0 | 8 | {% assign cpu = site.data.cpus['13100F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13400   | 6+4 | 16 | {% assign cpu = site.data.cpus['13400'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13400F  | 6+4 | 16 | {% assign cpu = site.data.cpus['13400F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13500   | 6+8 | 20 | {% assign cpu = site.data.cpus['13500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13600K  | 6+8 | 20 | {% assign cpu = site.data.cpus['13600K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13600KF | 6+8 | 20 | {% assign cpu = site.data.cpus['13600KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13700   | 8+8 | 24 | {% assign cpu = site.data.cpus['13700'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13700F  | 8+8 | 24 | {% assign cpu = site.data.cpus['13700F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13700K  | 8+8 | 24 | {% assign cpu = site.data.cpus['13700K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13700KF | 8+8 | 24 | {% assign cpu = site.data.cpus['13700KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13900   | 8+16 | 32 | {% assign cpu = site.data.cpus['13900'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13900F  | 8+16 | 32 | {% assign cpu = site.data.cpus['13900F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13900K  | 8+16 | 32 | {% assign cpu = site.data.cpus['13900K'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13900KF | 8+16 | 32 | {% assign cpu = site.data.cpus['13900KF'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 13900KS | 8+16 | 32 | {% assign cpu = site.data.cpus['13900KS'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 
 ## Intel
 
