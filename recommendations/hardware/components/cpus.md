@@ -157,7 +157,7 @@ for (var i = 0; i < el.length; i++) {
 
 ## Intel
 
-I have heard that generational improvement of Intel silicon is largely down to pushing more power for diminishing returns. While this adage may have been true for a time (14nm was almost exclusively in use from 5th gen / 2014 - 10th gen 2019) it no longer holds true. 12th gen Intel brought with them a new 10nm process and a move to a new naming scheme for such processes in line with AMDs naming, thus "Intel 7". It also brought a bit.LITTLE style core arrangement, with single-thread efficiency cores coupled with the existing dual-thread performance cores and continued DDR4 support throwing a substantial wrench in AMDs move towards price parity as a true competitor.
+I have heard that generational improvement of Intel silicon is largely down to pushing more power for diminishing returns. While this adage may have been true for a time (14nm was almost exclusively in use from 5th gen / 2014 - 10th gen 2019) it no longer holds true. 12th gen Intel (Alder Lake) brought with them a new 10nm process and a move to a new naming scheme for such processes in line with AMDs naming, thus "Intel 7". It also brought a bit.LITTLE style core arrangement, with single-thread efficiency cores coupled with the existing dual-thread performance cores and continued DDR4 support throwing a substantial wrench in AMDs move towards price parity as a true competitor. 13th gen Intel (Raptor Lake) brought mild improvements to IPC and expanded the number of efficiency cores over most of the range.
 
 ### Modifiers
 
@@ -181,10 +181,6 @@ I have heard that generational improvement of Intel silicon is largely down to p
 - For: Extreamly small builds that are not too concerned with performance.
 - Not For: Everyone else.
 
-### 12th gen (Alder Lake)
-
-### 13th gen (Raptor Lake)
-
 ## AMD
 
 ### Modifiers
@@ -195,13 +191,16 @@ I have heard that generational improvement of Intel silicon is largely down to p
 - Not For: Everyone else.
 
 #### GE SKUs
+- 5000 series and earlier only: Includes integrated graphics and is high efficiency for a far lower TDP.
 
 #### X SKUs
 - Slightly higher clocks, sometimes with no non-X variant available.
 
 #### XT SKUs
+- Slightly higher clocks, generally poor value.
 
 #### X3D SKUs
+- Triple cache on the CPU for improvements in some, specific applications. 
 
 ## ARM
 
