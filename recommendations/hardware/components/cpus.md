@@ -161,31 +161,46 @@ I have heard that generational improvement of Intel silicon is largely down to p
 
 ### Modifiers
 
-- F SKUs lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware that Intel Quicksync can noticeably speed up any video transcode you might do.
-- - For: Gamers that do not stream or encode video.
-- - Not For: People without a dedicated GPU, streamers or video editors.
-- K SKUs are unlocked for overclocking only on the top chipset motherboards available. Outside of that they typically only add a small amount of additional boost, the exception being the 12600K which adds 4 efficiency cores.
-- - For: Gamers on the highest motherboard chipset.
-- - Not For: Everyone else.
-- S SKUs
-- - For: Top-teir builds that have nowhere else to upgrade to.
-- - Not For: Everyone else.
-- T SKUs 
-- - For: 
-- - Not For:
+####  F SKUs
+- Lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware that Intel Quicksync can noticeably speed up any video transcode you might do.
+- For: Gamers that do not stream or encode video.
+- Not For: People without a dedicated GPU, streamers or video editors.
+
+#### K SKUs 
+- Unlocked for overclocking only on the top chipset motherboards available. Outside of that they typically only add a small amount of additional boost, the exception being the 12600K which adds 4 efficiency cores.
+- For: Gamers on the highest motherboard chipset, or people with good cooling who want a little more performance.
+- Not For: Everyone else.
+
+#### S SKUs
+- Slightly higher clocks at a much higher price.
+- For: Top-teir builds that have nowhere else to upgrade to.
+- Not For: Everyone else.
+
+#### T SKUs 
+- For: Extreamly small builds that are not too concerned with performance.
+- Not For: Everyone else.
 
 ### 12th gen (Alder Lake)
 
 ### 13th gen (Raptor Lake)
 
-
 ## AMD
 
 ### Modifiers
-- G: 5000 series and earlier: Includes integrated graphics.
-- - For: Productivity users lacking dedicated graphics.
-- - Not For: Everyone else.
-- X: Slightly higher clocks, sometimes with no non-X variant available.
+
+#### G SKUs
+- 5000 series and earlier only: Includes integrated graphics.
+- For: Productivity users lacking dedicated graphics.
+- Not For: Everyone else.
+
+#### GE SKUs
+
+#### X SKUs
+- Slightly higher clocks, sometimes with no non-X variant available.
+
+#### XT SKUs
+
+#### X3D SKUs
 
 ## ARM
 
