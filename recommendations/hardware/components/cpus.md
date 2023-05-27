@@ -51,7 +51,7 @@ _**Bold** for better value near prices shown._
 |          |                     | **R5 7600X ~£230**   | R9 7900X ~£400       |
 | AMD 5000 |  **R5 5600 ~£125**  | **R7 5800X ~£200**   |
 |          |                     | **R7 5700X ~£170**   |
-| AMD 3000 | **R5 3600 ~£40**    |
+| AMD 3000 | **R5 3600 ~£40^**    |
 
 ### Comparison Table
 
