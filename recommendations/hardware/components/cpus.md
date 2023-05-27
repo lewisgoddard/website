@@ -131,12 +131,16 @@ _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, o
 | 7950X3D | 16 | 32 | {% assign cpu = site.data.cpus['7950X3D'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 
 <script>
-var el = document.getElementsByTagName("td");
+var el = document.getElementsByTagName("td")
 for (var i = 0; i < el.length; i++) {
   if (el[i].innerHTML == "S") {
-    el[i].className += " " + "color-flatui-wisteria";
-  } elif (el[i].innerHTML == "A") {
-    el[i].className += " " + "color-flatui-belize-hole";
+    el[i].className += " " + "color-flatui-wisteria"
+  } else if (el[i].innerHTML == "A") {
+    el[i].className += " " + "color-flatui-belize-hole"
+  } else if (el[i].innerHTML == "B") {
+    el[i].className += " " + "color-flatui-green-sea"
+  } else if (el[i].innerHTML == "C") {
+    el[i].className += " " + "color-flatui-nephritis"
   } 
 }
 </script>
