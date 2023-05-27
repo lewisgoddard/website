@@ -3,7 +3,7 @@ title: CPUs
 breadcrumb: cpus
 ---
 
-_This page is for Desktop and Server class CPUs. For mobile CPUs see [Laptops](../laptops) and [Tablets](../tablets)._
+_This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../laptops) and [Tablets](../tablets)._
 
 ## Quick Look
 
