@@ -126,10 +126,13 @@ _**Bold** for better value near prices shown._
 | 7950X3D | 16 | 32 | {% assign cpu = site.data.cpus['7950X3D'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 
 
-- _* Uses PCIe gen 3.0, restrictive as to which GPUs perform appropriately._
-- _**IMPORTANT:** Rating does not account for Motherboard / RAM affordability, differing types of usability and existence of integrated graphics, or available upgrade paths. It is only based on a performance to price ratio that may be heavily outdated._
-- _Note: Does not include Intel T-type SKUs or models below i3, like Pentium or Celeron, or workstation-socket CPUs like Xeon._
-- _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, or workstation-socket CPUs like Threadripper._
+_* Uses PCIe gen 3.0, restrictive as to which GPUs perform appropriately._
+
+_**IMPORTANT:** Rating does not account for Motherboard / RAM affordability, differing types of usability and existence of integrated graphics, or available upgrade paths. It is only based on a performance to price ratio that may be heavily outdated._
+
+_Note: Does not include Intel T-type SKUs or models below i3, like Pentium or Celeron, or workstation-socket CPUs like Xeon._
+
+_Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, or workstation-socket CPUs like Threadripper._
 
 <script>
 var el = document.getElementsByTagName("td")
