@@ -27,13 +27,11 @@ _**Bold** for better value near prices shown._
 | Family   | Basic Productivity | Medium Productivity | High Productivity  |
 |----------|--------------------|---------------------|--------------------|
 | Intel 13 | i3 13100 ~£140     | **i5 13500 ~£240**  | i9 13900 ~£550     |
-|          |                    | **i5 13400 ~£210**  | **i7 13700 ~£380** |
-| Intel 12 | **i5 12400 ~£175** |
-|          | i3 12100 ~£120     |
-| AMD 7000 |                    | R7 7700 ~£300       | R9 7950X ~£530     |
-|          |                    | R5 7600 ~£220       | R9 7900 ~£400      |
-| AMD 5000 | R7 5700G ~£170     |
-|          | R5 5600G ~£110     |
+|          |                    | i5 13400 ~£210      | i7 13700 ~£380     |
+| Intel 12 | **i3 12100 ~£120** | **i5 12400 ~£175**  |
+| AMD 7000 |                    | R7 7700 ~£300       | **R9 7950X ~£530** |
+|          |                    | R5 7600 ~£220       | **R9 7900 ~£400**  |
+| AMD 5000 | **R5 5600G ~£110** | **R7 5700G ~£170**  |
 | AMD 4000 | **R5 4600G ~£90**  |
 
 ### Gaming
@@ -44,16 +42,15 @@ _**Bold** for better value near prices shown._
 
 | Family   | Low Gaming          | Medium Gaming        | High Gaming          | 
 |----------|---------------------|----------------------|----------------------|
-| Intel 13 | i3 13100F ~£110     | **i5 13600KF ~£280** | i9 13900KF ~£520     |
-|          |                     | **i5 13500 ~£240**   | **i7 13700KF ~£380** |
+| Intel 13 | **i3 13100F ~£110** | i5 13600KF ~£280     | i9 13900KF ~£520     |
+|          |                     | **i5 13500 ~£240**   | i7 13700KF ~£380     |
 |          |                     | **i5 13400F ~£190**  |
-| Intel 12 | **i5 12400F ~£150** | i5 12600KF ~£220     |
+| Intel 12 | i5 12400F ~£150     | i5 12600KF ~£220     |
 |          | **i3 12100F ~£90**  |
 | AMD 7000 |                     | R7 7700X ~£300       | R9 7950X ~£530       |
-|          |                     | R5 7600X ~£230       | R7 7800X3D ~£425     |
-|          |                     |                      | R9 7900X ~£400       |
-| AMD 5000 | R7 5700X ~£170      | R7 5800X ~£200       |
-|          | R5 5600 ~£125       |
+|          |                     | **R5 7600X ~£230**   | R9 7900X ~£400       |
+| AMD 5000 |  **R5 5600 ~£125**  | **R7 5800X ~£200**   |
+|          |                     | **R7 5700X ~£170**   |
 | AMD 3000 | **R5 3600 ~£40**    |
 
 ### Comparison Table
@@ -103,9 +100,9 @@ _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, o
 | 3300X | 4 | 8 | {% assign cpu = site.data.cpus['3300X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 4500 | 6 | 12 | {% assign cpu = site.data.cpus['4500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5500 | 6 | 12 | {% assign cpu = site.data.cpus['5500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 3600XT | 6 | 12 | {% assign cpu = site.data.cpus['3600XT'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3600 | 6 | 12 | {% assign cpu = site.data.cpus['3600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3600X | 6 | 12 | {% assign cpu = site.data.cpus['3600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 3600XT | 6 | 12 | {% assign cpu = site.data.cpus['3600XT'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 4600G | 6 | 12 | {% assign cpu = site.data.cpus['4600G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5600 | 6 | 12 | {% assign cpu = site.data.cpus['5600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5600G | 6 | 12 | {% assign cpu = site.data.cpus['5600G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
