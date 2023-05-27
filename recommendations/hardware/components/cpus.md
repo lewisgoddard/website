@@ -60,8 +60,14 @@ _**Bold** for better value near prices shown._
 
 _Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
 
-| SKU | Cores | Threads | TDP | Single Core | Multi Core | Rating |
-|-----|-------|---------|-----|-------------|------------|--------|
+{% assign cpu = site.data.cpus['12100'] %}
+{{ cpu.tdp }}
+{{ cpu.thread }}
+{{ cpu.score }}
+{{ cpu.price }}
+
+| SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
+|-----|-------|---------|-----|-------------|------------|----------------|
 | 12100 | 4+0 | 8 | 60 W | 
 | 12100F | 4+0 | 8 | 58 W | 
 | 12400 | 6+0 | 12 | 65 W | 
@@ -95,7 +101,7 @@ _Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
 | 13900F | 8+16 | 32 | 65 W | 
 | 13900K| 8+16 | 32 | 125 W | 
 | 13900KF | 8+16 | 32 | 125 W | 
-| 13900KS | 8+16 | 32 | 150 W | 
+| 13900KS | 8+16 | 32 | 150 W |
 
 ## Intel
 
