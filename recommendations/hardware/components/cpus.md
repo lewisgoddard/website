@@ -62,7 +62,7 @@ _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, o
 
 | SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
 |-----|-------|---------|-----|-------------|------------|-------|--------|
-| 12100   | 4+0 | 8 | {% assign cpu = site.data.cpus['12100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 12100   | 4+0 | 8 | {% include cpu-row.html cpu="12100" %}
 | 12100F  | 4+0 | 8 | {% assign cpu = site.data.cpus['12100F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 13100   | 4+0 | 8 | {% assign cpu = site.data.cpus['13100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 13100F  | 4+0 | 8 | {% assign cpu = site.data.cpus['13100F'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
