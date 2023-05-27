@@ -1,11 +1,13 @@
 - Recommendations
 - - Hardware
 - - - Components
-- - - - CPUs
+- - - - ~CPUs~
 - - - - GPUs
 - - - - RAM / Memory
 - - - - Storage (HDDs + SSDs)
 - - - - Cases / Fans / Coolers / PSUs
+- - - - Workstation/Server CPUs
+- - - - Workstation/Server GPUs
 - - - Peripherals
 - - - Laptops
 - - - Tablets
