@@ -8,7 +8,9 @@
         "score": "11,645",
         "thread": "2,422",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "D",
+        "value": "1376"
     },
     "3600": {
         "price": "£99.00",
@@ -19,7 +21,9 @@
         "score": "17,796",
         "thread": "2,569",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "S",
+        "value": "2836"
     },
     "4100": {
         "price": "£62.99",
@@ -30,7 +34,9 @@
         "score": "11,160",
         "thread": "2,539",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "S",
+        "value": "3384"
     },
     "4500": {
         "price": "£67.27",
@@ -41,7 +47,9 @@
         "score": "16,222",
         "thread": "2,603",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "S",
+        "value": "3959"
     },
     "5500": {
         "price": "£87.60",
@@ -52,7 +60,9 @@
         "score": "19,624",
         "thread": "3,066",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "S",
+        "value": "3640"
     },
     "5600": {
         "price": "£126.48",
@@ -63,7 +73,9 @@
         "score": "21,642",
         "thread": "3,259",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "S",
+        "value": "2742"
     },
     "7600": {
         "price": "£217.02",
@@ -74,7 +86,9 @@
         "score": "27,973",
         "thread": "4,009",
         "tdp2": "65",
-        "socket": "AM5 (LGA 1718)"
+        "socket": "AM5 (LGA 1718)",
+        "rating": "B",
+        "value": "2028"
     },
     "7700": {
         "price": "£306.50",
@@ -85,7 +99,9 @@
         "score": "35,615",
         "thread": "4,165",
         "tdp2": "65",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "C",
+        "value": "1706"
     },
     "7900": {
         "price": "£401.73",
@@ -96,7 +112,9 @@
         "score": "49,309",
         "thread": "4,214",
         "tdp2": "65",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "C",
+        "value": "1647"
     },
     "12100": {
         "price": "£118.79",
@@ -107,7 +125,9 @@
         "score": "13,862",
         "thread": "3,492",
         "tdp2": "60",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "A",
+        "value": "2343"
     },
     "12400": {
         "price": "£159.97",
@@ -118,7 +138,9 @@
         "score": "19,533",
         "thread": "3,549",
         "tdp2": "65",
-        "socket": "LGA 1700"
+        "socket": "LGA 1700",
+        "rating": "B",
+        "value": "2108"
     },
     "12500": {
         "price": "£219.44",
@@ -129,7 +151,9 @@
         "score": "19,943",
         "thread": "3,722",
         "tdp2": "65",
-        "socket": "LGA 1700"
+        "socket": "LGA 1700",
+        "rating": "C",
+        "value": "1587"
     },
     "12600": {
         "price": "£250.00",
@@ -140,7 +164,9 @@
         "score": "21,480",
         "thread": "3,846",
         "tdp2": "65",
-        "socket": "LGA 1700"
+        "socket": "LGA 1700",
+        "rating": "D",
+        "value": "1475"
     },
     "12700": {
         "price": "£304.99",
@@ -151,7 +177,9 @@
         "score": "31,140",
         "thread": "3,939",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1538"
     },
     "12900": {
         "price": "£453.82",
@@ -162,7 +190,9 @@
         "score": "34,751",
         "thread": "4,078",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "D",
+        "value": "1125"
     },
     "13100": {
         "price": "£139.54",
@@ -173,7 +203,9 @@
         "score": "15,108",
         "thread": "3,740",
         "tdp2": "60",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "B",
+        "value": "2155"
     },
     "13400": {
         "price": "£211.66",
@@ -184,7 +216,9 @@
         "score": "25,885",
         "thread": "3,702",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1923"
     },
     "13500": {
         "price": "£239.99",
@@ -195,7 +229,9 @@
         "score": "32,672",
         "thread": "3,952",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "B",
+        "value": "2020"
     },
     "13700": {
         "price": "£373.48",
@@ -206,7 +242,9 @@
         "score": "39,002",
         "thread": "4,163",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "D",
+        "value": "1490"
     },
     "13900": {
         "price": "£551.22",
@@ -217,7 +255,9 @@
         "score": "49,386",
         "thread": "4,387",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "D",
+        "value": "1214"
     },
     "G7400": {
         "price": "£90.30",
@@ -228,7 +268,9 @@
         "score": "6,792",
         "thread": "3,050",
         "tdp2": "46",
-        "socket": "LGA1700,BGA1700"
+        "socket": "LGA1700,BGA1700",
+        "rating": "B",
+        "value": "2103"
     },
     "13900KS": {
         "price": "£796.49",
@@ -239,7 +281,9 @@
         "score": "62,573",
         "thread": "4,796",
         "tdp2": "125",
-        "socket": "Unknown"
+        "socket": "Unknown",
+        "rating": "D",
+        "value": "1026"
     },
     "13900KF": {
         "price": "£511.36",
@@ -250,7 +294,9 @@
         "score": "59,584",
         "thread": "4,688",
         "tdp2": "125",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1532"
     },
     "13900K": {
         "price": "£549.98",
@@ -261,7 +307,9 @@
         "score": "60,020",
         "thread": "4,680",
         "tdp2": "125",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "D",
+        "value": "1432"
     },
     "13900F": {
         "price": "£532.25",
@@ -272,7 +320,9 @@
         "score": "51,500",
         "thread": "4,537",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "D",
+        "value": "1309"
     },
     "12900KS": {
         "price": "£463.82",
@@ -283,7 +333,9 @@
         "score": "44,349",
         "thread": "4,365",
         "tdp2": "150",
-        "socket": "LGA 1700"
+        "socket": "LGA 1700",
+        "rating": "D",
+        "value": "1333"
     },
     "12900KF": {
         "price": "£397.98",
@@ -294,7 +346,9 @@
         "score": "41,429",
         "thread": "4,189",
         "tdp2": "241",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "D",
+        "value": "1462"
     },
     "12900K": {
         "price": "£365.98",
@@ -305,7 +359,9 @@
         "score": "41,602",
         "thread": "4,203",
         "tdp2": "241",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1596"
     },
     "12900F": {
         "price": "£436.79",
@@ -316,7 +372,9 @@
         "score": "37,264",
         "thread": "4,100",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "D",
+        "value": "1229"
     },
     "13700KF": {
         "price": "£374.59",
@@ -327,7 +385,9 @@
         "score": "46,859",
         "thread": "4,388",
         "tdp2": "125",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1720"
     },
     "13700K": {
         "price": "£376.18",
@@ -338,7 +398,9 @@
         "score": "47,056",
         "thread": "4,396",
         "tdp2": "125",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1718"
     },
     "13700F": {
         "price": "£357.04",
@@ -349,7 +411,9 @@
         "score": "41,831",
         "thread": "4,257",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1649"
     },
     "12700KF": {
         "price": "£262.08",
@@ -360,7 +424,9 @@
         "score": "34,589",
         "thread": "4,046",
         "tdp2": "190",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1937"
     },
     "12700K": {
         "price": "£297.97",
@@ -371,7 +437,9 @@
         "score": "34,805",
         "thread": "4,056",
         "tdp2": "190",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1713"
     },
     "12700F": {
         "price": "£278.99",
@@ -382,7 +450,9 @@
         "score": "31,193",
         "thread": "3,931",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1682"
     },
     "13600KF": {
         "price": "£281.00",
@@ -393,7 +463,9 @@
         "score": "38,419",
         "thread": "4,185",
         "tdp2": "125",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1963"
     },
     "13600K": {
         "price": "£289.99",
@@ -404,7 +476,9 @@
         "score": "38,507",
         "thread": "4,182",
         "tdp2": "125",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1905"
     },
     "13400F": {
         "price": "£195.97",
@@ -415,7 +489,9 @@
         "score": "25,959",
         "thread": "3,701",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "B",
+        "value": "2080"
     },
     "12600KF": {
         "price": "£225.25",
@@ -426,7 +502,9 @@
         "score": "27,474",
         "thread": "3,949",
         "tdp2": "150",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1921"
     },
     "12600K": {
         "price": "£233.63",
@@ -437,7 +515,9 @@
         "score": "27,838",
         "thread": "3,973",
         "tdp2": "150",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "C",
+        "value": "1872"
     },
     "12400F": {
         "price": "£151.00",
@@ -448,7 +528,9 @@
         "score": "19,751",
         "thread": "3,544",
         "tdp2": "65",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "B",
+        "value": "2247"
     },
     "13100F": {
         "price": "£106.94",
@@ -459,7 +541,9 @@
         "score": "15,202",
         "thread": "3,703",
         "tdp2": "58",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "S",
+        "value": "2807"
     },
     "12100F": {
         "price": "£88.14",
@@ -470,7 +554,9 @@
         "score": "14,289",
         "thread": "3,494",
         "tdp2": "58",
-        "socket": "FCLGA1700"
+        "socket": "FCLGA1700",
+        "rating": "S",
+        "value": "3207"
     },
     "G6900": {
         "price": "£62.78",
@@ -481,7 +567,9 @@
         "score": "4,481",
         "thread": "2,707",
         "tdp2": "46",
-        "socket": "LGA1700,BGA1700"
+        "socket": "LGA1700,BGA1700",
+        "rating": "A",
+        "value": "2439"
     },
     "3990X": {
         "price": "£3534.31",
@@ -492,7 +580,9 @@
         "score": "81,169",
         "thread": "2,568",
         "tdp2": "280",
-        "socket": "sTRX4"
+        "socket": "sTRX4",
+        "rating": "F",
+        "value": "259"
     },
     "3970X": {
         "price": "£2650.00",
@@ -503,7 +593,9 @@
         "score": "63,435",
         "thread": "2,677",
         "tdp2": "280",
-        "socket": "sTRX4"
+        "socket": "sTRX4",
+        "rating": "F",
+        "value": "280"
     },
     "3960X": {
         "price": "£1332.90",
@@ -514,7 +606,9 @@
         "score": "54,828",
         "thread": "2,677",
         "tdp2": "280",
-        "socket": "sTRX4"
+        "socket": "sTRX4",
+        "rating": "F",
+        "value": "492"
     },
     "7950X3D": {
         "price": "£661.97",
@@ -525,7 +619,9 @@
         "score": "63,519",
         "thread": "4,228",
         "tdp2": "120",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "D",
+        "value": "1215"
     },
     "7950X": {
         "price": "£522.15",
@@ -536,7 +632,9 @@
         "score": "63,628",
         "thread": "4,327",
         "tdp2": "170",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "C",
+        "value": "1550"
     },
     "7900X3D": {
         "price": "£538.88",
@@ -547,7 +645,9 @@
         "score": "51,312",
         "thread": "4,140",
         "tdp2": "120",
-        "socket": "AM5 (LGA 1718)"
+        "socket": "AM5 (LGA 1718)",
+        "rating": "D",
+        "value": "1260"
     },
     "7900X": {
         "price": "£389.88",
@@ -558,7 +658,9 @@
         "score": "52,491",
         "thread": "4,330",
         "tdp2": "170",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "C",
+        "value": "1791"
     },
     "5950X": {
         "price": "£419.99",
@@ -569,7 +671,9 @@
         "score": "45,931",
         "thread": "3,470",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "D",
+        "value": "1424"
     },
     "5900X": {
         "price": "£303.97",
@@ -580,7 +684,9 @@
         "score": "39,313",
         "thread": "3,471",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "C",
+        "value": "1750"
     },
     "3950X": {
         "price": "£565.00",
@@ -591,7 +697,9 @@
         "score": "38,971",
         "thread": "2,710",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "E",
+        "value": "882"
     },
     "3900XT": {
         "price": "£470.00",
@@ -602,7 +710,9 @@
         "score": "32,788",
         "thread": "2,751",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "E",
+        "value": "932"
     },
     "3900X": {
         "price": "£477.41",
@@ -613,7 +723,9 @@
         "score": "32,724",
         "thread": "2,707",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "E",
+        "value": "912"
     },
     "7800X3D": {
         "price": "£426.36",
@@ -624,7 +736,9 @@
         "score": "35,114",
         "thread": "3,796",
         "tdp2": "120",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "D",
+        "value": "1180"
     },
     "7700X": {
         "price": "£297.26",
@@ -635,7 +749,9 @@
         "score": "36,549",
         "thread": "4,276",
         "tdp2": "105",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "C",
+        "value": "1805"
     },
     "5800X3D": {
         "price": "£293.00",
@@ -646,7 +762,9 @@
         "score": "28,169",
         "thread": "3,213",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "D",
+        "value": "1400"
     },
     "5800X": {
         "price": "£196.96",
@@ -657,7 +775,9 @@
         "score": "28,074",
         "thread": "3,447",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "B",
+        "value": "2125"
     },
     "5700X": {
         "price": "£165.97",
@@ -668,7 +788,9 @@
         "score": "26,827",
         "thread": "3,385",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "A",
+        "value": "2432"
     },
     "5700G": {
         "price": "£161.97",
@@ -679,7 +801,9 @@
         "score": "24,689",
         "thread": "3,287",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "A",
+        "value": "2336"
     },
     "3800XT": {
         "price": "£299.00",
@@ -690,7 +814,9 @@
         "score": "23,741",
         "thread": "2,809",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "D",
+        "value": "1170"
     },
     "3800X": {
         "price": "£358.46",
@@ -701,7 +827,9 @@
         "score": "23,255",
         "thread": "2,721",
         "tdp2": "105",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "E",
+        "value": "952"
     },
     "3700X": {
         "price": "£233.14",
@@ -712,7 +840,9 @@
         "score": "22,667",
         "thread": "2,664",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "D",
+        "value": "1429"
     },
     "7600X": {
         "price": "£226.58",
@@ -723,7 +853,9 @@
         "score": "28,964",
         "thread": "4,222",
         "tdp2": "105",
-        "socket": "AM5"
+        "socket": "AM5",
+        "rating": "B",
+        "value": "2024"
     },
     "5600X": {
         "price": "£154.38",
@@ -734,7 +866,9 @@
         "score": "21,959",
         "thread": "3,359",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "B",
+        "value": "2293"
     },
     "5600G": {
         "price": "£119.99",
@@ -745,7 +879,9 @@
         "score": "19,931",
         "thread": "3,187",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "S",
+        "value": "2723"
     },
     "4600G": {
         "price": "£87.64",
@@ -756,7 +892,9 @@
         "score": "15,936",
         "thread": "2,664",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "S",
+        "value": "3034"
     },
     "3600XT": {
         "price": "£495.00",
@@ -767,7 +905,9 @@
         "score": "18,715",
         "thread": "2,770",
         "tdp2": "95",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "E",
+        "value": "602"
     },
     "3600X": {
         "price": "£294.44",
@@ -778,7 +918,9 @@
         "score": "18,257",
         "thread": "2,658",
         "tdp2": "95",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "E",
+        "value": "981"
     },
     "3300X": {
         "price": "£246.98",
@@ -789,6 +931,8 @@
         "score": "12,692",
         "thread": "2,678",
         "tdp2": "65",
-        "socket": "AM4"
+        "socket": "AM4",
+        "rating": "E",
+        "value": "948"
     }
 }
