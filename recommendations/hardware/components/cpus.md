@@ -53,7 +53,28 @@ _**Bold** for better value near prices shown._
 |          |                     | **R7 5700X ~£170**   |
 | AMD 3000 | **R5 3600 ~£40^**   |
 
-### Comparison Table
+## Intel
+
+I have heard that generational improvement of Intel silicon is largely down to pushing more power for diminishing returns. While this adage may have been true for a time (14nm was almost exclusively in use from 5th gen / 2014 - 10th gen 2019) it no longer holds true. 12th gen Intel (Alder Lake) brought with them a new 10nm process and a move to a new naming scheme for such processes in line with AMDs naming, thus "Intel 7". It also brought a bit.LITTLE style core arrangement, with single-thread efficiency cores coupled with the existing dual-thread performance cores and continued DDR4 support throwing a substantial wrench in AMDs move towards price parity as a true competitor. 13th gen Intel (Raptor Lake) brought mild improvements to IPC and expanded the number of efficiency cores over most of the range.
+
+### Modifiers
+
+####  F SKUs
+- Lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware that Intel Quicksync can noticeably speed up any video transcode you might do.
+- For: Gamers that do not stream or encode video.
+- Not For: People without a dedicated GPU, streamers or video editors.
+
+#### K SKUs 
+- Unlocked for overclocking only on the top chipset motherboards available. Outside of that they typically only add a small amount of additional boost, the exception being the 12600K which adds 4 efficiency cores.
+- For: Gamers on the highest motherboard chipset, or people with good cooling who want a little more performance.
+- Not For: Everyone else.
+
+#### S SKUs
+- Slightly higher clocks at a much higher price.
+- For: Top-teir builds that have nowhere else to upgrade to.
+- Not For: Everyone else.
+
+## Comparison Table
 
 | SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
 |-----|-------|---------|-----|-------------|------------|-------|--------|
@@ -154,28 +175,6 @@ for (var i = 0; i < el.length; i++) {
   } 
 }
 </script>
-
-## Intel
-
-I have heard that generational improvement of Intel silicon is largely down to pushing more power for diminishing returns. While this adage may have been true for a time (14nm was almost exclusively in use from 5th gen / 2014 - 10th gen 2019) it no longer holds true. 12th gen Intel (Alder Lake) brought with them a new 10nm process and a move to a new naming scheme for such processes in line with AMDs naming, thus "Intel 7". It also brought a bit.LITTLE style core arrangement, with single-thread efficiency cores coupled with the existing dual-thread performance cores and continued DDR4 support throwing a substantial wrench in AMDs move towards price parity as a true competitor. 13th gen Intel (Raptor Lake) brought mild improvements to IPC and expanded the number of efficiency cores over most of the range.
-
-### Modifiers
-
-####  F SKUs
-- Lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware that Intel Quicksync can noticeably speed up any video transcode you might do.
-- For: Gamers that do not stream or encode video.
-- Not For: People without a dedicated GPU, streamers or video editors.
-
-#### K SKUs 
-- Unlocked for overclocking only on the top chipset motherboards available. Outside of that they typically only add a small amount of additional boost, the exception being the 12600K which adds 4 efficiency cores.
-- For: Gamers on the highest motherboard chipset, or people with good cooling who want a little more performance.
-- Not For: Everyone else.
-
-#### S SKUs
-- Slightly higher clocks at a much higher price.
-- For: Top-teir builds that have nowhere else to upgrade to.
-- Not For: Everyone else.
-
 #### T SKUs
 - Much lower TDP with most of the performance.
 - For: Extreamly small builds that are not too concerned with performance.
