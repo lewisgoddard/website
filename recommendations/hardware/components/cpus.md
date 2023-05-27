@@ -201,7 +201,3 @@ I have heard that generational improvement of Intel silicon is largely down to p
 
 #### X3D SKUs
 - Triple cache on the CPU for improvements in some, specific applications. 
-
-## ARM
-
-## Apple
