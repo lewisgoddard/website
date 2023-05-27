@@ -176,7 +176,8 @@ I have heard that generational improvement of Intel silicon is largely down to p
 - For: Top-teir builds that have nowhere else to upgrade to.
 - Not For: Everyone else.
 
-#### T SKUs 
+#### T SKUs
+- Much lower TDP with most of the performance.
 - For: Extreamly small builds that are not too concerned with performance.
 - Not For: Everyone else.
 
