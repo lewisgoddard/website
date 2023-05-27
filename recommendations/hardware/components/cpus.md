@@ -11,10 +11,10 @@ _**Bold** for better value near prices shown._
 
 - AMD X3D can perform below the cheaper non-X3D variants of the same CPUs in many situations, despite costing significantly more. It is an application-specific buy-in, only for high end machines.
 - AMD 7000 is difficult to recommend due to only supporting DDR5 memory, a substantial additional expense outside of the highest end machines.
-- AMD 5000 is a good all rounder, but does not compete with the latest Intel chips.
-- AMD 4000 is generally poor for gaming, but offers good value for bargain-grade productivity.
+- AMD 5000 was a good all rounder, but is at the end of its platform, offering no upgrade path.
+- AMD 4000 is generally poor for gaming due to the exclusive use of PCIe 3.0, but offers good value for bargain-grade productivity.
 - AMD 3000 can still offer good gaming performance, and bought used sits on a platform with a known-good upgrade path at excellent value for money.
-- Intel 13 improves on Intel 12 mostly by adding more efficency cores, and moving them further down the stack where they add even more relative benefit.
+- Intel 13 improves on Intel 12 mostly by adding more efficency cores, and moving them further down the stack where they add even more relative benefit. This does come at a cost (the cost is money).
 - Intel 12 added big.LITTLE core architecture to their 10nm process, and shows the first real re-think of Intel for several years.
 - Anything prior to Intel 12 is a member of a platform with a known-bad last release (Intel 11) and is lacking substantial improvements made recently.
 
@@ -29,8 +29,8 @@ _**Bold** for better value near prices shown._
 | Intel 13 | i3 13100 ~£140     | **i5 13500 ~£240**  | i9 13900 ~£550     |
 |          |                    | i5 13400 ~£210      | i7 13700 ~£380     |
 | Intel 12 | **i3 12100 ~£120** | **i5 12400 ~£175**  |
-| AMD 7000 |                    | R7 7700 ~£300       | **R9 7950X ~£530** |
-|          |                    | R5 7600 ~£220       | **R9 7900 ~£400**  |
+| AMD 7000 |                    | R7 7700 ~£300       | R9 7950X ~£530     |
+|          |                    | R5 7600 ~£220       | R9 7900 ~£400      |
 | AMD 5000 | **R5 5600G ~£110** | **R7 5700G ~£170**  |
 | AMD 4000 | **R5 4600G ~£90**  |
 
@@ -54,10 +54,6 @@ _**Bold** for better value near prices shown._
 | AMD 3000 | **R5 3600 ~£40^**    |
 
 ### Comparison Table
-
-- **IMPORTANT:** Rating does not account for Motherboard / RAM affordability, differing types of usability and existence of integrated graphics, or available upgrade paths. It is only based on a performance to price ratio that may be heavily outdated.
-- _Note: Does not include Intel T-type SKUs or models below i3, like Pentium or Celeron, or workstation-socket CPUs like Xeon._
-- _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, or workstation-socket CPUs like Threadripper._
 
 | SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
 |-----|-------|---------|-----|-------------|------------|-------|--------|
@@ -105,14 +101,14 @@ _**Bold** for better value near prices shown._
 | 3900X | 12 | 24 | {% assign cpu = site.data.cpus['3900X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3900XT | 12 | 24 | {% assign cpu = site.data.cpus['3900XT'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3950X | 16 | 32 | {% assign cpu = site.data.cpus['3950X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 4100 | 4 | 8 | {% assign cpu = site.data.cpus['4100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 4500 | 6 | 12 | {% assign cpu = site.data.cpus['4500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 4600G | 6 | 12 | {% assign cpu = site.data.cpus['4600G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 5500 | 6 | 12 | {% assign cpu = site.data.cpus['5500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 4100* | 4 | 8 | {% assign cpu = site.data.cpus['4100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 4500* | 6 | 12 | {% assign cpu = site.data.cpus['4500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 4600G* | 6 | 12 | {% assign cpu = site.data.cpus['4600G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 5500* | 6 | 12 | {% assign cpu = site.data.cpus['5500'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5600 | 6 | 12 | {% assign cpu = site.data.cpus['5600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 5600G | 6 | 12 | {% assign cpu = site.data.cpus['5600G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 5600G* | 6 | 12 | {% assign cpu = site.data.cpus['5600G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5600X | 6 | 12 | {% assign cpu = site.data.cpus['5600X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 5700G | 8 | 16 | {% assign cpu = site.data.cpus['5700G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 5700G* | 8 | 16 | {% assign cpu = site.data.cpus['5700G'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5700X | 8 | 16 | {% assign cpu = site.data.cpus['5700X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5800X | 8 | 16 | {% assign cpu = site.data.cpus['5800X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 5800X3D | 8 | 16 | {% assign cpu = site.data.cpus['5800X3D'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
@@ -128,6 +124,11 @@ _**Bold** for better value near prices shown._
 | 7900X3D | 12 | 24 | {% assign cpu = site.data.cpus['7900X3D'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 7950X | 16 | 32 | {% assign cpu = site.data.cpus['7950X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 7950X3D | 16 | 32 | {% assign cpu = site.data.cpus['7950X3D'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+
+- _* Uses PCIe gen 3.0, restrictive as to which GPUs perform appropriately._
+- _**IMPORTANT:** Rating does not account for Motherboard / RAM affordability, differing types of usability and existence of integrated graphics, or available upgrade paths. It is only based on a performance to price ratio that may be heavily outdated._
+- _Note: Does not include Intel T-type SKUs or models below i3, like Pentium or Celeron, or workstation-socket CPUs like Xeon._
+- _Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon, or workstation-socket CPUs like Threadripper._
 
 <script>
 var el = document.getElementsByTagName("td")
