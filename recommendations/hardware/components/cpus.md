@@ -58,9 +58,8 @@ _**Bold** for better value near prices shown._
 
 ### Comparison Table
 
-_Does not include Intel T-type SKUs or below i3 models like Pentium or Celeron._
-
-
+_Note: Does not include Intel T-type SKUs or models below i3, like Pentium or Celeron._
+_Note: Does not include AMD GE-type SKUs or models below Ryzen 3, like Athlon._
 
 | SKU | Cores | Threads | TDP | Single Core | Multi Core | Price | Rating |
 |-----|-------|---------|-----|-------------|------------|-------|--------|
