@@ -141,7 +141,7 @@ I have heard that generational improvement of Intel silicon is largely down to p
 | 3100 | 4 | 8 | {% assign cpu = site.data.cpus['3100'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3300X | 4 | 8 | {% assign cpu = site.data.cpus['3300X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3600 | 6 | 12 | {% assign cpu = site.data.cpus['3600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
-| 3600X | 6 | 12 | {% assign cpu = site.data.cpus['3600'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
+| 3600X | 6 | 12 | {% assign cpu = site.data.cpus['3600X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3600XT | 6 | 12 | {% assign cpu = site.data.cpus['3600XT'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3700X | 8 | 16 | {% assign cpu = site.data.cpus['3700X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
 | 3800X | 8 | 16 | {% assign cpu = site.data.cpus['3800X'] %}{{ cpu.tdp }} | {{ cpu.thread }} | {{ cpu.score }} | {{ cpu.price }} | {{ cpu.rating }} |
