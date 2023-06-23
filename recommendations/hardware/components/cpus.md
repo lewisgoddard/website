@@ -11,11 +11,6 @@ _**Bold** for better value near prices shown._
 
 ### Productivity
 
-- Basic: Web Browsing, light office Work.
-- Medium: Substantial multi-tasking, photo-editing, mid-size excel sheets.
-- High: Video editing, light CAD work, massive excel sheets.
-- Ultra: Video editing, heavy CAD work, excel sheets that run entire financial institutions.
-
 | Generation | Family SKU | Cores | Price | Best for |
 |------------|------------|-------|-------|----------|
 | Intel 13 | i5 13900 | 32 / 8+16 | ~£550 | Ultra |
@@ -35,11 +30,12 @@ _**Bold** for better value near prices shown._
 |  | **R5 5600G** | 12 / 6 | **~£110** | Basic |
 | AMD 4000 | **R5 4600G** | 12 / 6 | **~£90** | Basic |
 
-### Gaming
+- Basic: Web Browsing, light office Work.
+- Medium: Substantial multi-tasking, photo-editing, mid-size excel sheets.
+- High: Video editing, light CAD work, massive excel sheets.
+- Ultra: Video editing, heavy CAD work, excel sheets that run entire financial institutions.
 
-- Low: 1080p VRR or 1440p capped
-- Medium: 1440p VRR or 4k capped
-- High: 4k VRR
+### Gaming
 
 | Family   | Low Gaming          | Medium Gaming        | High Gaming          | 
 |----------|---------------------|----------------------|----------------------|
@@ -52,6 +48,10 @@ _**Bold** for better value near prices shown._
 | AMD 5000 |  **R5 5600 ~£125**  | **R7 5800X ~£200**   |
 |          |                     | **R7 5700X ~£170**   |
 | AMD 3000 | **R5 3600 ~£40^**   |
+
+- Low: 1080p VRR or 1440p capped
+- Medium: 1440p VRR or 4k capped
+- High: 4k VRR
 
 ### Notes
 
