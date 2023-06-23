@@ -36,18 +36,25 @@ _**Bold** for better value near prices shown._
 - Ultra: Video editing, heavy CAD work, excel sheets that run entire financial institutions.
 
 ### Gaming
-
-| Family   | Low Gaming          | Medium Gaming        | High Gaming          | 
-|----------|---------------------|----------------------|----------------------|
-| Intel 13 | i5 13400F ~£190     | i5 13600KF ~£280     | i9 13900KF ~£520     |
-|          | **i3 13100F ~£110** | **i5 13500 ~£240**   | i7 13700KF ~£380     |
-| Intel 12 | i5 12400F ~£150     | i5 12600KF ~£220     |
-|          | **i3 12100F ~£90**  |
-| AMD 7000 |                     | R7 7700X ~£300       | R9 7950X ~£530       |
-|          |                     | **R5 7600X ~£230**   | R9 7900X ~£400       |
-| AMD 5000 |  **R5 5600 ~£125**  | **R7 5800X ~£200**   |
-|          |                     | **R7 5700X ~£170**   |
-| AMD 3000 | **R5 3600 ~£40^**   |
+| Generation | Family SKU | Cores | Price | Best for |
+|------------|------------|-------|-------|----------|
+| Intel 13 | i5 13900KF | 32 / 8+16 | ~£520 | High |
+|  | i5 13700KF | 24 / 8+8 | ~£380 | High |
+|  | i5 13600KF | 20 / 6+8 | ~£280 | High |
+|  | **i5 13500** | 20 / 6+8 | **~£240** | Medium |
+|  | i5 13400F | 16 / 6+4 | ~£190 | Medium |
+|  | **i5 13100F** | 8 / 4+0 | **~£110** | Basic |
+| Intel 12 | i5 12600KF | 16 / 6+4 | ~£220 | Medium |
+|  | **i5 12400** | 12 / 6+0 | **~£150** | Basic |
+|  | **i5 12100F** | 8 / 4+0 | **~£90** | Basic |
+| AMD 7000 | R9 7950X | 32 / 16 | ~£530 | Ultra |
+|  | R9 7900X | 24 / 12 | ~£400 | High |
+|  | R7 7700X | 16 / 8 | ~£300 | Medium |
+|  | **R5 7600X** | 12 / 6 | **~£230** | Medium |
+| AMD 5000 | **R7 5800X** | 16 / 8 | **~£200** | Medium |
+|  | **R5 5700X** | 12 / 6 | **~£170** | Basic |
+|  | **R5 5600** | 12 / 6 | **~£125** | Basic |
+| AMD 3000 | **R5 3600** | 12 / 6 | **~£40^** | Basic |
 
 - Low: 1080p VRR or 1440p capped
 - Medium: 1440p VRR or 4k capped
@@ -73,7 +80,7 @@ I have heard that generational improvement of Intel silicon is largely down to p
 ####  F SKUs
 - Lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware that Intel Quicksync can noticeably speed up any video transcode you might do.
 - For: Gamers that do not stream or encode video.
-- Not For: People without a dedicated GPU, streamers or video editors.
+- Not For: Almost everyone: People without a dedicated GPU, streamers or video editors.
 
 #### K SKUs 
 - Unlocked for overclocking only on the top chipset motherboards available. Outside of that they typically only add a small amount of additional boost, the exception being the 12600K which adds 4 efficiency cores.
@@ -96,8 +103,8 @@ I have heard that generational improvement of Intel silicon is largely down to p
 
 #### G SKUs
 - 5000 series and earlier only: Includes integrated graphics.
-- For: Productivity users lacking dedicated graphics.
-- Not For: Everyone else.
+- Not For: People with graphics cards.
+- For: Everyone else.
 
 #### GE SKUs
 - 5000 series and earlier only: Includes integrated graphics and is high efficiency for a far lower TDP.
