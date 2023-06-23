@@ -3,7 +3,7 @@ title: CPUs
 breadcrumb: cpus
 ---
 
-_This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../laptops) and [Tablets](../tablets)._
+_This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../laptops) and [Tablets](../tablets). For workstation or server CPUs see [Workstations and Server CPUs](./workstations_and_servers_cpus)._
 
 ## Quick Look
 
@@ -61,62 +61,64 @@ _**Bold** for better value near prices shown._
 - Medium: 1440p VRR or 4k capped
 - High: 4k VRR
 
-### Notes
+_^ Recommended price point is from the used market._
+
+
+## Intel
 
 - Intel 13 improves on Intel 12 mostly by adding more efficency cores, and moving them further down the stack where they add even more relative benefit. This does come at a cost (the cost is money).
 - Intel 12 added big.LITTLE core architecture to their 10nm process, and shows the first real re-think of Intel for several years.
-- Anything prior to Intel 12 is a member of a platform with a known-bad last release (Intel 11) and is lacking substantial improvements made recently.
-- AMD X3D can perform below the cheaper non-X3D variants of the same CPUs in many situations, despite costing significantly more. It is an application-specific buy-in, only for high end machines.
+- Anything prior to Intel 12 is a member of a platform with a known last release (Intel 11) and is lacking substantial improvements made recently.
+
+I have heard that generational improvement of Intel silicon is largely down to pushing more power for diminishing returns. While this adage may have been true for a time (14nm was almost exclusively in use from 5th gen / 2014 - 10th gen 2019) it no longer holds true. 12th gen Intel (Alder Lake) brought with them a new 10nm process and a move to a new naming scheme for such processes in line with AMDs naming, thus "Intel 7". It also brought a bit.LITTLE style core arrangement, with single-thread efficiency cores coupled with the existing dual-thread performance cores and continued DDR4 support throwing a substantial wrench in AMDs move towards price parity as a true competitor. 13th gen Intel (Raptor Lake) brought mild improvements to IPC and expanded the number of efficiency cores over most of the range.
+
+
+## AMD
+
 - AMD 7000 is difficult to recommend due to only supporting DDR5 memory, a substantial additional expense outside of the highest end machines.
 - AMD 5000 was a good all rounder, but is at the end of its platform, offering no upgrade path.
 - AMD 4000 is generally poor for gaming due to the exclusive use of PCIe 3.0, but offers good value for bargain-grade productivity.
 - AMD 3000 can still offer good gaming performance, and bought used sits on a platform with a known-good upgrade path at excellent value for money.
+- AMD X3D can perform below the cheaper non-X3D variants of the same CPUs in many situations, despite costing significantly more. It is an application-specific buy-in, only for high end machines.
 
-## Intel
 
-I have heard that generational improvement of Intel silicon is largely down to pushing more power for diminishing returns. While this adage may have been true for a time (14nm was almost exclusively in use from 5th gen / 2014 - 10th gen 2019) it no longer holds true. 12th gen Intel (Alder Lake) brought with them a new 10nm process and a move to a new naming scheme for such processes in line with AMDs naming, thus "Intel 7". It also brought a bit.LITTLE style core arrangement, with single-thread efficiency cores coupled with the existing dual-thread performance cores and continued DDR4 support throwing a substantial wrench in AMDs move towards price parity as a true competitor. 13th gen Intel (Raptor Lake) brought mild improvements to IPC and expanded the number of efficiency cores over most of the range.
+## Modifiers
 
-### Modifiers
-
-####  F SKUs
+#### Intel F SKUs
 - Lack Intel integrated graphics, either UHD or Xe, neither of which generally perform well. If you have a dedicated GPU, an F SKU will save you a little money, but be aware that Intel Quicksync can noticeably speed up any video transcode you might do.
 - For: Gamers that do not stream or encode video.
 - Not For: Almost everyone: People without a dedicated GPU, streamers or video editors.
 
-#### K SKUs 
+#### Intel K SKUs 
 - Unlocked for overclocking only on the top chipset motherboards available. Outside of that they typically only add a small amount of additional boost, the exception being the 12600K which adds 4 efficiency cores.
 - For: Gamers on the highest motherboard chipset, or people with good cooling who want a little more performance.
 - Not For: Everyone else.
 
-#### S SKUs
+#### Intel S SKUs
 - Slightly higher clocks at a much higher price.
 - For: Top-teir builds that have nowhere else to upgrade to.
 - Not For: Everyone else.
 
-#### T SKUs
+#### Intel T SKUs
 - Much lower TDP with most of the performance.
 - For: Extreamly small builds that are not too concerned with performance.
 - Not For: Everyone else.
 
-## AMD
-
-### Modifiers
-
-#### G SKUs
+#### AMD G SKUs
 - 5000 series and earlier only: Includes integrated graphics.
 - Not For: People with graphics cards.
 - For: Everyone else.
 
-#### GE SKUs
+#### AMD GE SKUs
 - 5000 series and earlier only: Includes integrated graphics and is high efficiency for a far lower TDP.
 
-#### X SKUs
+#### AMD X SKUs
 - Slightly higher clocks, sometimes with no non-X variant available.
 
-#### XT SKUs
+#### AMD XT SKUs
 - Slightly higher clocks, generally poor value.
 
-#### X3D SKUs
+#### AMD X3D SKUs
 - Triple cache on the CPU for improvements in some, specific applications. 
 
 
