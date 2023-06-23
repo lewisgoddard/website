@@ -36,6 +36,7 @@ _**Bold** for better value near prices shown._
 - Ultra: Video editing, heavy CAD work, excel sheets that run entire financial institutions.
 
 ### Gaming
+
 | Generation | Family SKU | Cores | Price | Best for |
 |------------|------------|-------|-------|----------|
 | Intel 13 | i5 13900KF | 32 / 8+16 | ~£520 | High |
