@@ -9,37 +9,37 @@ _This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../laptops) 
 
 _**Bold** for better value near prices shown._
 
-- AMD X3D can perform below the cheaper non-X3D variants of the same CPUs in many situations, despite costing significantly more. It is an application-specific buy-in, only for high end machines.
-- AMD 7000 is difficult to recommend due to only supporting DDR5 memory, a substantial additional expense outside of the highest end machines.
-- AMD 5000 was a good all rounder, but is at the end of its platform, offering no upgrade path.
-- AMD 4000 is generally poor for gaming due to the exclusive use of PCIe 3.0, but offers good value for bargain-grade productivity.
-- AMD 3000 can still offer good gaming performance, and bought used sits on a platform with a known-good upgrade path at excellent value for money.
-- Intel 13 improves on Intel 12 mostly by adding more efficency cores, and moving them further down the stack where they add even more relative benefit. This does come at a cost (the cost is money).
-- Intel 12 added big.LITTLE core architecture to their 10nm process, and shows the first real re-think of Intel for several years.
-- Anything prior to Intel 12 is a member of a platform with a known-bad last release (Intel 11) and is lacking substantial improvements made recently.
-
 ### Productivity
 
 - Basic: Web Browsing, light office Work.
-- Medium: Substantial multi-tasking, photo-editing, larger excel sheets.
-- High: Video Editing, light CAD work, massive excel sheets.
+- Medium: Substantial multi-tasking, photo-editing, mid-size excel sheets.
+- High: Video editing, light CAD work, massive excel sheets.
+- Ultra: Video editing, heavy CAD work, excel sheets that run entire financial institutions.
 
-| Family   | Basic Productivity | Medium Productivity | High Productivity  |
-|----------|--------------------|---------------------|--------------------|
-| Intel 13 | i5 13400 ~£210     | i5 13600K ~£300     | i9 13900 ~£550     |
-|          | i3 13100 ~£140     | i5 13500 ~£240      | i7 13700 ~£380     |
-| Intel 12 | **i5 12400 ~£175** | i5 12600K ~£230     |
-|          | **i3 12100 ~£120** |
-| AMD 7000 |                    | R7 7700 ~£300       | R9 7950X ~£530     |
-|          |                    | R5 7600 ~£220       | R9 7900 ~£400      |
-| AMD 5000 | **R5 5600G ~£110** | **R7 5700G ~£170**  |
-| AMD 4000 | **R5 4600G ~£90**  |
+| Generation | Family SKU | Cores | Price | Best for |
+|------------|------------|-------|-------|----------|
+| Intel 13 | i5 13900 | 32 / 8+16 | ~£550 | Ultra |
+|  | i5 13700 | 24 / 8+8 | ~£380 | High |
+|  | i5 13600K | 20 / 6+8 | ~£300 | High |
+|  | **i5 13500** | 20 / 6+8 | **~£240** | Medium |
+|  | i5 13400 | 16 / 6+4 | ~£210 | Medium |
+|  | i5 13100 | 8 / 4+0 | ~£140 | Basic |
+| Intel 12 | i5 12600K | 16 / 6+4 | ~£230 | Medium |
+|  | **i5 12400** | 12 / 6+0 | **~£175** | Medium |
+|  | **i5 12100** | 8 / 4+0 | **~£120** | Basic |
+| AMD 7000 | R9 7950X | 32 / 16 | ~£530 | Ultra |
+|  | R9 7900 | 24 / 12 | ~£400 | High |
+|  | R7 7700 | 16 / 8 | ~£300 | Medium |
+|  | R5 7600 | 12 / 6 | ~£220 | Medium |
+| AMD 5000 | **R7 5700G** | 16 / 8 | **~£170** | Medium |
+|  | **R5 5600G** | 12 / 6 | **~£110** | Basic |
+| AMD 4000 | **R5 4600G** | 12 / 6 | **~£90** | Basic |
 
 ### Gaming
 
-- Low: Pair with Nvidia GeForce RTX 3060 / 3060 Ti / 3070 / 4060 / 4060 Ti or AMD Radeon RX 6600 / 6600 XT / 6650 XT / 6700
-- Medium: Pair with Nvidia GeForce RTX 3070 Ti / 3080 / 3080 Ti / 4070 or AMD Radeon RX 6700 XT / 6750 XT / 6800 / 6800 XT / 6900 XT / 6950 XT
-- High: Pair with Nvidia GeForce RTX 4070 Ti / 4080 / 4090 or AMD Radeon RX 7900 XT / 7900 XTX
+- Low: 1080p VRR or 1440p capped
+- Medium: 1440p VRR or 4k capped
+- High: 4k VRR
 
 | Family   | Low Gaming          | Medium Gaming        | High Gaming          | 
 |----------|---------------------|----------------------|----------------------|
@@ -52,6 +52,17 @@ _**Bold** for better value near prices shown._
 | AMD 5000 |  **R5 5600 ~£125**  | **R7 5800X ~£200**   |
 |          |                     | **R7 5700X ~£170**   |
 | AMD 3000 | **R5 3600 ~£40^**   |
+
+### Notes
+
+- Intel 13 improves on Intel 12 mostly by adding more efficency cores, and moving them further down the stack where they add even more relative benefit. This does come at a cost (the cost is money).
+- Intel 12 added big.LITTLE core architecture to their 10nm process, and shows the first real re-think of Intel for several years.
+- Anything prior to Intel 12 is a member of a platform with a known-bad last release (Intel 11) and is lacking substantial improvements made recently.
+- AMD X3D can perform below the cheaper non-X3D variants of the same CPUs in many situations, despite costing significantly more. It is an application-specific buy-in, only for high end machines.
+- AMD 7000 is difficult to recommend due to only supporting DDR5 memory, a substantial additional expense outside of the highest end machines.
+- AMD 5000 was a good all rounder, but is at the end of its platform, offering no upgrade path.
+- AMD 4000 is generally poor for gaming due to the exclusive use of PCIe 3.0, but offers good value for bargain-grade productivity.
+- AMD 3000 can still offer good gaming performance, and bought used sits on a platform with a known-good upgrade path at excellent value for money.
 
 ## Intel
 
