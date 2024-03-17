@@ -1,7 +1,7 @@
 - Recommendations
 - - Hardware
 - - - Components
-- - - - ~CPUs~
+- - - - CPUs*
 - - - - GPUs
 - - - - RAM / Memory
 - - - - Storage (HDDs + SSDs)
@@ -13,6 +13,9 @@
 - - - Tablets
 - - - Phones
 - - Software
+- - - Anti-Virus
+- - - Office
+- - - Creative
 - Organisations
 - - eustasy.org - Systems Architect since 2007
 - - elementary - Delivery Network Administrator and Community Moderator since mid-2014
