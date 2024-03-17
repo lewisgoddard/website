@@ -39,7 +39,7 @@
     left: 1rem;
     bottom: 1rem;
 }
-a svg { fill: var(--goddardhale-blue-750); }
+a.grid-item svg { fill: var(--goddardhale-blue-750); }
 </style>
 
 <div style="display: flex; flex-flow: row wrap; justify-content: space-between;">
