@@ -5,7 +5,7 @@
 {% for page in site.pages %}
 {% if page.url contains '/recommendations/' %}
 {% unless page.url == '/recommendations/' %}
-{{ counter | plus:'1' }}
+{% increment counter %}
 {% endunless %}
 {% endif %}
 {% endfor %}
