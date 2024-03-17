@@ -16,14 +16,14 @@
 {% endfor %}
 
 <style>
-  .grid-item {
+.grid-item {
     padding: 2rem;
     width: 25rem;
     border-radius: 0.5rem;
     background: #eee;
     height: 10rem;
     position: relative;
-  }
+}
 .grid-title {
     position: absolute;
     top: 1rem;
@@ -39,9 +39,10 @@
     left: 1rem;
     bottom: 1rem;
 }
+a svg { fill: var(--goddardhale-blue-750); }
 </style>
 
-<div style="display: flex; flex-flow: row wrap; justify-content: sapce-between;">
+<div style="display: flex; flex-flow: row wrap; justify-content: space-between;">
 <a class="grid-item" href="{{ '/recommendations/' | relative_url }}">
   <span class="grid-title">Recommendations</span>
   <span class="grid-icon">{% include icons/crown.svg.html %}</span>
