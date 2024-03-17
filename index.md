@@ -8,8 +8,6 @@
 {% endif %}
 {% endfor %}
 
-## [{{ counter_recommendations }} {% include icons/crown.svg.html %} Recommendations]({{ '/recommendations/' | relative_url }})
-
 {% assign counter_comparisons = '-1' %}
 {% for page in site.pages %}
 {% if page.url contains '/comparisons/' %}
@@ -17,4 +15,15 @@
 {% endif %}
 {% endfor %}
 
-## [{{ counter_comparisons }} {% include icons/ranking.svg.html %} Comparisons]({{ '/comparisons/' | relative_url }})
+<div style="display: flex; flex-flow: row wrap; justify-content: space-around;">
+<a class="grid-item" href="{{ '/recommendations/' | relative_url }}">
+  <span class="grid-title">Recommendations</span>
+  <span class="grid-icon">{% include icons/crown.svg.html %}</span>
+  <span class="grid-count">{{ counter_recommendations }}</span>
+</a>
+<a class="grid-item" href="{{ '/comparisons/' | relative_url }}">
+  <span class="grid-title">Comparisons</span>
+  <span class="grid-icon">{% include icons/ranking.svg.html %}</span>
+  <span class="grid-count">{{ counter_comparisons }}</span>
+</a>
+</div>
