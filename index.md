@@ -8,7 +8,7 @@
 {% endif %}
 {% endfor %}
 
-## [{{ counter_recommendations }} Recommendations]({{ '/recommendations/' | relative_url }})
+## [{{ counter_recommendations }} {% include icons/crown.svg.html %} Recommendations]({{ '/recommendations/' | relative_url }})
 
 {% assign counter_comparisons = '-1' %}
 {% for page in site.pages %}
@@ -17,4 +17,4 @@
 {% endif %}
 {% endfor %}
 
-## [{{ counter_comparisons }} Comparisons]({{ '/comparisons/' | relative_url }})
+## [{{ counter_comparisons }} {% include icons/ranking.svg.html %} Comparisons]({{ '/comparisons/' | relative_url }})
