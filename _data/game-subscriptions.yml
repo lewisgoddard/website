@@ -1,0 +1,40 @@
+- xbox:
+  name: Xbox Cloud Gaming
+  status: Public
+  features:
+    - Deals with Game Pass
+    - Game Streaming
+  platforms:
+    - PC
+    - Xbox Series X|S and Xbox One
+    - Xbox Cloud Gaming (Ultimate plan only)
+  pricing:
+    - Game Pass Core: £6.99/month
+    - PC Game Pass: £7.99/month
+    - Game Pass for Console: £8.99/month
+    - Game Pass Ultimate: £12.99/month
+  catalogue:
+    - Game Pass Core: over 25 games
+    - PC Game Pass: 466 games
+    - Game Pass for Console: 507 games
+    - Game Pass Ultimate: up to 507 games
+- nintendo:
+  name: Nintendo Switch Online
+- playstation:
+  name: Playstation Plus
+- apple:
+  name: Apple Arcade
+- ea:
+  name: EA Play
+- gameclub:
+  name: GameClub
+- humblebundle:
+  name: Humble Bundle
+- nvidia:
+  name: Nvidia GeForce Now
+- amazon:
+  name: Prime Gaming (Amazon Luna)
+- ubisoft:
+  name: Ubisoft+
+- google:
+  name: Google Play Pass
