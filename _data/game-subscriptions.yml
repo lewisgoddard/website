@@ -4,6 +4,8 @@
   features:
     - Deals with Game Pass
     - Game Streaming
+    - EA Play
+    - Riot Games Bonuses
   platforms:
     - PC
     - Xbox Series X|S and Xbox One
