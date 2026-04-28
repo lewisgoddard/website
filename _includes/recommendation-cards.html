@@ -1,0 +1,12 @@
+{% assign current_depth = page.url | split: '/' | size %}
+{% assign child_depth = current_depth | plus: 1 %}
+<section class="recs-grid" aria-label="{{ page.title }}">
+{% for p in site.pages %}{% if p.url contains page.url and p.url != page.url %}{% assign p_depth = p.url | split: '/' | size %}{% if p_depth == child_depth %}
+	{% assign p_count = 0 %}{% for d in site.pages %}{% if d.url contains p.url and d.url != p.url %}{% assign p_count = p_count | plus: 1 %}{% endif %}{% endfor %}
+	<a class="card card--rec" href="{{ p.url | relative_url }}">
+		<span class="card-label">{{ p.title }}</span>
+		<span class="card-icon">{% include icons/crown.svg.html %}</span>
+		{% if p_count > 0 %}<span class="card-count">{{ p_count }}</span>{% endif %}
+	</a>
+{% endif %}{% endif %}{% endfor %}
+</section>
