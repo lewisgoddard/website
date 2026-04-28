@@ -1,9 +1,9 @@
 ---
-title: CPUs
+title: CPU Recommendations
 breadcrumb: cpus
 ---
 
-_This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../laptops) and [Tablets](../tablets). For workstation or server CPUs see [Workstations and Server CPUs](./workstations_and_servers_cpus)._
+_This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../hardware/laptops) and [Tablets](../hardware/tablets). For workstation or server CPUs see [Workstations and Server CPUs](./workstations_and_servers_cpus)._
 
 ## Quick Look
 
@@ -53,7 +53,7 @@ _**Bold** for better value near prices shown._
 |  | R7 7700X | 16 / 8 | ~£300 | Medium |
 |  | **R5 7600X** | 12 / 6 | **~£230** | Medium |
 | AMD 5000 | **R7 5800X** | 16 / 8 | **~£200** | Medium |
-|  | **R5 5700X** | 12 / 6 | **~£170** | Basic |
+|  | **R5 5700X** | 16 / 8 | **~£170** | Medium |
 |  | **R5 5600** | 12 / 6 | **~£125** | Basic |
 | AMD 3000 | **R5 3600** | 12 / 6 | **~£40^** | Basic |
 

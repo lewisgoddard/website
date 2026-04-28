@@ -1,5 +1,6 @@
 ---
-title: Hardware
+title: Hardware Recommendations
+breadcrumb: hardware
 ---
 
 {% assign current_depth = page.url | split: '/' | size %}

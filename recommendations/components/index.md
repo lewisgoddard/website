@@ -1,5 +1,6 @@
 ---
-title: Components
+title: Component Recommendations
+breadcrump: components
 ---
 
 {% assign current_depth = page.url | split: '/' | size %}

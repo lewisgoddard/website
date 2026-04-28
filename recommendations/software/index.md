@@ -1,5 +1,6 @@
 ---
-title: Software
+title: Software Recommendations
+breadcrumb: software
 ---
 
 {% assign current_depth = page.url | split: '/' | size %}
