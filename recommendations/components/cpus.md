@@ -10,29 +10,24 @@ _This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../hardware/
 _**Bold** for better value near prices shown._
 
 <p class="pick-category">Productivity &middot; <em>multi-core, iGPU, total system cost</em></p>
-<section class="orgs-row">
+<section class="recs-grid">
   <div class="card background-goddardhale-green-100 pick-card">
     <span class="card-label">Budget</span>
     <ul class="pick-list">
       <li>R5 4600G <span>~£90</span></li>
-      <li>i3 14100 <span>~£110</span></li>
       <li>R5 5600G <span>~£110</span></li>
+      <li>i5 12100 <span>~£120</span></li>
     </ul>
   </div>
   <div class="card background-goddardhale-blue-100 pick-card">
     <span class="card-label">Recommended</span>
     <ul class="pick-list">
-      <li>i5 14400 <span>~£160</span></li>
       <li>R7 5700G <span>~£170</span></li>
+      <li>i5 12400 <span>~£175</span></li>
+      <li>R5 9600X <span>~£205</span></li>
+      <li>i5 13500 <span>~£240</span></li>
       <li>i5 14600K <span>~£240</span></li>
-    </ul>
-  </div>
-  <div class="card background-goddardhale-purple-100 pick-card">
-    <span class="card-label">High-End</span>
-    <ul class="pick-list">
-      <li>R9 9900X <span>~£360</span></li>
-      <li>Core Ultra 9 285K <span>~£490</span></li>
-      <li>R9 9950X <span>~£500</span></li>
+      <li>R7 9700X <span>~£280</span></li>
     </ul>
   </div>
 </section>
@@ -42,25 +37,34 @@ _**Bold** for better value near prices shown._
   <div class="card background-goddardhale-green-100 pick-card">
     <span class="card-label">Budget</span>
     <ul class="pick-list">
+      <li>R5 3600 <span>~£40^</span></li>
       <li>i3 14100F <span>~£90</span></li>
-      <li>i5 14400F <span>~£150</span></li>
-      <li>R5 9600X <span>~£205</span></li>
+      <li>i5 12100F <span>~£90</span></li>
+      <li>i5 13100F <span>~£110</span></li>
+      <li>R5 5600 <span>~£125</span></li>
+      <li>i5 12400 <span>~£150</span></li>
     </ul>
   </div>
   <div class="card background-goddardhale-blue-100 pick-card">
     <span class="card-label">Recommended</span>
     <ul class="pick-list">
+      <li>i5 14400F <span>~£150</span></li>
+      <li>R5 5700X <span>~£170</span></li>
+      <li>R7 5800X <span>~£200</span></li>
+      <li>R5 9600X <span>~£205</span></li>
       <li>i5 14600KF <span>~£225</span></li>
+      <li>R5 7600X <span>~£230</span></li>
+      <li>i5 13500 <span>~£240</span></li>
+      <li>Core Ultra 5 245KF <span>~£250</span></li>
       <li>R7 9700X <span>~£280</span></li>
-      <li>R7 7800X3D <span>~£310</span></li>
     </ul>
   </div>
   <div class="card background-goddardhale-purple-100 pick-card">
     <span class="card-label">High-End</span>
     <ul class="pick-list">
-      <li>Core Ultra 7 265KF <span>~£345</span></li>
+      <li>R7 5800X3D <span>~£160</span></li>
+      <li>R7 7800X3D <span>~£310</span></li>
       <li>R7 9800X3D <span>~£410</span></li>
-      <li>Core Ultra 9 285K <span>~£490</span></li>
     </ul>
   </div>
 </section>
