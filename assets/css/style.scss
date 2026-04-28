@@ -170,14 +170,30 @@ div.warning {
 
 /* $Footer */
 .site-footer {
-	border-top: 2px solid var(--goddardhale-grey-150);
 	padding: 1.5rem 0;
 	margin-top: 4rem;
 	font-size: 0.875rem;
-	color: var(--goddardhale-grey-400);
+	color: var(--goddardhale-cream-100);
+	background-color: var(--goddardhale-blue-750);
+	background-image: linear-gradient(
+		120deg,
+		hsl(210deg, 65%, 20%) 0%,
+		hsl(211deg, 68%, 19%) 21%,
+		hsl(212deg, 70%, 18%) 30%,
+		hsl(213deg, 72%, 17%) 39%,
+		hsl(214deg, 75%, 16%) 46%,
+		hsl(215deg, 78%, 14%) 54%,
+		hsl(216deg, 81%, 13%) 61%,
+		hsl(218deg, 84%, 12%) 69%,
+		hsl(220deg, 86%, 11%) 79%,
+		hsl(224deg, 85%, 10%) 100%
+	);
 }
 .site-footer a {
-	color: var(--goddardhale-blue-700);
+	color: var(--goddardhale-cream-100);
+}
+.site-footer .social-link svg {
+	fill: var(--goddardhale-cream-100);
 }
 
 /* $Container — wider than Cayman's default */
