@@ -47,7 +47,6 @@ redirect_from:
 	</a>
 </section>
 
-<h2 class="row-header">Projects</h2>
 <section class="projects-row" aria-label="Open-source projects">
 	<a class="card card--half card--projects" href="{{ '/projects/eustasy/' | relative_url }}">
 		<span class="card-label">eustasy</span>
