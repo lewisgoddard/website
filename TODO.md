@@ -19,14 +19,9 @@
 - Organisations
 - - eustasy.org - Systems Architect since 2007
 - - elementary - Delivery Network Administrator and Community Moderator since mid-2014
-- Open-Source https://lewisgoddard.me.uk/idealist
+- Open-Source https://lewisgoddard.me.uk/idealist + developer
 - - Bubbly
 - - authenticatron
 - - phoenix
-- Design https://lewisgoddard.me.uk/developer
 - - Colors.css
-- - Midori-Browser.org ! now non-existent
 - - elementary.io
-
-- Resume - Probably too outdated to warrant existence here.
-- In the news ? - I don't think this appears commonly enough to be maintained on the site, and literally all of the links are broken.

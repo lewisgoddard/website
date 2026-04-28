@@ -11,6 +11,7 @@ redirect_from:
   - /writer.php
 ---
 
+<h2 class="row-header">Support</h2>
 <section class="support-row" aria-label="Support my work">
 	<a class="card card--quarter card--support" href="https://paypal.me/goddardlewis">
 		<span class="card-label">Pay me</span>
@@ -29,6 +30,7 @@ redirect_from:
 	</a>
 </section>
 
+<h2 class="row-header">Organisations</h2>
 <section class="orgs-row" aria-label="Where I&apos;ve worked">
 	<a class="card card--third card--org" href="https://eustasy.org">
 		<span class="stat">30M</span>
@@ -50,6 +52,7 @@ redirect_from:
 {% assign counter_recommendations = '-1' %}
 {% for page in site.pages %}{% if page.url contains '/recommendations/' %}{% assign counter_recommendations = counter_recommendations | plus: 1 %}{% endif %}{% endfor %}
 
+<h2 class="row-header">Recommendations</h2>
 <section class="recs-row" aria-label="Recommendations">
 	<a class="card card--full card--recs" href="{{ '/recommendations/' | relative_url }}">
 		<span class="card-label">Recommendations</span>
