@@ -1,14 +1,12 @@
 	</main>
 
 	<footer class="site-footer" role="contentinfo">
-		<div class="main-content">
-			<p>
-				<a href="{{ site.github.repository_url | default: 'https://github.com/lewisgoddard/website' }}">Source on GitHub</a>
-				&middot;
-				Content <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">CC BY-NC-SA 3.0</a>,
-				code <a href="{{ site.github.repository_url | default: 'https://github.com/lewisgoddard/website' }}/blob/cf-pages/LICENSE.md" rel="license">MIT</a>.
-			</p>
-		</div>
+		<nav class="social-links" aria-label="Find me on">
+{% for link in site.data.social.contact %}
+{% assign icon_path = link.icon | append: '.svg.html' | prepend: 'icons/' %}
+			<a href="{{ link.href }}" class="social-link" aria-label="{{ link.name }}" title="{{ link.name }}"{% if link.rel != '' %} rel="{{ link.rel }}"{% endif %}>{% include {{ icon_path }} %}</a>
+{% endfor %}
+		</nav>
 	</footer>
 	</body>
 </html>
