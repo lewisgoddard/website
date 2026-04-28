@@ -371,8 +371,19 @@ div.warning {
 /* Pink flair on the sponsor card */
 .card--support-sponsor .card-icon svg { fill: var(--accent-pink-deep); }
 
-/* Hire-me card — starts blue, sweeps pink on hover */
-.card--hire .card-cta { color: var(--accent-blue); }
+/* Hire-me card — solid navy at rest, sweeps pink on hover */
+.card--hire {
+	background: var(--accent-blue-deep);
+	border-color: var(--accent-blue-deep);
+	color: var(--goddardhale-cream-100);
+}
+.card--hire .card-label,
+.card--hire .card-cta {
+	color: var(--goddardhale-cream-100);
+}
+.card--hire .card-detail {
+	color: var(--goddardhale-cream-200);
+}
 .card--hire::before { background: var(--accent-pink-deep); }
 .card--hire:hover { border-color: var(--accent-pink-deep); }
 
