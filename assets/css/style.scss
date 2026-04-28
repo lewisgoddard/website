@@ -170,4 +170,175 @@ div.warning {
 /* $Footer */
 .site-footer {
 	border-top: 2px solid var(--goddardhale-grey-150);
+	padding: 1.5rem 0;
+	margin-top: 4rem;
+	font-size: 0.875rem;
+	color: var(--goddardhale-grey-400);
+}
+.site-footer a {
+	color: var(--goddardhale-blue-700);
+}
+
+/* $Accents — semantic aliases over goddardhale palette */
+:root {
+	--accent-blue: var(--goddardhale-blue-750);
+	--accent-blue-deep: var(--goddardhale-blue-900);
+	--accent-pink: var(--goddardhale-red-300);
+	--accent-pink-deep: var(--goddardhale-red-450);
+}
+
+/* $Display font — only on the top-level home heading */
+body.home .page-header h1.project-name,
+.page-header h1.project-name {
+	font-family: "Dancing Script", "Source Serif Pro", Georgia, serif;
+	font-weight: 700;
+	letter-spacing: 0.01em;
+}
+
+/* $Social links row */
+.social-links {
+	margin-top: 0.5rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 0.75rem;
+}
+.social-links a {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 2.25rem;
+	height: 2.25rem;
+	border-radius: 50%;
+	background: rgba(255, 255, 255, 0.08);
+	transition: background 0.15s ease, transform 0.15s ease;
+}
+.social-links a:hover {
+	background: var(--accent-pink);
+	transform: translateY(-1px);
+}
+.social-links svg {
+	width: 1.1rem;
+	height: 1.1rem;
+	fill: var(--goddardhale-cream-100);
+}
+
+/* $Homepage cards */
+.support-row,
+.orgs-row,
+.recs-row {
+	display: grid;
+	gap: 1rem;
+	margin: 0 0 1.5rem;
+}
+.support-row { grid-template-columns: 1fr 1fr 2fr; }
+.orgs-row    { grid-template-columns: 1fr 1fr 1fr; }
+.recs-row    { grid-template-columns: 1fr; }
+
+@media (max-width: 720px) {
+	.support-row,
+	.orgs-row {
+		grid-template-columns: 1fr;
+	}
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	gap: 0.4rem;
+	padding: 1.25rem 1.25rem 1.1rem;
+	border-radius: 0.5rem;
+	background: var(--goddardhale-cream-150);
+	color: var(--goddardhale-blue-950);
+	text-decoration: none;
+	border: 1px solid var(--goddardhale-grey-150);
+	transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+	min-height: 9rem;
+	position: relative;
+}
+.card:hover {
+	transform: translateY(-2px);
+	border-color: var(--accent-blue);
+	box-shadow: 0 0.5rem 1rem rgba(31, 77, 128, 0.08);
+}
+
+.card-label {
+	font-weight: 600;
+	letter-spacing: 0.02em;
+	text-transform: uppercase;
+	font-size: 0.8rem;
+	color: var(--goddardhale-grey-500);
+}
+.card-icon {
+	display: inline-flex;
+	width: 2rem;
+	height: 2rem;
+	align-items: center;
+	margin-bottom: 0.25rem;
+}
+.card-icon svg {
+	width: 100%;
+	height: 100%;
+	fill: var(--accent-blue);
+}
+.card-detail {
+	color: var(--goddardhale-grey-700);
+	font-size: 0.95rem;
+	line-height: 1.4;
+}
+.card-cta {
+	margin-top: auto;
+	font-weight: 600;
+	color: var(--accent-blue);
+}
+.card-count {
+	position: absolute;
+	right: 1rem;
+	top: 1rem;
+	font-weight: 700;
+	color: var(--accent-pink);
+}
+
+/* Pink flair on the sponsor card */
+.card--support-sponsor .card-icon svg { fill: var(--accent-pink-deep); }
+.card--support-sponsor:hover { border-color: var(--accent-pink); }
+
+/* Hire-me card — primary CTA */
+.card--hire {
+	background: var(--accent-blue);
+	color: var(--goddardhale-cream-100);
+	border-color: var(--accent-blue);
+}
+.card--hire .card-label { color: var(--goddardhale-cream-200); }
+.card--hire .card-detail { color: var(--goddardhale-cream-150); }
+.card--hire .card-cta { color: var(--accent-pink); }
+.card--hire:hover { border-color: var(--accent-pink); box-shadow: 0 0.5rem 1.25rem rgba(31, 77, 128, 0.18); }
+
+/* Org stat cards */
+.card--org { padding-top: 1rem; }
+.card--org .stat {
+	font-family: "Dancing Script", "Source Serif Pro", Georgia, serif;
+	font-size: 3.25rem;
+	line-height: 1;
+	font-weight: 700;
+	color: var(--accent-blue);
+}
+.card--org .stat-label {
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+	font-size: 0.75rem;
+	color: var(--goddardhale-grey-500);
+	margin-bottom: 0.4rem;
+}
+.card--org:nth-child(2) .stat { color: var(--accent-pink-deep); }
+.card--org strong { color: var(--accent-blue-deep); }
+
+/* Recommendations card spans full width */
+.card--recs { min-height: 7rem; }
+.card--recs .card-icon {
+	position: absolute;
+	right: 1rem;
+	top: 1rem;
+	width: 1.5rem;
+	height: 1.5rem;
 }

@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-GB' }}">
 <head>
 	<meta charset="UTF-8">
 	{% seo %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="theme-color" content="#e95420">
+	<meta name="theme-color" content="#1f4d80">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap">
 	{% include head-custom.html %}
 </head>
 <body>
@@ -17,17 +20,14 @@
 		<h1 class="project-name">{{ site.title }}</h1>
 {% else %}
 		<h1 class="project-name">{{ page.title }}</h1>
-		<h2 class="project-tagline">{{ site.title }}</h1>
+		<p class="project-tagline">{{ site.title }}</p>
 {% endif %}
-		<h2 class="project-tagline">
-			<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#111;&#100;&#100;&#97;&#114;&#100;&#46;&#108;&#101;&#119;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" class="email">{% include icons/email.svg.html %}</a>
-			<a href="https://www.linkedin.com/in/lewisgoddard/" class="linkedin">{% include icons/brands/linkedin.svg.html %}</a>
-			<a href="https://twitter.com/goddardlewis" class="twitter">{% include icons/brands/twitter.svg.html %}</a>
-			<a href="https://github.com/lewisgoddard" class="github">{% include icons/brands/github.svg.html %}</a>
-			<a href="https://stackexchange.com/users/904259/lewis-goddard?tab=accounts" class="stack-overflow">{% include icons/brands/stack-overflow.svg.html %}</a>
-			<a href="https://www.youtube.com/@goddardawlewis" class="youtube">{% include icons/brands/youtube.svg.html %}</a>
-			<a href="https://www.last.fm/user/goddardlewis" class="lastfm">{% include icons/brands/lastfm.svg.html %}</a>
-		</h2>
+		<nav class="social-links" aria-label="Find me on">
+{% for link in site.data.social.contact %}
+{% assign icon_path = link.icon | append: '.svg.html' | prepend: 'icons/' %}
+			<a href="{{ link.href }}" class="social-link" aria-label="{{ link.name }}" title="{{ link.name }}"{% if link.rel != '' %} rel="{{ link.rel }}"{% endif %}>{% include {{ icon_path }} %}</a>
+{% endfor %}
+		</nav>
 	</header>
 
 	{% include navigation.html %}

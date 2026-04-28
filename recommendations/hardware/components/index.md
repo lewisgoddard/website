@@ -1,5 +1,5 @@
 ---
-title: Recommendations
+title: Components
 ---
 
 {% assign current_depth = page.url | split: '/' | size %}

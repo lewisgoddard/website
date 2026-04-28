@@ -10,18 +10,12 @@
 {% assign crumbs = page.url | split: '/' %}
 {% for crumb in crumbs offset: 1 %}
 	{% if forloop.last %}
-			<li>{{ page.breadcrumb | page.title }}
+			<li>{{ page.breadcrumb | default: page.title }}
   	{% else %}
 			<li><a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' }}</a>
 	{% endif %}
 {% endfor %}
 		</ol>
-
-		<!-- TODO better nav on homepage
-		<ol style="float:right;">
-			<li><a href="{{ site.baseurl }}/search" title="Search">{% include icons/heart.svg.html %}</a>
-		</ol>
-		-->
 
 		<div style="clear:both;"></div>
 	</div>

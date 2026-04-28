@@ -1,8 +1,8 @@
 title: Lewis Goddard
 description: ...
+lang: en-GB
 # the base hostname & protocol for your site
-#url: "https://lewisgoddard.me.uk"
-url: "https://website-dh0.pages.dev"
+url: "https://lewisgoddard.me.uk"
 baseurl: /
 
 permalink: /:title/

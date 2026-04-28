@@ -1,3 +1,7 @@
+---
+title: Web Video Players
+---
+
 Player | [Video.js](https://videojs.com/) | [Vidstack](https://www.vidstack.io/) | [Shaka Player by Google](https://shaka-player-demo.appspot.com/demo/)
 -|-|-|-
 License | [Apache 2.0](https://github.com/videojs/video.js) | [MIT](https://github.com/vidstack/player) | [Apache 2.0](https://github.com/shaka-project/shaka-player)
