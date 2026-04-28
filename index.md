@@ -69,7 +69,7 @@ redirect_from:
 			<img src="https://www.google.com/s2/favicons?domain=grid.iamkate.com&sz=64" alt="" loading="lazy" width="32" height="32">
 		</span>
 		<span class="card-label">National Grid Live</span>
-		<span class="card-detail">Real-time monitoring of Great Britain&rsquo;s electricity grid &mdash; generation mix, demand, carbon intensity, and the ongoing shift from coal to renewables.</span>
+		<span class="card-detail">Real-time monitoring of Great Britain&rsquo;s electricity grid &mdash; generation mix, demand, carbon intensity, and the ongoing shift from fossil fuels to renewables.</span>
 	</a>
 	<a class="card card--third card--use" href="https://www.uswitch.com/">
 		<span class="card-logo" style="background:#00a651;">
