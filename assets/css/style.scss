@@ -263,28 +263,59 @@ div.warning {
 	gap: 0.4rem;
 	padding: 1.25rem 1.25rem 1.1rem;
 	border-radius: 0.5rem;
-	background: transparent;
-	border: none;
+	background: var(--goddardhale-cream-150);
+	border: 1px solid var(--goddardhale-grey-200);
 	color: var(--goddardhale-blue-950);
-	transition: color 0.15s ease;
 	min-height: 9rem;
 	position: relative;
+	overflow: hidden;
+	isolation: isolate;
+	transition: color 0.35s ease, border-color 0.35s ease;
+}
+.card::before {
+	content: "";
+	position: absolute;
+	top: -10%;
+	bottom: -10%;
+	left: -25%;
+	right: -25%;
+	background: var(--accent-blue-deep);
+	transform: translateX(-120%) skewX(-18deg);
+	transition: transform 0.35s ease;
+	z-index: -1;
+	pointer-events: none;
+}
+.card:hover::before {
+	transform: translateX(0) skewX(-18deg);
 }
 .card .card-label,
 .card .card-icon svg,
 .card .card-cta,
-.card-count,
-.card--org .stat {
-	transition: color 0.15s ease, fill 0.15s ease;
+.card .card-count,
+.card .card-detail,
+.card--org .stat,
+.card--org .stat-label,
+.card--org strong {
+	transition: color 0.35s ease, fill 0.35s ease;
+}
+.card:hover {
+	color: var(--goddardhale-cream-100);
+	border-color: var(--accent-blue-deep);
 }
 .card:hover .card-label,
 .card:hover .card-cta,
 .card:hover .card-count,
-.card:hover.card--org .stat {
-	color: var(--accent-pink-deep);
+.card:hover.card--org .stat,
+.card:hover .card--org .stat,
+.card:hover .card-detail,
+.card:hover .card--org strong {
+	color: var(--goddardhale-cream-100);
+}
+.card:hover .card--org .stat-label {
+	color: var(--goddardhale-cream-200);
 }
 .card:hover .card-icon svg {
-	fill: var(--accent-pink-deep);
+	fill: var(--goddardhale-cream-100);
 }
 
 .card-label {
@@ -327,22 +358,8 @@ div.warning {
 /* Pink flair on the sponsor card */
 .card--support-sponsor .card-icon svg { fill: var(--accent-pink-deep); }
 
-/* Hire-me card — primary CTA, filled */
-.card--hire {
-	background: var(--accent-blue);
-	color: var(--goddardhale-cream-100);
-	transition: background 0.15s ease;
-}
-.card--hire .card-label { color: var(--goddardhale-cream-100); }
-.card--hire .card-detail { color: var(--goddardhale-cream-150); }
-.card--hire .card-cta { color: var(--accent-pink); }
-.card--hire:hover {
-	background: var(--accent-pink-deep);
-}
-.card--hire:hover .card-label,
-.card--hire:hover .card-cta {
-	color: var(--goddardhale-cream-100);
-}
+/* Hire-me card — keeps the pink CTA accent at rest */
+.card--hire .card-cta { color: var(--accent-pink-deep); }
 
 /* Org stat cards */
 .card--org { padding-top: 1rem; }
