@@ -9,6 +9,62 @@ _This page is for Desktop class CPUs. For mobile CPUs see [Laptops](../hardware/
 
 _**Bold** for better value near prices shown._
 
+<p class="pick-category">Productivity &middot; <em>multi-core, iGPU, total system cost</em></p>
+<section class="orgs-row">
+  <div class="card background-goddardhale-green-100 pick-card">
+    <span class="card-label">Budget</span>
+    <ul class="pick-list">
+      <li>R5 4600G <span>~£90</span></li>
+      <li>i3 14100 <span>~£110</span></li>
+      <li>R5 5600G <span>~£110</span></li>
+    </ul>
+  </div>
+  <div class="card background-goddardhale-blue-100 pick-card">
+    <span class="card-label">Recommended</span>
+    <ul class="pick-list">
+      <li>i5 14400 <span>~£160</span></li>
+      <li>R7 5700G <span>~£170</span></li>
+      <li>i5 14600K <span>~£240</span></li>
+    </ul>
+  </div>
+  <div class="card background-goddardhale-purple-100 pick-card">
+    <span class="card-label">High-End</span>
+    <ul class="pick-list">
+      <li>R9 9900X <span>~£360</span></li>
+      <li>Core Ultra 9 285K <span>~£490</span></li>
+      <li>R9 9950X <span>~£500</span></li>
+    </ul>
+  </div>
+</section>
+
+<p class="pick-category">Gaming &middot; <em>single-core, cache</em></p>
+<section class="orgs-row">
+  <div class="card background-goddardhale-green-100 pick-card">
+    <span class="card-label">Budget</span>
+    <ul class="pick-list">
+      <li>i3 14100F <span>~£90</span></li>
+      <li>i5 14400F <span>~£150</span></li>
+      <li>R5 9600X <span>~£205</span></li>
+    </ul>
+  </div>
+  <div class="card background-goddardhale-blue-100 pick-card">
+    <span class="card-label">Recommended</span>
+    <ul class="pick-list">
+      <li>i5 14600KF <span>~£225</span></li>
+      <li>R7 9700X <span>~£280</span></li>
+      <li>R7 7800X3D <span>~£310</span></li>
+    </ul>
+  </div>
+  <div class="card background-goddardhale-purple-100 pick-card">
+    <span class="card-label">High-End</span>
+    <ul class="pick-list">
+      <li>Core Ultra 7 265KF <span>~£345</span></li>
+      <li>R7 9800X3D <span>~£410</span></li>
+      <li>Core Ultra 9 285K <span>~£490</span></li>
+    </ul>
+  </div>
+</section>
+
 ### Productivity
 
 | Generation | Family SKU | Cores | Price | Best for |
@@ -277,3 +333,28 @@ for (var i = 0; i < el.length; i++) {
   } 
 }
 </script>
+<style>
+.pick-card { cursor: default; }
+.pick-card::before { display: none; }
+.pick-card:hover { color: inherit; border-color: inherit; }
+.pick-card:hover .card-label,
+.pick-card:hover .pick-list { color: inherit; }
+.pick-list {
+  margin: 0.4rem 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: var(--goddardhale-grey-700);
+}
+.pick-list li { display: flex; justify-content: space-between; }
+.pick-category {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 1.25rem 0 0.35rem;
+  color: var(--goddardhale-grey-700);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.pick-category:first-of-type { margin-top: 0; }
+</style>
