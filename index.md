@@ -62,6 +62,31 @@ redirect_from:
 	</a>
 </section>
 
+<h2 class="row-header">Things I Use</h2>
+<section class="uses-row" aria-label="Third-party tools and resources">
+	<a class="card card--third card--use" href="https://grid.iamkate.com/">
+		<span class="card-logo" style="background:#b3408e;">
+			<img src="https://www.google.com/s2/favicons?domain=grid.iamkate.com&sz=64" alt="" loading="lazy" width="32" height="32">
+		</span>
+		<span class="card-label">National Grid Live</span>
+		<span class="card-detail">Real-time monitoring of Great Britain&rsquo;s electricity grid &mdash; generation mix, demand, carbon intensity, and the ongoing shift from coal to renewables.</span>
+	</a>
+	<a class="card card--third card--use" href="https://www.uswitch.com/">
+		<span class="card-logo" style="background:#00a651;">
+			<img src="https://www.google.com/s2/favicons?domain=uswitch.com&sz=64" alt="" loading="lazy" width="32" height="32">
+		</span>
+		<span class="card-label">uswitch</span>
+		<span class="card-detail">UK price comparison for energy, broadband, and insurance &mdash; saved me significant money when switching suppliers.</span>
+	</a>
+	<a class="card card--third card--use" href="https://elementary.io/">
+		<span class="card-logo" style="background:#3689e6;">
+			<img src="https://www.google.com/s2/favicons?domain=elementary.io&sz=64" alt="" loading="lazy" width="32" height="32">
+		</span>
+		<span class="card-label">elementary OS</span>
+		<span class="card-detail">The Linux distribution I contribute to and daily-drive &mdash; beautifully designed and privacy-respecting.</span>
+	</a>
+</section>
+
 {% assign counter_components = 0 %}{% assign counter_hardware = 0 %}{% assign counter_services = 0 %}{% assign counter_software = 0 %}
 {% for p in site.pages %}
 {% if p.url contains '/recommendations/components/' and p.url != '/recommendations/components/' %}{% assign counter_components = counter_components | plus: 1 %}{% endif %}
@@ -70,7 +95,7 @@ redirect_from:
 {% if p.url contains '/recommendations/software/' and p.url != '/recommendations/software/' %}{% assign counter_software = counter_software | plus: 1 %}{% endif %}
 {% endfor %}
 
-<h2 class="row-header">Recommendations</h2>
+<h2 class="row-header">My Recommendations</h2>
 <section class="recs-row recs-row--quad" aria-label="Recommendations">
 	<a class="card card--quarter card--rec" href="{{ '/recommendations/components/' | relative_url }}">
 		<span class="card-label">Components</span>
