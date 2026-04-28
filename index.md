@@ -22,7 +22,7 @@ redirect_from:
 		<span class="card-icon">{% include icons/brands/github-sponsors.svg.html %}</span>
 		<span class="card-detail">Support open&#8209;source development.</span>
 	</a>
-	<a class="card card--half card--hire" href="&#109;&#097;&#105;&#108;&#116;&#111;:&#103;&#111;&#100;&#100;&#97;&#114;&#100;&#46;&#108;&#101;&#119;&#105;&#115;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;?subject=Freelance%20enquiry">
+	<a class="card card--half card--hire" href="https://www.linkedin.com/in/lewisgoddard/">
 		<span class="card-label">Hire me</span>
 		<span class="card-detail">Available for infrastructure and network enginner — contracts, advisory, permanent roles.</span>
 		<span class="card-cta">Get in touch &rarr;</span>
