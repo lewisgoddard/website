@@ -440,37 +440,3 @@ div.warning {
 .card--projects .card-detail {
 	padding-right: 2.5rem;
 }
-.project-list {
-	list-style: none;
-	margin: 0.6rem 0 0;
-	padding: 0;
-	display: flex;
-	flex-direction: column;
-	gap: 0.55rem;
-}
-.project-list li {
-	display: flex;
-	flex-direction: column;
-	gap: 0.1rem;
-}
-.project-list li a {
-	font-weight: 600;
-	color: var(--accent-blue);
-	text-decoration: none;
-}
-.project-list .project-stars {
-	font-weight: 500;
-	font-size: 0.85rem;
-	color: var(--goddardhale-grey-700);
-	margin-left: 0.35rem;
-}
-.project-list .project-blurb {
-	font-size: 0.9rem;
-	color: var(--goddardhale-grey-700);
-	line-height: 1.35;
-}
-.card--projects:hover .project-list li a,
-.card--projects:hover .project-list .project-stars,
-.card--projects:hover .project-list .project-blurb {
-	color: var(--goddardhale-cream-100);
-}

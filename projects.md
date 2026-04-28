@@ -8,27 +8,15 @@ redirect_from:
   - /developer.php
 ---
 
-Stuff I've built &mdash; a mix of open-source code and design/identity work. Most lives under [github.com/lewisgoddard](https://github.com/lewisgoddard) or the [eustasy](https://github.com/eustasy) org.
+Open-source code, split by where it lives.
 
-### [Authenticatron](https://github.com/eustasy/authenticatron)
+### [eustasy]({{ '/projects/eustasy/' | relative_url }})
 
-A small PHP implementation of the Google Authenticator standard &mdash; QR-code provisioning and second-factor verification for sites that don't want to pull in a heavyweight auth library.
+Things I've built and maintain under the [eustasy](https://github.com/eustasy) org &mdash; SSL tooling ([Bubbly](https://github.com/eustasy/Bubbly)), 2FA ([authenticatron](https://github.com/eustasy/authenticatron)), a PHP BitTorrent tracker ([Phoenix](https://github.com/eustasy/Phoenix)), and the [Colors.css](https://github.com/eustasy/Colors.css) palette this site uses.
 
-### [Bubbly](https://github.com/eustasy/bubbly)
+### [elementary]({{ '/projects/elementary/' | relative_url }})
 
-Free, automated SSL setup guides and scripts &mdash; Let's Encrypt + nginx + certbot, distilled to the steps that actually work.
-
-### Phoenix
-
-Stub. More to follow once the source is published.
-
-### [Colors.css](https://github.com/mrmrs/colors)
-
-Contributed to the colour-system that ships with this very site &mdash; the `--goddardhale-*` palette descends from it.
-
-### [elementary.io](https://github.com/elementary/website)
-
-Long-running contributions to the marketing site for elementary OS, including the delivery network behind it.
+Long-running contributions to [elementary OS](https://elementary.io) and the infrastructure behind it &mdash; the marketing site, the build system, the icon set, AppCenter, and the CDN that fronts them.
 
 ---
 
