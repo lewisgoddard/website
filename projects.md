@@ -26,10 +26,6 @@ Stub. More to follow once the source is published.
 
 Contributed to the colour-system that ships with this very site &mdash; the `--goddardhale-*` palette descends from it.
 
-### Midori Browser
-
-Web presence and identity work for [Midori](https://github.com/lewisgoddard/midori-browser.org) &mdash; the site is no longer hosted but the source remains.
-
 ### [elementary.io](https://github.com/elementary/website)
 
 Long-running contributions to the marketing site for elementary OS, including the delivery network behind it.
