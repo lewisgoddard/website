@@ -18,10 +18,12 @@
 - - - Creative
 - Organisations
 - - eustasy.org - Systems Architect since 2007
+    - Bubbly
+    - Authenticatron
+    - Phoenix
+    - Browning
+    - Colors.css
+    - .ui
 - - elementary - Delivery Network Administrator and Community Moderator since mid-2014
-- Open-Source https://lewisgoddard.me.uk/idealist + developer
-- - Bubbly
-- - authenticatron
-- - phoenix
-- - Colors.css
-- - elementary.io
+    - elementary.io
+    - elementary OS
