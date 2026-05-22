@@ -1,5 +1,5 @@
 title: Lewis Goddard
-description: ...
+description: Infrastructure & Network Engineer — sixteen years in manufacturing, healthcare, and open-source. Available for contracts, advisory, and permanent roles.
 lang: en-GB
 # the base hostname & protocol for your site
 url: "https://lewisgoddard.me.uk"
@@ -11,4 +11,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-redirect-from
-theme: jekyll-theme-cayman
+  - jekyll-seo-tag

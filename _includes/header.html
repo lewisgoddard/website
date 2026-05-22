@@ -1,34 +1,12 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-GB' }}">
-<head>
-	<meta charset="UTF-8">
-	{% seo %}
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="theme-color" content="#1f4d80">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/eustasy/Colors.css@2/goddardhale.min.css" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/eustasy/Colors.css@2/elementary.min.css" crossorigin="anonymous">
-	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	{% include head-custom.html %}
-</head>
-<body>
-	<a id="skip-to-content" href="#content">Skip to the content.</a>
-
-	<header class="page-header" role="banner">
-{% if page.layout == 'home' %}
-		<h1 class="project-name">{{ site.title }}</h1>
-{% else %}
-		<h1 class="project-name">{{ page.title }}</h1>
-		<p class="project-tagline">{{ site.title }}</p>
-{% endif %}
-		<nav class="social-links" aria-label="Find me on">
-{% for link in site.data.social.contact %}
-{% assign icon_path = link.icon | append: '.svg.html' | prepend: 'icons/' %}
-			<a href="{{ link.href }}" class="social-link" aria-label="{{ link.name }}" title="{{ link.name }}"{% if link.rel != '' %} rel="{{ link.rel }}"{% endif %}>{% include {{ icon_path }} %}</a>
-{% endfor %}
-		</nav>
-	</header>
-
-	{% include navigation.html %}
-
-	<main id="content" class="main-content" role="main">
+<header class="fn-nav">
+	<a class="fn-mark" href="{{ '/' | relative_url }}">
+		<span class="fn-mono">LG</span>
+		<span class="fn-domain">lewisgoddard.me.uk</span>
+	</a>
+	<nav class="fn-navlinks" aria-label="Primary">
+		<a href="{{ '/' | relative_url }}#work">Work</a>
+		<a href="{{ '/recommendations/' | relative_url }}">Recommendations</a>
+		<a href="{{ '/' | relative_url }}#support">Support</a>
+	</nav>
+	<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>
+</header>

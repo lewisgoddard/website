@@ -1,5 +1,331 @@
-{% include header.html %}
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-GB' }}">
+<head>
+	<meta charset="UTF-8">
+	{% seo %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#123456">
+	<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,400..600,30..100&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/eustasy/Colors.css@2/goddardhale.min.css" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+	{% include head-custom.html %}
+</head>
+<body>
+<div class="lg-page">
 
-{{ content }}
+	<!-- ─── Top nav ─── -->
+	<header class="fn-nav">
+		<a class="fn-mark" href="{{ '/' | relative_url }}">
+			<span class="fn-mono">LG</span>
+			<span class="fn-domain">lewisgoddard.me.uk</span>
+		</a>
+		<nav class="fn-navlinks" aria-label="Primary">
+			<a href="#work">Work</a>
+			<a href="#recs">Recommendations</a>
+			<a href="#support">Support</a>
+		</nav>
+		<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>
+	</header>
 
-{% include footer.html %}
+	<!-- ─── Hero ─── -->
+	<section class="fn-hero">
+		<div class="fn-hero-meta">
+			<span class="fn-dot fn-dot--ok" aria-hidden="true"></span>
+			<span>Open to contracts, advisory, and permanent roles</span>
+			<span class="fn-meta-sep" aria-hidden="true">&middot;</span>
+			<span>United Kingdom</span>
+		</div>
+
+		<h1 class="fn-name">Lewis Goddard<span class="fn-name-dot">.</span></h1>
+		<p class="fn-role">Infrastructure &amp; Network Engineer</p>
+
+		<p class="fn-pitch">I design, run, and quietly maintain the networks and delivery pipelines that other people&#8217;s products sit on &#8212; currently in manufacturing and healthcare, and on the open&#8209;source side at eustasy and elementary.</p>
+
+		<div class="fn-hero-row">
+			<div class="fn-ctas">
+				<a class="fn-cta fn-cta--primary" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">
+					Hire me &rarr;
+				</a>
+				<a class="fn-cta fn-cta--ghost" href="mailto:goddard.lewis@gmail.com">
+					<span class="lg-i" aria-hidden="true">{% include icons/email.svg.html %}</span>
+					goddard.lewis@gmail.com
+				</a>
+			</div>
+			<ul class="fn-socials" aria-label="Find me on">
+{% for link in site.data.social.contact offset: 1 %}
+				<li>
+					<a href="{{ link.href }}" aria-label="{{ link.name }}" title="{{ link.name }}"{% if link.rel != '' %} rel="{{ link.rel }}"{% endif %}>
+						<span class="lg-i" aria-hidden="true">{% assign _icon = link.icon | prepend: 'icons/' | append: '.svg.html' %}{% include {{ _icon }} %}</span>
+					</a>
+				</li>
+{% endfor %}
+			</ul>
+		</div>
+	</section>
+
+	<!-- ─── Hire band ─── -->
+	<section class="fn-hireband">
+		<div class="fn-hireband-l">
+			<span class="fn-hireband-eyebrow">Available now</span>
+			<h2>Contract, advisory, or permanent &#8212; UK&#8209;based, remote&#8209;first.</h2>
+			<p>Sixteen years in infrastructure and networks. Strongest where the system has to stay up without anyone noticing.</p>
+		</div>
+		<div class="fn-hireband-r">
+			<a class="fn-cta fn-cta--lg" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">
+				Get in touch &rarr;
+			</a>
+			<a class="fn-cta fn-cta--ghost fn-cta--lg" href="mailto:goddard.lewis@gmail.com">
+				Or email me
+			</a>
+		</div>
+	</section>
+
+	<!-- ─── Stats ─── -->
+	<section class="fn-stats" aria-label="By the numbers">
+		<div class="fn-stat">
+			<span class="fn-stat-num">16<small>yrs</small></span>
+			<span class="fn-stat-lbl">In the field</span>
+			<span class="fn-stat-det">Infrastructure &amp; networks &#8212; manufacturing, healthcare.</span>
+			<span class="fn-stat-rule" aria-hidden="true"></span>
+		</div>
+		<div class="fn-stat">
+			<span class="fn-stat-num">30<small>M</small></span>
+			<span class="fn-stat-lbl">Users served</span>
+			<span class="fn-stat-det">eustasy org, since 2007.</span>
+			<span class="fn-stat-rule" aria-hidden="true"></span>
+		</div>
+		<div class="fn-stat">
+			<span class="fn-stat-num">14.4<small>PB</small></span>
+			<span class="fn-stat-lbl">Delivered</span>
+			<span class="fn-stat-det">elementary OS CDN, since 2014.</span>
+		</div>
+	</section>
+
+	<!-- ─── Where I work ─── -->
+	<section id="work" class="fn-section">
+		<header class="fn-section-h">
+			<span class="fn-section-no">No.&thinsp;01</span>
+			<h2>Where I work</h2>
+			<a class="fn-section-cta" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Full CV on LinkedIn &rarr;</a>
+		</header>
+
+		<div class="fn-jobs">
+			<article class="fn-job">
+				<div class="fn-job-meta">
+					<span class="fn-job-sector">Healthcare</span>
+					<span class="fn-job-kind">Contract</span>
+				</div>
+				<h3 class="fn-job-title">Network Engineer</h3>
+				<div class="fn-job-employer">Norfolk and Norwich University Hospitals NHS</div>
+				<div class="fn-job-dates">Jan 2023<span class="fn-job-dot" aria-hidden="true">&middot;</span>Feb 2024<span class="fn-job-dot" aria-hidden="true">&middot;</span>Norwich, UK</div>
+				<p class="fn-job-blurb">2nd&#8209;line network support across a large multi&#8209;site NHS estate. Cisco L2/L3, VLANs, firewall changes, OSPF/BGP, and 802.1X&nbsp;/&nbsp;RADIUS under strict change control.</p>
+			</article>
+			<article class="fn-job">
+				<div class="fn-job-meta">
+					<span class="fn-job-sector">Food Manufacturing</span>
+					<span class="fn-job-kind">Permanent</span>
+				</div>
+				<h3 class="fn-job-title">Infrastructure Engineer</h3>
+				<div class="fn-job-employer">Banham Poultry (2018) Ltd</div>
+				<div class="fn-job-dates">May 2014<span class="fn-job-dot" aria-hidden="true">&middot;</span>Jul 2022<span class="fn-job-dot" aria-hidden="true">&middot;</span>Attleborough, UK</div>
+				<p class="fn-job-blurb">Eight years across the IT team &#8212; from 1st&#8209;line through to senior. LAN/WAN, Aruba switching and Wi&#8209;Fi, SSL VPN for hundreds of remote users, VoIP&nbsp;/&nbsp;SIP, firewalls and IPsec&nbsp;VPN.</p>
+			</article>
+			<article class="fn-job">
+				<div class="fn-job-meta">
+					<span class="fn-job-sector">Telecommunications</span>
+					<span class="fn-job-kind">Permanent</span>
+				</div>
+				<h3 class="fn-job-title">Network Telecommunications Engineer</h3>
+				<div class="fn-job-employer">T&#8209;Mobile UK</div>
+				<div class="fn-job-dates">Apr 2010<span class="fn-job-dot" aria-hidden="true">&middot;</span>Oct 2013<span class="fn-job-dot" aria-hidden="true">&middot;</span>Bury St Edmunds, UK</div>
+				<p class="fn-job-blurb">Supported large&#8209;scale network and telecoms infrastructure. Field and remote fault diagnosis, connectivity and availability issues across the estate.</p>
+			</article>
+		</div>
+
+		<h3 class="fn-orgs-h">Open-source organisations</h3>
+		<div class="fn-orgs" id="projects">
+
+			<article class="fn-org">
+				<div class="fn-org-mark" aria-hidden="true">e</div>
+				<div class="fn-org-body">
+					<h3>
+						<a href="https://eustasy.org">eustasy</a>
+						<small>Systems Architect &middot; since 2007</small>
+					</h3>
+					<p>Open&#8209;source ops tooling &#8212; SSL setup, 2FA, BitTorrent, colour systems.</p>
+					<ul>
+						<li>
+							<a href="https://github.com/eustasy/Bubbly">
+								<strong>Bubbly</strong>
+								<span>Better SSL in nginx in 10 minutes &#8212; Certbot + nginx, distilled.</span>
+								<em>217&#9733;</em>
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/eustasy/Phoenix">
+								<strong>Phoenix</strong>
+								<span>A lightweight BitTorrent tracker in PHP with an SQL backend.</span>
+								<em>18&#9733;</em>
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/eustasy/authenticatron">
+								<strong>authenticatron</strong>
+								<span>HOTP&nbsp;/&nbsp;TOTP for PHP &#8212; secret gen, QR provisioning, verification.</span>
+								<em>11&#9733;</em>
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/eustasy/Colors.css">
+								<strong>Colors.css</strong>
+								<span>Named palettes &#8212; Material, Tailwind, and the goddardhale set this site uses.</span>
+								<em>8&#9733;</em>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</article>
+
+			<article class="fn-org">
+				<div class="fn-org-mark" aria-hidden="true">e</div>
+				<div class="fn-org-body">
+					<h3>
+						<a href="https://elementary.io">elementary</a>
+						<small>Delivery Network Administrator &middot; since 2014</small>
+					</h3>
+					<p>The marketing site, the build pipeline, and the CDN that fronts both.</p>
+					<ul>
+						<li>
+							<a href="https://github.com/elementary/website">
+								<strong>website</strong>
+								<span>The elementary.io marketing site &#8212; copy, layout, CDN.</span>
+								<em>1.3k&#9733;</em>
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/elementary/os">
+								<strong>os</strong>
+								<span>The build system that produces the ISO and AppCenter packages.</span>
+								<em>1.1k&#9733;</em>
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/elementary/icons">
+								<strong>icons</strong>
+								<span>Named, vector icons used across apps and the wider ecosystem.</span>
+								<em>586&#9733;</em>
+							</a>
+						</li>
+						<li>
+							<a href="https://github.com/elementary/appcenter">
+								<strong>appcenter</strong>
+								<span>The pay&#8209;what&#8209;you&#8209;can app store for elementary OS.</span>
+								<em>552&#9733;</em>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</article>
+
+		</div>
+	</section>
+
+	<!-- ─── What I recommend ─── -->
+{% assign counter_components = 0 %}{% assign counter_hardware = 0 %}{% assign counter_services = 0 %}{% assign counter_software = 0 %}
+{% for p in site.pages %}{% if p.url contains '/recommendations/components/' and p.url != '/recommendations/components/' %}{% assign counter_components = counter_components | plus: 1 %}{% endif %}{% if p.url contains '/recommendations/hardware/' and p.url != '/recommendations/hardware/' %}{% assign counter_hardware = counter_hardware | plus: 1 %}{% endif %}{% if p.url contains '/recommendations/services/' and p.url != '/recommendations/services/' %}{% assign counter_services = counter_services | plus: 1 %}{% endif %}{% if p.url contains '/recommendations/software/' and p.url != '/recommendations/software/' %}{% assign counter_software = counter_software | plus: 1 %}{% endif %}{% endfor %}
+
+	<section id="recs" class="fn-section fn-section--alt">
+		<header class="fn-section-h">
+			<span class="fn-section-no">No.&thinsp;02</span>
+			<h2>What I recommend</h2>
+			<p class="fn-section-lede">Personal picks &#8212; CPUs to apps, hosts to peripherals. What I&#8217;d actually buy, install, or pay for.</p>
+		</header>
+		<div class="fn-recs">
+			<a class="fn-rec" href="{{ '/recommendations/components/' | relative_url }}">
+				<span class="fn-rec-no">01</span>
+				<span class="fn-rec-label">Components</span>
+				<span class="fn-rec-count">{{ counter_components }} {% if counter_components == 1 %}pick{% else %}picks{% endif %}</span>
+				<span class="fn-rec-blurb">CPUs, GPUs, RAM &#8212; the parts you pick first.</span>
+				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
+			</a>
+			<a class="fn-rec" href="{{ '/recommendations/hardware/' | relative_url }}">
+				<span class="fn-rec-no">02</span>
+				<span class="fn-rec-label">Other Hardware</span>
+				<span class="fn-rec-count">{{ counter_hardware }} {% if counter_hardware == 1 %}pick{% else %}picks{% endif %}</span>
+				<span class="fn-rec-blurb">Laptops, peripherals, and the rest of the rack.</span>
+				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
+			</a>
+			<a class="fn-rec" href="{{ '/recommendations/services/' | relative_url }}">
+				<span class="fn-rec-no">03</span>
+				<span class="fn-rec-label">Services</span>
+				<span class="fn-rec-count">{{ counter_services }} {% if counter_services == 1 %}pick{% else %}picks{% endif %}</span>
+				<span class="fn-rec-blurb">Hosts, registrars, SaaS &#8212; who I&#8217;d actually pay.</span>
+				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
+			</a>
+			<a class="fn-rec" href="{{ '/recommendations/software/' | relative_url }}">
+				<span class="fn-rec-no">04</span>
+				<span class="fn-rec-label">Software</span>
+				<span class="fn-rec-count">{{ counter_software }} {% if counter_software == 1 %}pick{% else %}picks{% endif %}</span>
+				<span class="fn-rec-blurb">Tools, libraries, and apps I&#8217;d install today.</span>
+				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
+			</a>
+		</div>
+	</section>
+
+	<!-- ─── Things I use + Support ─── -->
+	<section class="fn-section fn-section--split">
+		<div class="fn-uses">
+			<header class="fn-section-h fn-section-h--inline">
+				<span class="fn-section-no">No.&thinsp;03</span>
+				<h2>Things I use</h2>
+			</header>
+			<ul>
+				<li>
+					<a href="https://grid.iamkate.com/">
+						<strong>National Grid Live</strong>
+						<span>Real&#8209;time monitoring of Great Britain&#8217;s electricity grid.</span>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.uswitch.com/">
+						<strong>uswitch</strong>
+						<span>UK price comparison &#8212; saved me serious money on suppliers.</span>
+					</a>
+				</li>
+				<li>
+					<a href="https://elementary.io/">
+						<strong>elementary OS</strong>
+						<span>The Linux distribution I contribute to and daily&#8209;drive.</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<aside id="support" class="fn-support">
+			<header class="fn-section-h fn-section-h--inline">
+				<span class="fn-section-no">No.&thinsp;04</span>
+				<h2>Support the work</h2>
+			</header>
+			<p>The OSS projects are free to use; staying maintained is what costs.</p>
+			<div class="fn-support-row">
+				<a class="fn-support-card" href="https://github.com/sponsors/lewisgoddard">
+					<span class="lg-i" aria-hidden="true">{% include icons/brands/github-sponsors.svg.html %}</span>
+					<span class="fn-support-name">GitHub Sponsors</span>
+					<span class="fn-support-blurb">Recurring support for open&#8209;source work.</span>
+				</a>
+				<a class="fn-support-card" href="https://paypal.me/goddardlewis">
+					<span class="lg-i" aria-hidden="true">{% include icons/brands/paypal.svg.html %}</span>
+					<span class="fn-support-name">PayPal</span>
+					<span class="fn-support-blurb">One&#8209;off, no account needed.</span>
+				</a>
+			</div>
+		</aside>
+	</section>
+
+	{% include footer.html %}
+
+</div>
+</body>
+</html>

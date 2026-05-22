@@ -1,12 +1,42 @@
-	</main>
-
-	<footer class="site-footer" role="contentinfo">
-		<nav class="social-links" aria-label="Find me on">
+<footer class="fn-foot">
+	<div class="fn-foot-l">
+		<div class="fn-foot-name">Lewis Goddard</div>
+		<div class="fn-foot-meta">United Kingdom &middot; lewisgoddard.me.uk</div>
+	</div>
+	<div class="fn-foot-c">
+		<div class="fn-foot-h">Correspondence</div>
+		<ul class="fn-foot-socials">
 {% for link in site.data.social.contact %}
-{% assign icon_path = link.icon | append: '.svg.html' | prepend: 'icons/' %}
-			<a href="{{ link.href }}" class="social-link" aria-label="{{ link.name }}" title="{{ link.name }}"{% if link.rel != '' %} rel="{{ link.rel }}"{% endif %}>{% include {{ icon_path }} %}</a>
+			<li>
+				<a href="{{ link.href }}"{% if link.rel != '' %} rel="{{ link.rel }}"{% endif %}>
+					<span class="lg-i" aria-hidden="true">{% assign _icon = link.icon | prepend: 'icons/' | append: '.svg.html' %}{% include {{ _icon }} %}</span>
+					<span>{{ link.handle | default: link.name }}</span>
+				</a>
+			</li>
 {% endfor %}
-		</nav>
-	</footer>
-	</body>
-</html>
+		</ul>
+	</div>
+	<div class="fn-foot-r">
+		<div class="fn-foot-h">Patronage</div>
+		<ul class="fn-foot-support">
+			<li>
+				<a href="https://github.com/sponsors/lewisgoddard">
+					<span class="lg-i" aria-hidden="true">{% include icons/brands/github-sponsors.svg.html %}</span>
+					<span>
+						<strong>GitHub Sponsors</strong>
+						<em>Recurring support for open&#8209;source work.</em>
+					</span>
+				</a>
+			</li>
+			<li>
+				<a href="https://paypal.me/goddardlewis">
+					<span class="lg-i" aria-hidden="true">{% include icons/brands/paypal.svg.html %}</span>
+					<span>
+						<strong>PayPal</strong>
+						<em>One&#8209;off, no account needed.</em>
+					</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+</footer>

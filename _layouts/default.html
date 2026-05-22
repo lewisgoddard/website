@@ -1,5 +1,30 @@
-{% include header.html %}
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-GB' }}">
+<head>
+	<meta charset="UTF-8">
+	{% seo %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#123456">
+	<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,400..600,30..100&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/eustasy/Colors.css@2/goddardhale.min.css" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+	{% include head-custom.html %}
+</head>
+<body>
+<div class="lg-page">
 
-{{ content }}
+	{% include header.html %}
+	{% include navigation.html %}
 
-{% include footer.html %}
+	<main id="content" class="main-content" role="main">
+		{{ content }}
+	</main>
+
+	{% include footer.html %}
+
+</div>
+</body>
+</html>

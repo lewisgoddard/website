@@ -1,22 +1,15 @@
-<nav class="breadcrumb-nav">
-	<div class="main-content">
-		<ol class="breadcrumbs" style="float:left;">
-{% if page.layout == 'home' %}
-			<li>home
-{% else %}
-			<li><a href="{{ site.baseurl }}">home</a>
-{% endif %}
-
+{% unless page.layout == 'home' %}
+<nav class="fn-breadcrumb" aria-label="Breadcrumb">
+	<a href="{{ '/' | relative_url }}">Home</a>
 {% assign crumbs = page.url | split: '/' %}
 {% for crumb in crumbs offset: 1 %}
 	{% if forloop.last %}
-			<li>{{ page.breadcrumb | default: page.title }}
-  	{% else %}
-			<li><a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' }}</a>
+	<span class="fn-breadcrumb-sep" aria-hidden="true">/</span>
+	<span class="fn-breadcrumb-cur">{{ page.breadcrumb | default: page.title | default: crumb | replace: '-', ' ' | remove: '.html' }}</span>
+	{% else %}
+	<span class="fn-breadcrumb-sep" aria-hidden="true">/</span>
+	<a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace: '-', ' ' | remove: '.html' }}</a>
 	{% endif %}
 {% endfor %}
-		</ol>
-
-		<div style="clear:both;"></div>
-	</div>
 </nav>
+{% endunless %}
