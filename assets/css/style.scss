@@ -249,7 +249,7 @@ button { font: inherit; }
   display: flex; align-items: center; justify-content: space-between;
   gap: 1.5rem; flex-wrap: wrap;
   padding: calc(1.6rem * var(--lg-space)) var(--fn-pad);
-  background: var(--lg-hireband-bg); color: var(--lg-hireband-fg);
+  background: var(--lg-accent); color: var(--lg-hireband-fg);
   border-bottom: 1px solid var(--lg-rule);
 }
 .fn-hireband-l { max-width: 38rem; }
