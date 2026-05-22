@@ -5,7 +5,7 @@
 	</a>
 	<nav class="fn-navlinks" aria-label="Primary">
 		<a href="{{ '/' | relative_url }}#work">Work</a>
-		<a href="{{ '/recommendations/' | relative_url }}">Recommendations</a>
+		<a href="{{ '/recommendations/' | relative_url }}"{% if page.url contains '/recommendations' %} class="fn-navlink--current"{% endif %}>Recommendations</a>
 		<a href="{{ '/' | relative_url }}#support">Support</a>
 	</nav>
 	<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>

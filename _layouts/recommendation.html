@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-GB' }}">
+<head>
+	<meta charset="UTF-8">
+	{% seo %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#123456">
+	<link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,400..600,30..100&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/eustasy/Colors.css@2/goddardhale.min.css" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+	{% include head-custom.html %}
+</head>
+<body>
+<div class="lg-page">
+
+	{% include header.html %}
+
+	<section class="cpu-head">
+		<nav class="cpu-crumb" aria-label="Breadcrumb">
+			{% for crumb in page.breadcrumbs %}
+				{% unless forloop.last %}
+					<a href="{{ crumb.href | relative_url }}">{{ crumb.label }}</a>
+					<span aria-hidden="true">/</span>
+				{% else %}
+					<span aria-current="page">{{ crumb.label }}</span>
+				{% endunless %}
+			{% endfor %}
+		</nav>
+
+		<div class="cpu-head-grid">
+			<div class="cpu-head-l">
+				<span class="cpu-eyebrow">{{ page.eyebrow }}</span>
+				<h1>{{ page.title }}<span class="cpu-dot">.</span></h1>
+				<p class="cpu-lede">{{ page.lede }}</p>
+
+				<ul class="cpu-headmeta" aria-label="Page metadata">
+					<li>
+						<span>Updated</span>
+						<strong><time datetime="{{ page.meta_updated }}">{{ page.meta_updated | date: "%-d %b %Y" }}</time></strong>
+					</li>
+					<li>
+						<span>Tiers</span>
+						<strong>{{ page.meta_tiers }}</strong>
+					</li>
+					<li>
+						<span>Compared</span>
+						<strong>{{ page.meta_compared }}</strong>
+					</li>
+					<li>
+						<span>Bias</span>
+						<strong>{{ page.meta_bias }}</strong>
+					</li>
+				</ul>
+			</div>
+
+			<aside class="cpu-toc" aria-label="On this page">
+				<span class="cpu-toc-h">On this page</span>
+				<ol>
+					{% for item in page.toc %}
+					<li><a href="{{ item.href }}">{{ item.label }}</a></li>
+					{% endfor %}
+				</ol>
+			</aside>
+		</div>
+	</section>
+
+	{{ content }}
+
+	<footer class="cpu-foot">
+		<div>
+			<div class="cpu-foot-h">Author</div>
+			<div class="cpu-foot-name">Lewis Goddard</div>
+			<div class="cpu-foot-meta">Norfolk, England</div>
+		</div>
+		<div>
+			<div class="cpu-foot-h">This page</div>
+			<ul class="cpu-foot-meta-list">
+				<li><span>Updated</span><strong>{{ page.meta_updated | date: "%-d %b %Y" }}</strong></li>
+				<li><span>Tiers</span><strong>{{ page.meta_tiers }}</strong></li>
+				<li><span>Compared</span><strong>{{ page.meta_compared }}</strong></li>
+				<li><span>Bias</span><strong>{{ page.meta_bias }}</strong></li>
+				<li><span>Author</span><strong><a href="{{ '/' | relative_url }}">lewisgoddard.me.uk</a></strong></li>
+			</ul>
+		</div>
+		<div>
+			<div class="cpu-foot-h">Correspondence</div>
+			<ul class="cpu-foot-socials">
+				{% for link in site.data.social.contact limit: 4 %}
+				<li>
+					<a href="{{ link.href }}"{% if link.rel != "" %} rel="{{ link.rel }}"{% endif %}>
+						{% assign _icon = link.icon | prepend: 'icons/' | append: '.svg.html' %}
+						<span class="lg-i">{% include {{ _icon }} %}</span>
+						<span>{{ link.handle | default: link.name }}</span>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</footer>
+
+</div>
+</body>
+</html>
