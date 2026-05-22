@@ -129,6 +129,8 @@ button { font: inherit; }
   --fn-pad-y: calc(3rem * var(--lg-space));
   background: var(--lg-bg);
   color: var(--lg-fg);
+  max-width: 80rem;
+  margin: 0 auto;
   container-type: inline-size;
   container-name: fn;
 }
