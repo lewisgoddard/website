@@ -7,6 +7,8 @@ baseurl: /
 
 permalink: /:title/
 page_excerpts: true
+
+hire_me_enabled: true
 plugins:
   - jekyll-sitemap
   - jekyll-feed

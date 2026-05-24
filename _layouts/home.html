@@ -27,7 +27,7 @@
 			<a href="#recs">Recommendations</a>
 			<a href="#support">Support</a>
 		</nav>
-		<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>
+		{% if site.hire_me_enabled %}<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>{% endif %}
 	</header>
 
 	<!-- ─── Hero ─── -->
@@ -45,6 +45,7 @@
 		<p class="fn-pitch">I design, run, and quietly maintain the networks and delivery pipelines that other people&#8217;s products sit on &#8212; currently in manufacturing and healthcare, and on the open&#8209;source side at eustasy and elementary.</p>
 
 		<div class="fn-hero-row">
+			{% if site.hire_me_enabled %}
 			<div class="fn-ctas">
 				<a class="fn-cta fn-cta--primary" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">
 					Hire me &rarr;
@@ -54,6 +55,7 @@
 					goddard.lewis@gmail.com
 				</a>
 			</div>
+			{% endif %}
 			<ul class="fn-socials" aria-label="Find me on">
 {% for link in site.data.social.contact offset: 1 %}
 				<li>
@@ -66,6 +68,7 @@
 		</div>
 	</section>
 
+	{% if site.hire_me_enabled %}
 	<!-- ─── Hire band ─── -->
 	<section class="fn-hireband">
 		<div class="fn-hireband-l">
@@ -82,6 +85,7 @@
 			</a>
 		</div>
 	</section>
+	{% endif %}
 
 	<!-- ─── Stats ─── -->
 	<section class="fn-stats" aria-label="By the numbers">

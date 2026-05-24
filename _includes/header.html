@@ -8,5 +8,5 @@
 		<a href="{{ '/recommendations/' | relative_url }}"{% if page.url contains '/recommendations' %} class="fn-navlink--current"{% endif %}>Recommendations</a>
 		<a href="{{ '/' | relative_url }}#support">Support</a>
 	</nav>
-	<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>
+	{% if site.hire_me_enabled %}<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>{% endif %}
 </header>
