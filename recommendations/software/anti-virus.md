@@ -68,7 +68,7 @@ toc:
 </header>
 
 <div class="av-scans">
-<td class="cpu-td-gen">Bitdefender</td>
+
 <a class="av-scan" href="https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download" rel="noopener">
 <span class="av-scan-no">01</span>
 <span class="av-scan-vendor av-vendor--ms">Microsoft</span>
