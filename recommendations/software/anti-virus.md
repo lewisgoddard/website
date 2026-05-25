@@ -68,7 +68,7 @@ toc:
 </header>
 
 <div class="av-scans">
-
+<td class="cpu-td-gen">Bitdefender</td>
 <a class="av-scan" href="https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download" rel="noopener">
 <span class="av-scan-no">01</span>
 <span class="av-scan-vendor av-vendor--ms">Microsoft</span>
@@ -78,7 +78,7 @@ toc:
 </a>
 
 <a class="av-scan" href="https://www.eset.com/uk/home/online-scanner/" rel="noopener">
-<span class="av-scan-no">02</span>
+<td class="cpu-td-gen">Bitdefender</td>
 <span class="av-scan-vendor av-vendor--eset">ESET</span>
 <h3 class="av-scan-name">Online Scanner</h3>
 <p class="av-scan-desc">Browser&#8209;launched, downloads a small client, scans against ESET&rsquo;s live signatures, then cleans up after itself.</p>
@@ -286,7 +286,7 @@ toc:
 <tr>
 <td class="cpu-td-tier"><span>03</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">AVG Internet Security</span></div></td>
-<td class="cpu-td-gen">Gen Digital</td>
+<td class="cpu-td-gen">Avast</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:22.0%"></div><span class="cpu-bar-num">5.5</span></div></td>
 <td class="num">9</td>
@@ -296,7 +296,7 @@ toc:
 <tr>
 <td class="cpu-td-tier"><span>04</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Avast One</span></div></td>
-<td class="cpu-td-gen">Gen Digital</td>
+<td class="cpu-td-gen">Avast</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:22.0%"></div><span class="cpu-bar-num">5.5</span></div></td>
 <td class="num">9</td>
@@ -306,7 +306,7 @@ toc:
 <tr class="cpu-tr--tier">
 <td class="cpu-td-tier"><span>05</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Norton 360</span></div></td>
-<td class="cpu-td-gen">Gen Digital</td>
+<td class="cpu-td-gen">Avast</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:21.2%"></div><span class="cpu-bar-num">5.3</span></div></td>
 <td class="num">9</td>
@@ -326,7 +326,7 @@ toc:
 <tr>
 <td class="cpu-td-tier"><span>07</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gd">GD</span><span class="cpu-cpuname">G DATA Total Security</span></div></td>
-<td class="cpu-td-gen">G DATA</td>
+<td class="cpu-td-gen">Bitdefender</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:34.0%"></div><span class="cpu-bar-num">8.5</span></div></td>
 <td class="num">5</td>
@@ -356,7 +356,7 @@ toc:
 <tr>
 <td class="cpu-td-tier"><span>10</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--fs">FS</span><span class="cpu-cpuname">F-Secure Internet Security</span></div></td>
-<td class="cpu-td-gen">F-Secure</td>
+<td class="cpu-td-gen">Avira</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:73.2%"></div><span class="cpu-bar-num">18.3</span></div></td>
 <td class="num">19</td>
@@ -366,7 +366,7 @@ toc:
 <tr>
 <td class="cpu-td-tier"><span>11</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ta">TA</span><span class="cpu-cpuname">TotalAV Premium</span></div></td>
-<td class="cpu-td-gen">TotalAV</td>
+<td class="cpu-td-gen">Avira</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:72.8%"></div><span class="cpu-bar-num">18.2</span></div></td>
 <td class="num">19</td>
@@ -376,7 +376,7 @@ toc:
 <tr>
 <td class="cpu-td-tier"><span>12</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--vp">VP</span><span class="cpu-cpuname">VIPRE Advanced Security</span></div></td>
-<td class="cpu-td-gen">VIPRE</td>
+<td class="cpu-td-gen">Bitdefender</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:89.6%"></div><span class="cpu-bar-num">22.4</span></div></td>
 <td class="num">4</td>
@@ -386,7 +386,7 @@ toc:
 <tr>
 <td class="cpu-td-tier"><span>13</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--td">TD</span><span class="cpu-cpuname">Total Defense Essential</span></div></td>
-<td class="cpu-td-gen">Total Defense</td>
+<td class="cpu-td-gen">Bitdefender</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:95%"></div><span class="cpu-bar-num">31.6</span></div></td>
 <td class="num">4</td>
