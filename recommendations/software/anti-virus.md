@@ -17,14 +17,14 @@ breadcrumbs:
 toc:
   - href: "#banner"
     label: The strong recommendation
+  - href: "#scans"
+    label: One-off scans
   - href: "#picks"
     label: If you must pay
   - href: "#detail"
     label: Picks in detail
   - href: "#table"
     label: Full comparison
-  - href: "#scans"
-    label: One-off scans
   - href: "#avoid"
     label: The Gen Digital tangle
   - href: "#criteria"
@@ -48,6 +48,42 @@ toc:
 </ol>
 <p class="av-banner-foot">Paying for a third&#8209;party AV will not make you safer. It will eat memory, throw pop&#8209;ups, and add an extra attacker surface. Only pay if one of the use cases in the next section actually fits.</p>
 </div>
+</div>
+</section>
+
+<section id="scans" class="cpu-section cpu-section--alt">
+<header class="cpu-section-h">
+<span class="cpu-section-no">&sect; 04</span>
+<h2>One&#8209;off scans</h2>
+<p class="cpu-section-lede">For when you suspect something on a machine but don&rsquo;t want a second resident AV. All three are free, all three run on demand, none install a service that stays loaded after the scan.</p>
+</header>
+
+<div class="av-scans">
+
+<a class="av-scan" href="https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download" rel="noopener">
+<span class="av-scan-no">01</span>
+<span class="av-scan-vendor av-vendor--ms">Microsoft</span>
+<h3 class="av-scan-name">Safety Scanner</h3>
+<p class="av-scan-desc">Portable on&#8209;demand scanner from Microsoft. Expires 10 days after download &mdash; pull a fresh copy each time.</p>
+<span class="av-scan-cta"><span class="lg-i">{% include icons/download.svg.html %}</span> learn.microsoft.com</span>
+</a>
+
+<a class="av-scan" href="https://www.eset.com/uk/home/online-scanner/" rel="noopener">
+<span class="av-scan-no">02</span>
+<span class="av-scan-vendor av-vendor--eset">ESET</span>
+<h3 class="av-scan-name">Online Scanner</h3>
+<p class="av-scan-desc">Browser&#8209;launched, downloads a small client, scans against ESET&rsquo;s live signatures, then cleans up after itself.</p>
+<span class="av-scan-cta"><span class="lg-i">{% include icons/download.svg.html %}</span> eset.com/uk</span>
+</a>
+
+<a class="av-scan" href="https://www.kaspersky.co.uk/downloads/free-virus-removal-tool" rel="noopener">
+<span class="av-scan-no">03</span>
+<span class="av-scan-vendor av-vendor--ksp">Kaspersky</span>
+<h3 class="av-scan-name">Virus Removal Tool</h3>
+<p class="av-scan-desc">Standalone removal tool, no install. Useful as a second opinion when something has already got through.</p>
+<span class="av-scan-cta"><span class="lg-i">{% include icons/download.svg.html %}</span> kaspersky.co.uk</span>
+</a>
+
 </div>
 </section>
 
@@ -275,42 +311,6 @@ toc:
 <tr><td colspan="7"><strong>Protection</strong> = online protection rate, AV&#8209;Comparatives Malware Protection Test, March&nbsp;2026. <strong>Impact</strong> = AV&#8209;Comparatives Performance Test, April&nbsp;2026 (lower is less drag on the system). <strong>False +</strong> = false alarms in the March 2026 protection run. Bars scaled within this table. Avast, AVG and Norton return identical protection and false&#8209;positive counts &mdash; the same engine wearing three logos. *M365 Personal &pound;85/yr includes Defender plus Office.</td></tr>
 </tfoot>
 </table>
-</div>
-</section>
-
-<section id="scans" class="cpu-section cpu-section--alt">
-<header class="cpu-section-h">
-<span class="cpu-section-no">&sect; 04</span>
-<h2>One&#8209;off scans</h2>
-<p class="cpu-section-lede">For when you suspect something on a machine but don&rsquo;t want a second resident AV. All three are free, all three run on demand, none install a service that stays loaded after the scan.</p>
-</header>
-
-<div class="av-scans">
-
-<a class="av-scan" href="https://learn.microsoft.com/en-us/defender-endpoint/safety-scanner-download" rel="noopener">
-<span class="av-scan-no">01</span>
-<span class="av-scan-vendor av-vendor--ms">Microsoft</span>
-<h3 class="av-scan-name">Safety Scanner</h3>
-<p class="av-scan-desc">Portable on&#8209;demand scanner from Microsoft. Expires 10 days after download &mdash; pull a fresh copy each time.</p>
-<span class="av-scan-cta"><span class="lg-i">{% include icons/download.svg.html %}</span> learn.microsoft.com</span>
-</a>
-
-<a class="av-scan" href="https://www.eset.com/uk/home/online-scanner/" rel="noopener">
-<span class="av-scan-no">02</span>
-<span class="av-scan-vendor av-vendor--eset">ESET</span>
-<h3 class="av-scan-name">Online Scanner</h3>
-<p class="av-scan-desc">Browser&#8209;launched, downloads a small client, scans against ESET&rsquo;s live signatures, then cleans up after itself.</p>
-<span class="av-scan-cta"><span class="lg-i">{% include icons/download.svg.html %}</span> eset.com/uk</span>
-</a>
-
-<a class="av-scan" href="https://www.kaspersky.co.uk/downloads/free-virus-removal-tool" rel="noopener">
-<span class="av-scan-no">03</span>
-<span class="av-scan-vendor av-vendor--ksp">Kaspersky</span>
-<h3 class="av-scan-name">Virus Removal Tool</h3>
-<p class="av-scan-desc">Standalone removal tool, no install. Useful as a second opinion when something has already got through.</p>
-<span class="av-scan-cta"><span class="lg-i">{% include icons/download.svg.html %}</span> kaspersky.co.uk</span>
-</a>
-
 </div>
 </section>
 
