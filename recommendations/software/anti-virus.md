@@ -315,11 +315,11 @@ toc:
 
 <tr>
 <td class="cpu-td-tier"><span>06</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--bd">BD</span><span class="cpu-cpuname">Bitdefender Total Security</span></div></td>
-<td class="cpu-td-gen">Bitdefender</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:38.4%"></div><span class="cpu-bar-num">9.6</span></div></td>
-<td class="num">4</td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mc">MC</span><span class="cpu-cpuname">McAfee Total Protection</span></div></td>
+<td class="cpu-td-gen">McAfee</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:13.2%"></div><span class="cpu-bar-num">3.3</span></div></td>
+<td class="num">14</td>
 <td class="num cpu-td-price"></td>
 </tr>
 
@@ -335,11 +335,11 @@ toc:
 
 <tr>
 <td class="cpu-td-tier"><span>08</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mc">MC</span><span class="cpu-cpuname">McAfee Total Protection</span></div></td>
-<td class="cpu-td-gen">McAfee</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:13.2%"></div><span class="cpu-bar-num">3.3</span></div></td>
-<td class="num">14</td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--bd">BD</span><span class="cpu-cpuname">Bitdefender Total Security</span></div></td>
+<td class="cpu-td-gen">Bitdefender</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:38.4%"></div><span class="cpu-bar-num">9.6</span></div></td>
+<td class="num">4</td>
 <td class="num cpu-td-price"></td>
 </tr>
 
