@@ -102,17 +102,17 @@ toc:
 <span class="cpu-tier-flag"><span class="lg-i">{% include icons/crown.svg.html %}</span> Pick of the page</span>
 </div>
 <h3 class="cpu-tier-band">Already&#8209;a&#8209;Microsoft household</h3>
-<div class="cpu-tier-chip">Microsoft Defender (M365)</div>
+<div class="cpu-tier-chip">Microsoft Defender</div>
 <div class="cpu-tier-price">
 <span class="cpu-tier-price-amt">&pound;0</span>
-<span class="cpu-tier-price-lbl">included &middot; M365</span>
+<span class="cpu-tier-price-lbl">included</span>
 </div>
 <p class="cpu-tier-head">Same engine as the built&#8209;in scanner, plus the cross&#8209;device app for Mac, iOS and Android.</p>
 <dl class="cpu-tier-specs">
 <div><dt>Impact</dt><dd>12.9 / Adv</dd></div>
 <div><dt>Protect</dt><dd>99.93%</dd></div>
 </dl>
-<div class="cpu-tier-verdict">Buy if you already pay for M365.</div>
+<div class="cpu-tier-verdict">Buy if you prefer the Microsoft cross-device app.</div>
 </article>
 
 <article class="cpu-tier">
@@ -160,10 +160,11 @@ toc:
 <div class="cpu-details">
 
 <article class="cpu-detail">
+</aside>
 <aside class="cpu-detail-aside">
 <span class="cpu-detail-no">01</span>
-<span class="cpu-detail-band">Microsoft Defender (M365)</span>
-<div class="cpu-detail-chip">Bundled with Microsoft 365</div>
+<span class="cpu-detail-band">Microsoft Defender</span>
+<div class="cpu-detail-chip">Bundled with Windows</div>
 <div class="cpu-detail-price">&pound;0<small>included</small></div>
 <dl class="cpu-detail-specs">
 <div><dt>Engine</dt><dd>MS Defender</dd></div>
@@ -174,8 +175,8 @@ toc:
 </aside>
 <div class="cpu-detail-body">
 <h3>Same engine, plus a dashboard that follows you onto Mac and mobile.</h3>
-<p>The consumer Microsoft Defender app is included in every Microsoft&nbsp;365 Personal and Family subscription. On Windows it&rsquo;s the same scanner you already had &mdash; the value is that it extends to your Mac, iPhone or Android with a single sign&#8209;on and one place to see device status. Scores 99.93% online protection with only 3 false alarms in the March 2026 round &mdash; tied with ESET on protection, beats it on false positives.</p>
-<p>If you already pay for M365 for Office and Outlook, you are already paying for this. Install the Defender app from the Microsoft 365 portal. If you don&rsquo;t pay for M365, there is no reason to start paying just for this &mdash; the built&#8209;in scanner gives you identical protection on Windows. The one weak spot is system impact: 12.9 in the April 2026 performance test, which puts it in the &ldquo;Advanced&rdquo; band rather than &ldquo;Advanced+&rdquo;. On modern hardware you won&rsquo;t notice; on an older laptop ESET or Kaspersky will feel snappier.</p>
+<p>Microsoft Defender is included with Windows. The consumer Defender app also offers cross-device apps for Mac, iPhone and Android; on Windows it&rsquo;s the same scanner you already had &mdash; the value is a central place to see device status. Scores 99.93% online protection with only 3 false alarms in the March 2026 round &mdash; tied with ESET on protection, beats it on false positives.</p>
+<p>Install the Defender app from Microsoft if you want the cross-device dashboard. There is no reason to pay separately for Defender &mdash; the built-in scanner gives identical protection on Windows. The one weak spot is system impact: 12.9 in the April 2026 performance test, which puts it in the &ldquo;Advanced&rdquo; band rather than &ldquo;Advanced+&rdquo;. On modern hardware you won&rsquo;t notice; on an older laptop ESET or Kaspersky will feel snappier.</p>
 </div>
 </article>
 
@@ -243,6 +244,8 @@ toc:
 </tr>
 </thead>
 <tbody>
+</tbody>
+<tbody>
 <tr class="cpu-tr--star">
 <td class="cpu-td-tier"><span>00</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ms">MS</span><span class="cpu-cpuname">Windows Defender</span><span class="cpu-pickbadge">Default</span></div></td>
@@ -252,17 +255,9 @@ toc:
 <td class="num">3</td>
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>0</td>
 </tr>
+
 <tr class="cpu-tr--star">
 <td class="cpu-td-tier"><span>01</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ms">MS</span><span class="cpu-cpuname">Microsoft Defender (M365)</span><span class="cpu-pickbadge">M365</span></div></td>
-<td class="cpu-td-gen">Microsoft</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:86%"></div><span class="cpu-bar-num">99.93</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:31%"></div><span class="cpu-bar-num">12.9</span></div></td>
-<td class="num">3</td>
-<td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>0<small>*</small></td>
-</tr>
-<tr class="cpu-tr--star">
-<td class="cpu-td-tier"><span>02</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--eset">ESET</span><span class="cpu-cpuname">HOME Security Premium</span><span class="cpu-pickbadge">Clean</span></div></td>
 <td class="cpu-td-gen">ESET</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:86%"></div><span class="cpu-bar-num">99.93</span></div></td>
@@ -270,8 +265,9 @@ toc:
 <td class="num">16</td>
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>40</td>
 </tr>
+
 <tr class="cpu-tr--star">
-<td class="cpu-td-tier"><span>03</span></td>
+<td class="cpu-td-tier"><span>02</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ksp">KSP</span><span class="cpu-cpuname">Kaspersky Plus</span><span class="cpu-pickbadge">Numbers</span></div></td>
 <td class="cpu-td-gen">Kaspersky</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.97</span></div></td>
@@ -279,7 +275,128 @@ toc:
 <td class="num">2</td>
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>35</td>
 </tr>
+
 <tr>
+<td class="cpu-td-tier"><span>04</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--bd">BD</span><span class="cpu-cpuname">Bitdefender Total Security</span></div></td>
+<td class="cpu-td-gen">Bitdefender</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:9%"></div><span class="cpu-bar-num">9.6</span></div></td>
+<td class="num">4</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>05</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mc">MC</span><span class="cpu-cpuname">McAfee Total Protection</span></div></td>
+<td class="cpu-td-gen">McAfee</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.97</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:3%"></div><span class="cpu-bar-num">3.3</span></div></td>
+<td class="num">14</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>06</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--tm">TM</span><span class="cpu-cpuname">Trend Micro Internet Security</span></div></td>
+<td class="cpu-td-gen">Trend Micro</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:83%"></div><span class="cpu-bar-num">99.09</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:47%"></div><span class="cpu-bar-num">4.7</span></div></td>
+<td class="num">8</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>07</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--fs">FS</span><span class="cpu-cpuname">F-Secure Internet Security</span></div></td>
+<td class="cpu-td-gen">F-Secure</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.98</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:18%"></div><span class="cpu-bar-num">18.3</span></div></td>
+<td class="num">19</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>08</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gd">GD</span><span class="cpu-cpuname">G DATA Total Security</span></div></td>
+<td class="cpu-td-gen">G DATA</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:85%"></div><span class="cpu-bar-num">8.5</span></div></td>
+<td class="num">5</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>09</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mb">MB</span><span class="cpu-cpuname">Malwarebytes Premium</span></div></td>
+<td class="cpu-td-gen">Malwarebytes</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:59%"></div><span class="cpu-bar-num">99.59</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:176%"></div><span class="cpu-bar-num">17.6</span></div></td>
+<td class="num">23</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>10</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--pd">PD</span><span class="cpu-cpuname">Panda Dome Advanced</span></div></td>
+<td class="cpu-td-gen">Panda</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:11%"></div><span class="cpu-bar-num">99.17</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:111%"></div><span class="cpu-bar-num">11.1</span></div></td>
+<td class="num">54</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>11</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--qh">QH</span><span class="cpu-cpuname">Quick Heal Total Security</span></div></td>
+<td class="cpu-td-gen">Quick Heal</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:50%"></div><span class="cpu-bar-num">99.50</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:191%"></div><span class="cpu-bar-num">19.1</span></div></td>
+<td class="num">16</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>12</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ft">FT</span><span class="cpu-cpuname">Fortect PC Suite</span></div></td>
+<td class="cpu-td-gen">Fortect</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:95%"></div><span class="cpu-bar-num">99.95</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:179%"></div><span class="cpu-bar-num">17.9</span></div></td>
+<td class="num">10</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>13</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ta">TA</span><span class="cpu-cpuname">TotalAV Premium</span></div></td>
+<td class="cpu-td-gen">TotalAV</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:182%"></div><span class="cpu-bar-num">18.2</span></div></td>
+<td class="num">19</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>14</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--td">TD</span><span class="cpu-cpuname">Total Defense Essential</span></div></td>
+<td class="cpu-td-gen">Total Defense</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:316%"></div><span class="cpu-bar-num">31.6</span></div></td>
+<td class="num">4</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>15</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--vp">VP</span><span class="cpu-cpuname">VIPRE Advanced Security</span></div></td>
+<td class="cpu-td-gen">VIPRE</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:224%"></div><span class="cpu-bar-num">22.4</span></div></td>
+<td class="num">4</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr class="cpu-tr--star">
 <td class="cpu-td-tier"><span>&times;</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Norton 360</span></div></td>
 <td class="cpu-td-gen">Gen Digital</td>
@@ -288,6 +405,7 @@ toc:
 <td class="num">9</td>
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>30</td>
 </tr>
+
 <tr>
 <td class="cpu-td-tier"><span>&times;</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Avast One</span></div></td>
@@ -297,6 +415,7 @@ toc:
 <td class="num">9</td>
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
 </tr>
+
 <tr>
 <td class="cpu-td-tier"><span>&times;</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">AVG Internet Security</span></div></td>
@@ -306,9 +425,11 @@ toc:
 <td class="num">9</td>
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
 </tr>
+
+</tbody>
 </tbody>
 <tfoot>
-<tr><td colspan="7"><strong>Protection</strong> = online protection rate, AV&#8209;Comparatives Malware Protection Test, March&nbsp;2026. <strong>Impact</strong> = AV&#8209;Comparatives Performance Test, April&nbsp;2026 (lower is less drag on the system). <strong>False +</strong> = false alarms in the March 2026 protection run. Bars scaled within this table. Avast, AVG and Norton return identical protection and false&#8209;positive counts &mdash; the same engine wearing three logos. *M365 Personal &pound;85/yr includes Defender plus Office.</td></tr>
+<tr><td colspan="7"><strong>Protection</strong> = online protection rate (AV&#8209;Comparatives Malware Protection Test, March&nbsp;2026). <strong>Impact</strong> = AV&#8209;Comparatives Performance Test, April&nbsp;2026 (lower is less drag on the system). <strong>False +</strong> = false alarms in the March 2026 protection run. Bars are scaled within this table. Avast, AVG and Norton return identical protection and false&#8209;positive counts &mdash; the same engine wearing three logos. Sources: <a href="https://av-comparatives.org/tests/real-world-protection-test-feb-mar-2026-factsheet/">Real-World Protection Feb–Mar 2026</a>, <a href="https://av-comparatives.org/tests/malware-protection-test-march-2026/">Malware Protection Test Mar 2026</a>, <a href="https://av-comparatives.org/tests/performance-test-april-2026/">Performance Test Apr 2026</a>.</td></tr>
 </tfoot>
 </table>
 </div>
