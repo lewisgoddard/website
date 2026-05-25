@@ -1,0 +1,1060 @@
+sockets:
+  AM4:
+    generations:
+      '3000':
+        AMD Ryzen 3 3100:
+          architecture: Zen 2
+          process: 7nm
+          cores: 4
+          threads: 8
+          turbo: 3.9
+          cache: 16
+          tdp: 65
+          id: '200291221'
+        AMD Ryzen 3 3300X:
+          architecture: Zen 2
+          process: 7nm
+          cores: 4
+          threads: 8
+          turbo: 4.3
+          cache: 16
+          tdp: 65
+          id: '200293619'
+        AMD Ryzen 5 3500X:
+          architecture: Zen 2
+          process: 7nm
+          cores: 6
+          threads: 6
+          turbo: 4.1
+          cache: 32
+          tdp: 65
+          id: '200714900'
+        AMD Ryzen 5 3600:
+          architecture: Zen 2
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.2
+          cache: 32
+          tdp: 65
+          id: '6642292'
+        AMD Ryzen 5 3600X:
+          architecture: Zen 2
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.4
+          cache: 32
+          tdp: 95
+          id: '6639776'
+        AMD Ryzen 5 3600XT:
+          architecture: Zen 2
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.5
+          cache: 32
+          tdp: 95
+          id: '200445897'
+        AMD Ryzen 7 3700X:
+          architecture: Zen 2
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.4
+          cache: 32
+          tdp: 65
+          id: '6639764'
+        AMD Ryzen 7 3800X:
+          architecture: Zen 2
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.5
+          cache: 32
+          tdp: 105
+          id: '6639756'
+        AMD Ryzen 7 3800XT:
+          architecture: Zen 2
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.7
+          cache: 32
+          tdp: 105
+          id: '200445893'
+        AMD Ryzen 9 3900X:
+          architecture: Zen 2
+          process: 7nm
+          cores: 12
+          threads: 24
+          turbo: 4.6
+          cache: 64
+          tdp: 105
+          id: '6639723'
+        AMD Ryzen 9 3900XT:
+          architecture: Zen 2
+          process: 7nm
+          cores: 12
+          threads: 24
+          turbo: 4.7
+          cache: 64
+          tdp: 105
+          id: '200445889'
+        AMD Ryzen 9 3950X:
+          architecture: Zen 2
+          process: 7nm
+          cores: 16
+          threads: 32
+          turbo: 4.7
+          cache: 64
+          tdp: 105
+          id: '6639711'
+      '4000':
+        AMD Ryzen 3 4100:
+          architecture: Zen 2
+          process: 7nm
+          cores: 4
+          threads: 8
+          turbo: 4.0
+          cache: 4
+          tdp: 65
+          id: '201899581'
+        AMD Ryzen 5 4500:
+          architecture: Zen 2
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.1
+          cache: 8
+          tdp: 65
+          id: '201899555'
+        AMD Ryzen 5 4600G:
+          architecture: Zen 2
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.2
+          cache: 8
+          tdp: 65
+          gpu:
+            name: AMD Radeon Vega 7
+            cus: 7
+            frequency: 1900
+          id: '201949890'
+      '5000':
+        AMD Ryzen 5 5500:
+          architecture: Zen 3
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.2
+          cache: 16
+          tdp: 65
+          id: '201899510'
+        AMD Ryzen 5 5600:
+          architecture: Zen 3
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.4
+          cache: 32
+          tdp: 65
+          id: '201899387'
+        AMD Ryzen 5 5600G:
+          architecture: Zen 3
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.4
+          cache: 16
+          tdp: 65
+          gpu:
+            name: AMD Radeon Vega 7
+            cus: 7
+            frequency: 1900
+          id: '201496128'
+        AMD Ryzen 5 5600X:
+          architecture: Zen 3
+          process: 7nm
+          cores: 6
+          threads: 12
+          turbo: 4.6
+          cache: 32
+          tdp: 65
+          id: '200733045'
+        AMD Ryzen 7 5700G:
+          architecture: Zen 3
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.6
+          cache: 16
+          tdp: 65
+          gpu:
+            name: AMD Radeon Vega 8
+            cus: 8
+            frequency: 2000
+          id: '201497621'
+        AMD Ryzen 7 5700X:
+          architecture: Zen 3
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.6
+          cache: 32
+          tdp: 65
+          id: '201899339'
+        AMD Ryzen 7 5700X3D:
+          architecture: Zen 3 X3D
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.1
+          cache: 96
+          tdp: 105
+          id: '203712845'
+        AMD Ryzen 7 5800X:
+          architecture: Zen 3
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.7
+          cache: 32
+          tdp: 105
+          id: '200733026'
+        AMD Ryzen 7 5800X3D:
+          architecture: Zen 3 X3D
+          process: 7nm
+          cores: 8
+          threads: 16
+          turbo: 4.5
+          cache: 96
+          tdp: 105
+          id: '202115887'
+        AMD Ryzen 9 5900X:
+          architecture: Zen 3
+          process: 7nm
+          cores: 12
+          threads: 24
+          turbo: 4.8
+          cache: 64
+          tdp: 105
+          id: '200732985'
+        AMD Ryzen 9 5950X:
+          architecture: Zen 3
+          process: 7nm
+          cores: 16
+          threads: 32
+          turbo: 4.9
+          cache: 64
+          tdp: 105
+          id: '200732946'
+  AM5:
+    generations:
+      '7000':
+        AMD Ryzen 5 7500F:
+          architecture: Zen 4
+          process: 5nm
+          cores: 6
+          threads: 12
+          turbo: 5.0
+          cache: 32
+          tdp: 65
+          id: '203121401'
+        AMD Ryzen 5 7600:
+          architecture: Zen 4
+          process: 5nm
+          cores: 6
+          threads: 12
+          turbo: 5.1
+          cache: 32
+          tdp: 65
+          id: '202267026'
+        AMD Ryzen 5 7600X:
+          architecture: Zen 4
+          process: 5nm
+          cores: 6
+          threads: 12
+          turbo: 5.3
+          cache: 32
+          tdp: 105
+          id: '202114973'
+        AMD Ryzen 5 7600X3D:
+          architecture: Zen 4 X3D
+          process: 5nm
+          cores: 6
+          threads: 12
+          turbo: 4.7
+          cache: 96
+          tdp: 65
+          id: '205042359'
+        AMD Ryzen 7 7700:
+          architecture: Zen 4
+          process: 5nm
+          cores: 8
+          threads: 16
+          turbo: 5.3
+          cache: 32
+          tdp: 65
+          id: '202275796'
+        AMD Ryzen 7 7700X:
+          architecture: Zen 4
+          process: 5nm
+          cores: 8
+          threads: 16
+          turbo: 5.4
+          cache: 32
+          tdp: 105
+          id: '202114995'
+        AMD Ryzen 7 7800X3D:
+          architecture: Zen 4 X3D
+          process: 5nm
+          cores: 8
+          threads: 16
+          turbo: 5.0
+          cache: 96
+          tdp: 120
+          id: '202722732'
+        AMD Ryzen 9 7900:
+          architecture: Zen 4
+          process: 5nm
+          cores: 12
+          threads: 24
+          turbo: 5.4
+          cache: 64
+          tdp: 65
+          id: '202275798'
+        AMD Ryzen 9 7900X:
+          architecture: Zen 4
+          process: 5nm
+          cores: 12
+          threads: 24
+          turbo: 5.6
+          cache: 64
+          tdp: 170
+          id: '202115045'
+        AMD Ryzen 9 7900X3D:
+          architecture: Zen 4 X3D
+          process: 5nm
+          cores: 12
+          threads: 24
+          turbo: 5.6
+          cache: 128
+          tdp: 120
+          id: '202345150'
+        AMD Ryzen 9 7950X:
+          architecture: Zen 4
+          process: 5nm
+          cores: 16
+          threads: 32
+          turbo: 5.7
+          cache: 64
+          tdp: 170
+          id: '202115049'
+        AMD Ryzen 9 7950X3D:
+          architecture: Zen 4 X3D
+          process: 5nm
+          cores: 16
+          threads: 32
+          turbo: 5.7
+          cache: 128
+          tdp: 120
+          id: '202765320'
+      '8000':
+        AMD Ryzen 5 8400F:
+          architecture: Zen 4
+          process: 4nm
+          cores: 6
+          threads: 12
+          turbo: 4.7
+          cache: 16
+          tdp: 65
+          id: '204320680'
+        AMD Ryzen 5 8500G:
+          architecture: Zen 4
+          process: 4nm
+          cores: 2+4
+          threads: 12
+          turbo: 5.0
+          cache: 16
+          tdp: 65
+          gpu:
+            name: AMD Radeon 740M
+            cus: 4
+            frequency: 2800
+          id: '203819481'
+        AMD Ryzen 5 8600G:
+          architecture: Zen 4
+          process: 4nm
+          cores: 6
+          threads: 12
+          turbo: 5.0
+          cache: 16
+          tdp: 65
+          gpu:
+            name: AMD Radeon 760M
+            cus: 8
+            frequency: 2800
+          id: '203819479'
+        AMD Ryzen 7 8700F:
+          architecture: Zen 4
+          process: 4nm
+          cores: 8
+          threads: 16
+          turbo: 5.0
+          cache: 16
+          tdp: 65
+          id: '204320686'
+        AMD Ryzen 7 8700G:
+          architecture: Zen 4
+          process: 4nm
+          cores: 8
+          threads: 16
+          turbo: 5.1
+          cache: 16
+          tdp: 65
+          gpu:
+            name: AMD Radeon 780M
+            cus: 12
+            frequency: 2900
+          id: '203819442'
+      '9000':
+        AMD Ryzen 5 9600:
+          architecture: Zen 5
+          process: 4nm
+          cores: 6
+          threads: 12
+          turbo: 5.2
+          cache: 32
+          tdp: 65
+          id: '206095312'
+        AMD Ryzen 5 9600X:
+          architecture: Zen 5
+          process: 4nm
+          cores: 6
+          threads: 12
+          turbo: 5.4
+          cache: 32
+          tdp: 65
+          id: '204581805'
+        AMD Ryzen 7 9700X:
+          architecture: Zen 5
+          process: 4nm
+          cores: 8
+          threads: 16
+          turbo: 5.5
+          cache: 32
+          tdp: 65
+          id: '204581803'
+        AMD Ryzen 7 9800X3D:
+          architecture: Zen 5 X3D
+          process: 4nm
+          cores: 8
+          threads: 16
+          turbo: 5.2
+          cache: 96
+          tdp: 120
+          id: '205072279'
+        AMD Ryzen 9 9900X:
+          architecture: Zen 5
+          process: 4nm
+          cores: 12
+          threads: 24
+          turbo: 5.6
+          cache: 64
+          tdp: 120
+          id: '204581800'
+        AMD Ryzen 9 9900X3D:
+          architecture: Zen 5 X3D
+          process: 4nm
+          cores: 12
+          threads: 24
+          turbo: 5.5
+          cache: 128
+          tdp: 120
+          id: '206095257'
+        AMD Ryzen 9 9950X:
+          architecture: Zen 5
+          process: 4nm
+          cores: 16
+          threads: 32
+          turbo: 5.7
+          cache: 64
+          tdp: 170
+          id: '204581802'
+        AMD Ryzen 9 9950X3D:
+          architecture: Zen 5 X3D
+          process: 4nm
+          cores: 16
+          threads: 32
+          turbo: 5.7
+          cache: 128
+          tdp: 170
+          id: '206095266'
+  LGA1700:
+    generations:
+      '12000':
+        Intel Pentium Gold G7400:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 2+0
+          threads: 4
+          turbo: 3.7
+          cache: 6
+          tdp: 46
+          id: '201920419'
+        Intel Celeron G6900:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 2+0
+          threads: 2
+          turbo: 3.4
+          cache: 4
+          tdp: 46
+          id: '201844127'
+        Intel Core i3-12100:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 4+0
+          threads: 8
+          turbo: 4.3
+          cache: 12
+          tdp: 60
+          id: '201785768'
+        Intel Core i3-12100F:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 4+0
+          threads: 8
+          turbo: 4.3
+          cache: 12
+          tdp: 58
+          id: '201785485'
+        Intel Core i5-12400:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 6+0
+          threads: 12
+          turbo: 4.4
+          cache: 18
+          tdp: 65
+          id: '201786697'
+        Intel Core i5-12400F:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 6+0
+          threads: 12
+          turbo: 4.4
+          cache: 18
+          tdp: 65
+          id: '201785821'
+        Intel Core i5-12500:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 6+0
+          threads: 12
+          turbo: 4.6
+          cache: 18
+          tdp: 65
+          id: '201786657'
+        Intel Core i5-12600:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 6+0
+          threads: 12
+          turbo: 4.8
+          cache: 18
+          tdp: 65
+          id: '201786677'
+        Intel Core i5-12600K:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 6+4
+          threads: 16
+          turbo: 4.9
+          cache: 20
+          tdp: 125
+          id: '201660777'
+        Intel Core i5-12600KF:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 6+4
+          threads: 16
+          turbo: 4.9
+          cache: 20
+          tdp: 125
+          id: '201660869'
+        Intel Core i7-12700:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+4
+          threads: 20
+          turbo: 4.9
+          cache: 25
+          tdp: 65
+          id: '201786722'
+        Intel Core i7-12700F:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+4
+          threads: 20
+          turbo: 4.9
+          cache: 25
+          tdp: 65
+          id: '201786708'
+        Intel Core i7-12700K:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+4
+          threads: 20
+          turbo: 5.0
+          cache: 25
+          tdp: 125
+          id: '201660528'
+        Intel Core i7-12700KF:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+4
+          threads: 20
+          turbo: 5.0
+          cache: 25
+          tdp: 125
+          id: '201660548'
+        Intel Core i9-12900:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.1
+          cache: 30
+          tdp: 65
+          id: '201786730'
+        Intel Core i9-12900F:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.1
+          cache: 30
+          tdp: 65
+          id: '201786727'
+        Intel Core i9-12900K:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.2
+          cache: 30
+          tdp: 125
+          id: '201659625'
+        Intel Core i9-12900KF:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.2
+          cache: 30
+          tdp: 125
+          id: '201660715'
+        Intel Core i9-12900KS:
+          architecture: Alder Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.5
+          cache: 30
+          tdp: 150
+          id: '201903677'
+      '13000':
+        Intel Core i3-13100:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 4+0
+          threads: 8
+          turbo: 4.5
+          cache: 12
+          tdp: 60
+          id: '202266413'
+        Intel Core i3-13100F:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 4+0
+          threads: 8
+          turbo: 4.5
+          cache: 12
+          tdp: 58
+          id: '202266428'
+        Intel Core i5-13400:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 6+4
+          threads: 16
+          turbo: 4.6
+          cache: 20
+          tdp: 65
+          id: '202265804'
+        Intel Core i5-13400F:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 6+4
+          threads: 16
+          turbo: 4.6
+          cache: 20
+          tdp: 65
+          id: '202265862'
+        Intel Core i5-13500:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 6+8
+          threads: 20
+          turbo: 4.8
+          cache: 24
+          tdp: 65
+          id: '202265873'
+        Intel Core i5-13600K:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 6+8
+          threads: 20
+          turbo: 5.1
+          cache: 24
+          tdp: 125
+          id: '202122948'
+        Intel Core i5-13600KF:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 6+8
+          threads: 20
+          turbo: 5.1
+          cache: 24
+          tdp: 125
+          id: '202122952'
+        Intel Core i7-13700:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.2
+          cache: 30
+          tdp: 65
+          id: '202266545'
+        Intel Core i7-13700F:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.2
+          cache: 30
+          tdp: 65
+          id: '202266549'
+        Intel Core i7-13700K:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.4
+          cache: 30
+          tdp: 125
+          id: '202122942'
+        Intel Core i7-13700KF:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+8
+          threads: 24
+          turbo: 5.4
+          cache: 30
+          tdp: 125
+          id: '202122943'
+        Intel Core i9-13900:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 5.6
+          cache: 36
+          tdp: 65
+          id: '202266881'
+        Intel Core i9-13900F:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 5.6
+          cache: 36
+          tdp: 65
+          id: '202266883'
+        Intel Core i9-13900K:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 5.8
+          cache: 36
+          tdp: 125
+          id: '202122936'
+        Intel Core i9-13900KF:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 5.8
+          cache: 36
+          tdp: 125
+          id: '202122940'
+        Intel Core i9-13900KS:
+          architecture: Raptor Lake
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 6.0
+          cache: 36
+          tdp: 150
+          id: '202282991'
+      '14000':
+        Intel Core i3-14100:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 4+0
+          threads: 8
+          turbo: 4.7
+          cache: 12
+          tdp: 60
+          id: '203710177'
+        Intel Core i3-14100F:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 4+0
+          threads: 8
+          turbo: 4.7
+          cache: 12
+          tdp: 58
+          id: '203710183'
+        Intel Core i5-14400:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 6+4
+          threads: 16
+          turbo: 4.7
+          cache: 20
+          tdp: 65
+          id: '203711131'
+        Intel Core i5-14400F:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 6+4
+          threads: 16
+          turbo: 4.7
+          cache: 20
+          tdp: 65
+          id: '203711970'
+        Intel Core i5-14500:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 6+8
+          threads: 20
+          turbo: 5.0
+          cache: 24
+          tdp: 65
+          id: '203712575'
+        Intel Core i5-14600K:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 6+8
+          threads: 20
+          turbo: 5.3
+          cache: 24
+          tdp: 125
+          id: '203357244'
+        Intel Core i5-14600KF:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 6+8
+          threads: 20
+          turbo: 5.3
+          cache: 24
+          tdp: 125
+          id: '203357446'
+        Intel Core i7-14700:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+12
+          threads: 28
+          turbo: 5.4
+          cache: 33
+          tdp: 65
+          id: '203712147'
+        Intel Core i7-14700F:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+12
+          threads: 28
+          turbo: 5.4
+          cache: 33
+          tdp: 65
+          id: '203712146'
+        Intel Core i7-14700K:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+12
+          threads: 28
+          turbo: 5.6
+          cache: 33
+          tdp: 125
+          id: '203357233'
+        Intel Core i7-14700KF:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+12
+          threads: 28
+          turbo: 5.6
+          cache: 33
+          tdp: 125
+          id: '203357238'
+        Intel Core i9-14900:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 5.8
+          cache: 36
+          tdp: 65
+          id: '203712199'
+        Intel Core i9-14900F:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 5.8
+          cache: 36
+          tdp: 65
+          id: '203712201'
+        Intel Core i9-14900K:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 6.0
+          cache: 36
+          tdp: 125
+          id: '203356213'
+        Intel Core i9-14900KF:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 6.0
+          cache: 36
+          tdp: 125
+          id: '203357235'
+        Intel Core i9-14900KS:
+          architecture: Raptor Lake Refresh
+          process: Intel 7
+          cores: 8+16
+          threads: 32
+          turbo: 6.2
+          cache: 36
+          tdp: 150
+          id: '203993262'
+  LGA1851:
+    generations:
+      '200':
+        Intel Core Ultra 5 225:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 6+4
+          threads: 10
+          turbo: 4.9
+          cache: 20
+          tdp: 65
+          id: '205757482'
+        Intel Core Ultra 5 225F:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 6+4
+          threads: 10
+          turbo: 4.9
+          cache: 20
+          tdp: 65
+          id: '205757484'
+        Intel Core Ultra 5 235:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 6+8
+          threads: 14
+          turbo: 5.0
+          cache: 24
+          tdp: 65
+          id: '206095338'
+        Intel Core Ultra 5 245K:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 6+8
+          threads: 14
+          turbo: 5.2
+          cache: 24
+          tdp: 125
+          id: '204911341'
+        Intel Core Ultra 5 245KF:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 6+8
+          threads: 14
+          turbo: 5.2
+          cache: 24
+          tdp: 125
+          id: '204911345'
+        Intel Core Ultra 7 265:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 8+12
+          threads: 20
+          turbo: 5.3
+          cache: 30
+          tdp: 65
+          id: '205757799'
+        Intel Core Ultra 7 265F:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 8+12
+          threads: 20
+          turbo: 5.3
+          cache: 30
+          tdp: 65
+          id: '205757803'
+        Intel Core Ultra 7 265K:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 8+12
+          threads: 20
+          turbo: 5.5
+          cache: 30
+          tdp: 125
+          id: '204911340'
+        Intel Core Ultra 7 265KF:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 8+12
+          threads: 20
+          turbo: 5.5
+          cache: 30
+          tdp: 125
+          id: '204911343'
+        Intel Core Ultra 9 285:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 8+16
+          threads: 24
+          turbo: 5.6
+          cache: 36
+          tdp: 65
+          id: '205757814'
+        Intel Core Ultra 9 285K:
+          architecture: Arrow Lake
+          process: TSMC N3B
+          cores: 8+16
+          threads: 24
+          turbo: 5.7
+          cache: 36
+          tdp: 125
+          id: '204911339'

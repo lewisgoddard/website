@@ -1,0 +1,1356 @@
+AMD Ryzen 3 3100:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 4
+    single_perf: 3.9
+    multi_perf: 15.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 3 3300X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.3
+    multi_perf: 17.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 3500X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.1
+    multi_perf: 24.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 3600:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.2
+    multi_perf: 25.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 3600X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.4
+    multi_perf: 26.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 3600XT:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.5
+    multi_perf: 27.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 3700X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 4.4
+    multi_perf: 35.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 3800X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 4.5
+    multi_perf: 36.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 3800XT:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 4.7
+    multi_perf: 37.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 3900X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 12
+    single_perf: 4.6
+    multi_perf: 55.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 3900XT:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 12
+    single_perf: 4.7
+    multi_perf: 56.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 3950X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 16
+    single_perf: 4.7
+    multi_perf: 75.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 3 4100:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.0
+    multi_perf: 16.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 4500:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.1
+    multi_perf: 24.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 4600G:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: true
+    total_cores: 6
+    single_perf: 4.2
+    multi_perf: 25.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 5500:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.2
+    multi_perf: 25.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 5600:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.4
+    multi_perf: 26.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 5600G:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: true
+    total_cores: 6
+    single_perf: 4.4
+    multi_perf: 26.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 5600X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.6
+    multi_perf: 27.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 5700G:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: true
+    total_cores: 8
+    single_perf: 4.6
+    multi_perf: 36.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 5700X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 4.6
+    multi_perf: 36.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 5700X3D:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 4.1
+    multi_perf: 32.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 5800X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 4.7
+    multi_perf: 37.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 5800X3D:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 4.5
+    multi_perf: 36.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 5900X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 12
+    single_perf: 4.8
+    multi_perf: 57.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 5950X:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 16
+    single_perf: 4.9
+    multi_perf: 78.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 7500F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 5.0
+    multi_perf: 30.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 7600:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 5.1
+    multi_perf: 30.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 7600X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 5.3
+    multi_perf: 31.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 7600X3D:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.7
+    multi_perf: 28.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 7700:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 8
+    single_perf: 5.3
+    multi_perf: 42.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 7700X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 8
+    single_perf: 5.4
+    multi_perf: 43.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 7800X3D:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 8
+    single_perf: 5.0
+    multi_perf: 40.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 7900:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 5.4
+    multi_perf: 64.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 7900X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 5.6
+    multi_perf: 67.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 7900X3D:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 5.6
+    multi_perf: 67.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 7950X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.7
+    multi_perf: 91.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 7950X3D:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.7
+    multi_perf: 91.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 8400F:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.7
+    multi_perf: 28.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 8500G:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: true
+    total_cores: 6
+    single_perf: 5.0
+    multi_perf: 30.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 8600G:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: true
+    total_cores: 6
+    single_perf: 5.0
+    multi_perf: 30.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 8700F:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: false
+    total_cores: 8
+    single_perf: 5.0
+    multi_perf: 40.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 8700G:
+  price: null
+  derived:
+    pcie_gen: 4
+    has_igpu: true
+    total_cores: 8
+    single_perf: 5.1
+    multi_perf: 40.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 9600:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 5.2
+    multi_perf: 31.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 5 9600X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 5.4
+    multi_perf: 32.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 9700X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 8
+    single_perf: 5.5
+    multi_perf: 44.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 7 9800X3D:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 8
+    single_perf: 5.2
+    multi_perf: 41.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 9900X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 5.6
+    multi_perf: 67.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 9900X3D:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 5.5
+    multi_perf: 66.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 9950X:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.7
+    multi_perf: 91.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+AMD Ryzen 9 9950X3D:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.7
+    multi_perf: 91.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Pentium Gold G7400:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 2
+    single_perf: 3.7
+    multi_perf: 7.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Celeron G6900:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 2
+    single_perf: 3.4
+    multi_perf: 6.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i3-12100:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.3
+    multi_perf: 17.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i3-12100F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.3
+    multi_perf: 17.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-12400:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.4
+    multi_perf: 26.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-12400F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.4
+    multi_perf: 26.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-12500:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.6
+    multi_perf: 27.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-12600:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 6
+    single_perf: 4.8
+    multi_perf: 28.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-12600K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.9
+    multi_perf: 49.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-12600KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.9
+    multi_perf: 49.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-12700:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 4.9
+    multi_perf: 58.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-12700F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 4.9
+    multi_perf: 58.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-12700K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 5.0
+    multi_perf: 60.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-12700KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 12
+    single_perf: 5.0
+    multi_perf: 60.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-12900:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.1
+    multi_perf: 81.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-12900F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.1
+    multi_perf: 81.6
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-12900K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.2
+    multi_perf: 83.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-12900KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.2
+    multi_perf: 83.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-12900KS:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.5
+    multi_perf: 88.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i3-13100:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.5
+    multi_perf: 18.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i3-13100F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.5
+    multi_perf: 18.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-13400:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.6
+    multi_perf: 46.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-13400F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.6
+    multi_perf: 46.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-13500:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 4.8
+    multi_perf: 67.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-13600K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.1
+    multi_perf: 71.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-13600KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.1
+    multi_perf: 71.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-13700:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.2
+    multi_perf: 83.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-13700F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.2
+    multi_perf: 83.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-13700K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.4
+    multi_perf: 86.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-13700KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 16
+    single_perf: 5.4
+    multi_perf: 86.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-13900:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.6
+    multi_perf: 134.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-13900F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.6
+    multi_perf: 134.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-13900K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.8
+    multi_perf: 139.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-13900KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.8
+    multi_perf: 139.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-13900KS:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 6.0
+    multi_perf: 144.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i3-14100:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.7
+    multi_perf: 18.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i3-14100F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 4
+    single_perf: 4.7
+    multi_perf: 18.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-14400:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.7
+    multi_perf: 47.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-14400F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.7
+    multi_perf: 47.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-14500:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.0
+    multi_perf: 70.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-14600K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.3
+    multi_perf: 74.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i5-14600KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.3
+    multi_perf: 74.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-14700:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.4
+    multi_perf: 108.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-14700F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.4
+    multi_perf: 108.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-14700K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.6
+    multi_perf: 112.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i7-14700KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.6
+    multi_perf: 112.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-14900:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.8
+    multi_perf: 139.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-14900F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.8
+    multi_perf: 139.2
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-14900K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 6.0
+    multi_perf: 144.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-14900KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 6.0
+    multi_perf: 144.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core i9-14900KS:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 6.2
+    multi_perf: 148.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 5 225:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.9
+    multi_perf: 49.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 5 225F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 10
+    single_perf: 4.9
+    multi_perf: 49.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 5 235:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.0
+    multi_perf: 70.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 5 245K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.2
+    multi_perf: 72.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 5 245KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 14
+    single_perf: 5.2
+    multi_perf: 72.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 7 265:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.3
+    multi_perf: 106.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 7 265F:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.3
+    multi_perf: 106.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 7 265K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.5
+    multi_perf: 110.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 7 265KF:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 5.5
+    multi_perf: 110.0
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 9 285:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.6
+    multi_perf: 134.4
+  scores:
+    gaming: null
+    general: null
+    workbench: null
+Intel Core Ultra 9 285K:
+  price: null
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 5.7
+    multi_perf: 136.8
+  scores:
+    gaming: null
+    general: null
+    workbench: null

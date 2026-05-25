@@ -1,0 +1,30 @@
+name: CPU prices — trigger
+
+on:
+  schedule:
+    - cron: '13 03 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install --upgrade pip && pip install pyyaml requests
+      - name: Trigger Idealo jobs
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python _scripts/cpu-prices/cpu_triggers.py
+      - name: Commit pending jobs
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add _scripts/cpu-prices/cpu_jobs.yml
+          git diff --cached --quiet || git commit -m 'chore(cpu-prices): queue price refresh jobs'
+          git push origin HEAD:${{ github.ref_name }}

@@ -1,0 +1,34 @@
+name: CPU prices — fetch & score
+
+on:
+  schedule:
+    - cron: '23 04 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: pip install --upgrade pip && pip install pyyaml requests
+      - name: Poll finished jobs
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        run: python _scripts/cpu-prices/cpu_fetch.py
+      - name: Regenerate cpu-scores.yml
+        run: python _scripts/cpu-prices/cpu_score.py
+      - name: Commit updated data
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add _scripts/cpu-prices/cpu_jobs.yml \
+                  _scripts/cpu-prices/cpu_prices.yml \
+                  _data/cpu-scores.yml
+          git diff --cached --quiet || git commit -m 'chore(cpu): refresh prices and scores'
+          git push origin HEAD:${{ github.ref_name }}
