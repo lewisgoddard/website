@@ -11,6 +11,8 @@ sockets:
           cache: 16
           tdp: 65
           id: '200291221'
+          passmark_single: 2422
+          passmark_multi: 11645
         AMD Ryzen 3 3300X:
           architecture: Zen 2
           process: 7nm
@@ -20,6 +22,8 @@ sockets:
           cache: 16
           tdp: 65
           id: '200293619'
+          passmark_single: 2678
+          passmark_multi: 12692
         AMD Ryzen 5 3500X:
           architecture: Zen 2
           process: 7nm
@@ -29,6 +33,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '200714900'
+          passmark_single: 2501
+          passmark_multi: 13171
         AMD Ryzen 5 3600:
           architecture: Zen 2
           process: 7nm
@@ -38,6 +44,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '6642292'
+          passmark_single: 2569
+          passmark_multi: 17796
         AMD Ryzen 5 3600X:
           architecture: Zen 2
           process: 7nm
@@ -47,6 +55,8 @@ sockets:
           cache: 32
           tdp: 95
           id: '6639776'
+          passmark_single: 2658
+          passmark_multi: 18257
         AMD Ryzen 5 3600XT:
           architecture: Zen 2
           process: 7nm
@@ -56,6 +66,8 @@ sockets:
           cache: 32
           tdp: 95
           id: '200445897'
+          passmark_single: 2770
+          passmark_multi: 18715
         AMD Ryzen 7 3700X:
           architecture: Zen 2
           process: 7nm
@@ -65,6 +77,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '6639764'
+          passmark_single: 2664
+          passmark_multi: 22667
         AMD Ryzen 7 3800X:
           architecture: Zen 2
           process: 7nm
@@ -74,6 +88,8 @@ sockets:
           cache: 32
           tdp: 105
           id: '6639756'
+          passmark_single: 2721
+          passmark_multi: 23255
         AMD Ryzen 7 3800XT:
           architecture: Zen 2
           process: 7nm
@@ -83,6 +99,8 @@ sockets:
           cache: 32
           tdp: 105
           id: '200445893'
+          passmark_single: 2809
+          passmark_multi: 23741
         AMD Ryzen 9 3900X:
           architecture: Zen 2
           process: 7nm
@@ -92,6 +110,8 @@ sockets:
           cache: 64
           tdp: 105
           id: '6639723'
+          passmark_single: 2707
+          passmark_multi: 32724
         AMD Ryzen 9 3900XT:
           architecture: Zen 2
           process: 7nm
@@ -101,6 +121,8 @@ sockets:
           cache: 64
           tdp: 105
           id: '200445889'
+          passmark_single: 2751
+          passmark_multi: 32788
         AMD Ryzen 9 3950X:
           architecture: Zen 2
           process: 7nm
@@ -110,6 +132,8 @@ sockets:
           cache: 64
           tdp: 105
           id: '6639711'
+          passmark_single: 2710
+          passmark_multi: 38971
       '4000':
         AMD Ryzen 3 4100:
           architecture: Zen 2
@@ -120,6 +144,8 @@ sockets:
           cache: 4
           tdp: 65
           id: '201899581'
+          passmark_single: 2539
+          passmark_multi: 11160
         AMD Ryzen 5 4500:
           architecture: Zen 2
           process: 7nm
@@ -129,6 +155,8 @@ sockets:
           cache: 8
           tdp: 65
           id: '201899555'
+          passmark_single: 2603
+          passmark_multi: 16222
         AMD Ryzen 5 4600G:
           architecture: Zen 2
           process: 7nm
@@ -142,6 +170,8 @@ sockets:
             cus: 7
             frequency: 1900
           id: '201949890'
+          passmark_single: 2664
+          passmark_multi: 15936
       '5000':
         AMD Ryzen 5 5500:
           architecture: Zen 3
@@ -152,6 +182,8 @@ sockets:
           cache: 16
           tdp: 65
           id: '201899510'
+          passmark_single: 3066
+          passmark_multi: 19624
         AMD Ryzen 5 5600:
           architecture: Zen 3
           process: 7nm
@@ -161,6 +193,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '201899387'
+          passmark_single: 3259
+          passmark_multi: 21642
         AMD Ryzen 5 5600G:
           architecture: Zen 3
           process: 7nm
@@ -174,6 +208,8 @@ sockets:
             cus: 7
             frequency: 1900
           id: '201496128'
+          passmark_single: 3187
+          passmark_multi: 19931
         AMD Ryzen 5 5600X:
           architecture: Zen 3
           process: 7nm
@@ -183,6 +219,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '200733045'
+          passmark_single: 3359
+          passmark_multi: 21959
         AMD Ryzen 7 5700G:
           architecture: Zen 3
           process: 7nm
@@ -196,6 +234,8 @@ sockets:
             cus: 8
             frequency: 2000
           id: '201497621'
+          passmark_single: 3287
+          passmark_multi: 24689
         AMD Ryzen 7 5700X:
           architecture: Zen 3
           process: 7nm
@@ -205,6 +245,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '201899339'
+          passmark_single: 3385
+          passmark_multi: 26827
         AMD Ryzen 7 5700X3D:
           architecture: Zen 3 X3D
           process: 7nm
@@ -214,6 +256,8 @@ sockets:
           cache: 96
           tdp: 105
           id: '203712845'
+          passmark_single: 2969
+          passmark_multi: 26312
         AMD Ryzen 7 5800X:
           architecture: Zen 3
           process: 7nm
@@ -223,6 +267,8 @@ sockets:
           cache: 32
           tdp: 105
           id: '200733026'
+          passmark_single: 3447
+          passmark_multi: 28074
         AMD Ryzen 7 5800X3D:
           architecture: Zen 3 X3D
           process: 7nm
@@ -232,6 +278,8 @@ sockets:
           cache: 96
           tdp: 105
           id: '202115887'
+          passmark_single: 3213
+          passmark_multi: 28169
         AMD Ryzen 9 5900X:
           architecture: Zen 3
           process: 7nm
@@ -241,6 +289,8 @@ sockets:
           cache: 64
           tdp: 105
           id: '200732985'
+          passmark_single: 3471
+          passmark_multi: 39313
         AMD Ryzen 9 5950X:
           architecture: Zen 3
           process: 7nm
@@ -250,6 +300,8 @@ sockets:
           cache: 64
           tdp: 105
           id: '200732946'
+          passmark_single: 3470
+          passmark_multi: 45931
   AM5:
     generations:
       '7000':
@@ -262,6 +314,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '203121401'
+          passmark_single: 3827
+          passmark_multi: 26563
         AMD Ryzen 5 7600:
           architecture: Zen 4
           process: 5nm
@@ -271,6 +325,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '202267026'
+          passmark_single: 4009
+          passmark_multi: 27973
         AMD Ryzen 5 7600X:
           architecture: Zen 4
           process: 5nm
@@ -280,6 +336,8 @@ sockets:
           cache: 32
           tdp: 105
           id: '202114973'
+          passmark_single: 4222
+          passmark_multi: 28964
         AMD Ryzen 5 7600X3D:
           architecture: Zen 4 X3D
           process: 5nm
@@ -289,6 +347,8 @@ sockets:
           cache: 96
           tdp: 65
           id: '205042359'
+          passmark_single: 3604
+          passmark_multi: 25835
         AMD Ryzen 7 7700:
           architecture: Zen 4
           process: 5nm
@@ -298,6 +358,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '202275796'
+          passmark_single: 4165
+          passmark_multi: 35615
         AMD Ryzen 7 7700X:
           architecture: Zen 4
           process: 5nm
@@ -307,6 +369,8 @@ sockets:
           cache: 32
           tdp: 105
           id: '202114995'
+          passmark_single: 4276
+          passmark_multi: 36549
         AMD Ryzen 7 7800X3D:
           architecture: Zen 4 X3D
           process: 5nm
@@ -316,6 +380,8 @@ sockets:
           cache: 96
           tdp: 120
           id: '202722732'
+          passmark_single: 3796
+          passmark_multi: 35114
         AMD Ryzen 9 7900:
           architecture: Zen 4
           process: 5nm
@@ -325,6 +391,8 @@ sockets:
           cache: 64
           tdp: 65
           id: '202275798'
+          passmark_single: 4214
+          passmark_multi: 49309
         AMD Ryzen 9 7900X:
           architecture: Zen 4
           process: 5nm
@@ -334,6 +402,8 @@ sockets:
           cache: 64
           tdp: 170
           id: '202115045'
+          passmark_single: 4330
+          passmark_multi: 52491
         AMD Ryzen 9 7900X3D:
           architecture: Zen 4 X3D
           process: 5nm
@@ -343,6 +413,8 @@ sockets:
           cache: 128
           tdp: 120
           id: '202345150'
+          passmark_single: 4140
+          passmark_multi: 51312
         AMD Ryzen 9 7950X:
           architecture: Zen 4
           process: 5nm
@@ -352,6 +424,8 @@ sockets:
           cache: 64
           tdp: 170
           id: '202115049'
+          passmark_single: 4327
+          passmark_multi: 63628
         AMD Ryzen 9 7950X3D:
           architecture: Zen 4 X3D
           process: 5nm
@@ -361,6 +435,8 @@ sockets:
           cache: 128
           tdp: 120
           id: '202765320'
+          passmark_single: 4228
+          passmark_multi: 63519
       '8000':
         AMD Ryzen 5 8400F:
           architecture: Zen 4
@@ -371,6 +447,8 @@ sockets:
           cache: 16
           tdp: 65
           id: '204320680'
+          passmark_single: 3688
+          passmark_multi: 24439
         AMD Ryzen 5 8500G:
           architecture: Zen 4
           process: 4nm
@@ -384,6 +462,8 @@ sockets:
             cus: 4
             frequency: 2800
           id: '203819481'
+          passmark_single: 3876
+          passmark_multi: 21420
         AMD Ryzen 5 8600G:
           architecture: Zen 4
           process: 4nm
@@ -397,6 +477,8 @@ sockets:
             cus: 8
             frequency: 2800
           id: '203819479'
+          passmark_single: 3874
+          passmark_multi: 25195
         AMD Ryzen 7 8700F:
           architecture: Zen 4
           process: 4nm
@@ -406,6 +488,8 @@ sockets:
           cache: 16
           tdp: 65
           id: '204320686'
+          passmark_single: 3876
+          passmark_multi: 31008
         AMD Ryzen 7 8700G:
           architecture: Zen 4
           process: 4nm
@@ -419,6 +503,8 @@ sockets:
             cus: 12
             frequency: 2900
           id: '203819442'
+          passmark_single: 3924
+          passmark_multi: 31567
       '9000':
         AMD Ryzen 5 9600:
           architecture: Zen 5
@@ -429,6 +515,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '206095312'
+          passmark_single: 4571
+          passmark_multi: 30086
         AMD Ryzen 5 9600X:
           architecture: Zen 5
           process: 4nm
@@ -438,6 +526,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '204581805'
+          passmark_single: 4571
+          passmark_multi: 30086
         AMD Ryzen 7 9700X:
           architecture: Zen 5
           process: 4nm
@@ -447,6 +537,8 @@ sockets:
           cache: 32
           tdp: 65
           id: '204581803'
+          passmark_single: 4649
+          passmark_multi: 37061
         AMD Ryzen 7 9800X3D:
           architecture: Zen 5 X3D
           process: 4nm
@@ -456,6 +548,8 @@ sockets:
           cache: 96
           tdp: 120
           id: '205072279'
+          passmark_single: 4425
+          passmark_multi: 39970
         AMD Ryzen 9 9900X:
           architecture: Zen 5
           process: 4nm
@@ -465,6 +559,8 @@ sockets:
           cache: 64
           tdp: 120
           id: '204581800'
+          passmark_single: 4643
+          passmark_multi: 56192
         AMD Ryzen 9 9900X3D:
           architecture: Zen 5 X3D
           process: 4nm
@@ -474,6 +570,8 @@ sockets:
           cache: 128
           tdp: 120
           id: '206095257'
+          passmark_single: 4643
+          passmark_multi: 56192
         AMD Ryzen 9 9950X:
           architecture: Zen 5
           process: 4nm
@@ -483,6 +581,8 @@ sockets:
           cache: 64
           tdp: 170
           id: '204581802'
+          passmark_single: 4717
+          passmark_multi: 72703
         AMD Ryzen 9 9950X3D:
           architecture: Zen 5 X3D
           process: 4nm
@@ -492,6 +592,8 @@ sockets:
           cache: 128
           tdp: 170
           id: '206095266'
+          passmark_single: 4717
+          passmark_multi: 72703
   LGA1700:
     generations:
       '12000':
@@ -504,6 +606,8 @@ sockets:
           cache: 6
           tdp: 46
           id: '201920419'
+          passmark_single: 3050
+          passmark_multi: 6792
         Intel Celeron G6900:
           architecture: Alder Lake
           process: Intel 7
@@ -513,6 +617,8 @@ sockets:
           cache: 4
           tdp: 46
           id: '201844127'
+          passmark_single: 2707
+          passmark_multi: 4481
         Intel Core i3-12100:
           architecture: Alder Lake
           process: Intel 7
@@ -522,6 +628,8 @@ sockets:
           cache: 12
           tdp: 60
           id: '201785768'
+          passmark_single: 3436
+          passmark_multi: 13967
         Intel Core i3-12100F:
           architecture: Alder Lake
           process: Intel 7
@@ -531,6 +639,8 @@ sockets:
           cache: 12
           tdp: 58
           id: '201785485'
+          passmark_single: 3436
+          passmark_multi: 13967
         Intel Core i5-12400:
           architecture: Alder Lake
           process: Intel 7
@@ -540,6 +650,8 @@ sockets:
           cache: 18
           tdp: 65
           id: '201786697'
+          passmark_single: 3488
+          passmark_multi: 19582
         Intel Core i5-12400F:
           architecture: Alder Lake
           process: Intel 7
@@ -549,6 +661,8 @@ sockets:
           cache: 18
           tdp: 65
           id: '201785821'
+          passmark_single: 3488
+          passmark_multi: 19582
         Intel Core i5-12500:
           architecture: Alder Lake
           process: Intel 7
@@ -558,6 +672,8 @@ sockets:
           cache: 18
           tdp: 65
           id: '201786657'
+          passmark_single: 3643
+          passmark_multi: 23366
         Intel Core i5-12600:
           architecture: Alder Lake
           process: Intel 7
@@ -567,6 +683,8 @@ sockets:
           cache: 18
           tdp: 65
           id: '201786677'
+          passmark_single: 3919
+          passmark_multi: 27537
         Intel Core i5-12600K:
           architecture: Alder Lake
           process: Intel 7
@@ -576,6 +694,8 @@ sockets:
           cache: 20
           tdp: 125
           id: '201660777'
+          passmark_single: 3919
+          passmark_multi: 27537
         Intel Core i5-12600KF:
           architecture: Alder Lake
           process: Intel 7
@@ -585,6 +705,8 @@ sockets:
           cache: 20
           tdp: 125
           id: '201660869'
+          passmark_single: 3916
+          passmark_multi: 27529
         Intel Core i7-12700:
           architecture: Alder Lake
           process: Intel 7
@@ -594,6 +716,8 @@ sockets:
           cache: 25
           tdp: 65
           id: '201786722'
+          passmark_single: 4005
+          passmark_multi: 34288
         Intel Core i7-12700F:
           architecture: Alder Lake
           process: Intel 7
@@ -603,6 +727,8 @@ sockets:
           cache: 25
           tdp: 65
           id: '201786708'
+          passmark_single: 3843
+          passmark_multi: 30228
         Intel Core i7-12700K:
           architecture: Alder Lake
           process: Intel 7
@@ -612,6 +738,8 @@ sockets:
           cache: 25
           tdp: 125
           id: '201660528'
+          passmark_single: 4005
+          passmark_multi: 34288
         Intel Core i7-12700KF:
           architecture: Alder Lake
           process: Intel 7
@@ -621,6 +749,8 @@ sockets:
           cache: 25
           tdp: 125
           id: '201660548'
+          passmark_single: 3979
+          passmark_multi: 33971
         Intel Core i9-12900:
           architecture: Alder Lake
           process: Intel 7
@@ -630,6 +760,8 @@ sockets:
           cache: 30
           tdp: 65
           id: '201786730'
+          passmark_single: 4327
+          passmark_multi: 43445
         Intel Core i9-12900F:
           architecture: Alder Lake
           process: Intel 7
@@ -639,6 +771,8 @@ sockets:
           cache: 30
           tdp: 65
           id: '201786727'
+          passmark_single: 4015
+          passmark_multi: 35785
         Intel Core i9-12900K:
           architecture: Alder Lake
           process: Intel 7
@@ -648,6 +782,8 @@ sockets:
           cache: 30
           tdp: 125
           id: '201659625'
+          passmark_single: 4327
+          passmark_multi: 43445
         Intel Core i9-12900KF:
           architecture: Alder Lake
           process: Intel 7
@@ -657,6 +793,8 @@ sockets:
           cache: 30
           tdp: 125
           id: '201660715'
+          passmark_single: 4123
+          passmark_multi: 40600
         Intel Core i9-12900KS:
           architecture: Alder Lake
           process: Intel 7
@@ -666,6 +804,8 @@ sockets:
           cache: 30
           tdp: 150
           id: '201903677'
+          passmark_single: 4327
+          passmark_multi: 43445
       '13000':
         Intel Core i3-13100:
           architecture: Raptor Lake
@@ -676,6 +816,8 @@ sockets:
           cache: 12
           tdp: 60
           id: '202266413'
+          passmark_single: 3604
+          passmark_multi: 14667
         Intel Core i3-13100F:
           architecture: Raptor Lake
           process: Intel 7
@@ -685,6 +827,8 @@ sockets:
           cache: 12
           tdp: 58
           id: '202266428'
+          passmark_single: 3604
+          passmark_multi: 14667
         Intel Core i5-13400:
           architecture: Raptor Lake
           process: Intel 7
@@ -694,6 +838,8 @@ sockets:
           cache: 20
           tdp: 65
           id: '202265804'
+          passmark_single: 3716
+          passmark_multi: 27000
         Intel Core i5-13400F:
           architecture: Raptor Lake
           process: Intel 7
@@ -703,6 +849,8 @@ sockets:
           cache: 20
           tdp: 65
           id: '202265862'
+          passmark_single: 3633
+          passmark_multi: 24944
         Intel Core i5-13500:
           architecture: Raptor Lake
           process: Intel 7
@@ -712,6 +860,8 @@ sockets:
           cache: 24
           tdp: 65
           id: '202265873'
+          passmark_single: 3858
+          passmark_multi: 30905
         Intel Core i5-13600K:
           architecture: Raptor Lake
           process: Intel 7
@@ -721,6 +871,8 @@ sockets:
           cache: 24
           tdp: 125
           id: '202122948'
+          passmark_single: 4115
+          passmark_multi: 37520
         Intel Core i5-13600KF:
           architecture: Raptor Lake
           process: Intel 7
@@ -730,6 +882,8 @@ sockets:
           cache: 24
           tdp: 125
           id: '202122952'
+          passmark_single: 4114
+          passmark_multi: 37387
         Intel Core i7-13700:
           architecture: Raptor Lake
           process: Intel 7
@@ -739,6 +893,8 @@ sockets:
           cache: 30
           tdp: 65
           id: '202266545'
+          passmark_single: 4328
+          passmark_multi: 45692
         Intel Core i7-13700F:
           architecture: Raptor Lake
           process: Intel 7
@@ -748,6 +904,8 @@ sockets:
           cache: 30
           tdp: 65
           id: '202266549'
+          passmark_single: 4117
+          passmark_multi: 37883
         Intel Core i7-13700K:
           architecture: Raptor Lake
           process: Intel 7
@@ -757,6 +915,8 @@ sockets:
           cache: 30
           tdp: 125
           id: '202122942'
+          passmark_single: 4328
+          passmark_multi: 45692
         Intel Core i7-13700KF:
           architecture: Raptor Lake
           process: Intel 7
@@ -766,6 +926,8 @@ sockets:
           cache: 30
           tdp: 125
           id: '202122943'
+          passmark_single: 4331
+          passmark_multi: 45583
         Intel Core i9-13900:
           architecture: Raptor Lake
           process: Intel 7
@@ -775,6 +937,8 @@ sockets:
           cache: 36
           tdp: 65
           id: '202266881'
+          passmark_single: 4716
+          passmark_multi: 60490
         Intel Core i9-13900F:
           architecture: Raptor Lake
           process: Intel 7
@@ -784,6 +948,8 @@ sockets:
           cache: 36
           tdp: 65
           id: '202266883'
+          passmark_single: 4400
+          passmark_multi: 48391
         Intel Core i9-13900K:
           architecture: Raptor Lake
           process: Intel 7
@@ -793,6 +959,8 @@ sockets:
           cache: 36
           tdp: 125
           id: '202122936'
+          passmark_single: 4716
+          passmark_multi: 60490
         Intel Core i9-13900KF:
           architecture: Raptor Lake
           process: Intel 7
@@ -802,6 +970,8 @@ sockets:
           cache: 36
           tdp: 125
           id: '202122940'
+          passmark_single: 4581
+          passmark_multi: 57556
         Intel Core i9-13900KS:
           architecture: Raptor Lake
           process: Intel 7
@@ -811,6 +981,8 @@ sockets:
           cache: 36
           tdp: 150
           id: '202282991'
+          passmark_single: 4716
+          passmark_multi: 60490
       '14000':
         Intel Core i3-14100:
           architecture: Raptor Lake Refresh
@@ -821,6 +993,8 @@ sockets:
           cache: 12
           tdp: 60
           id: '203710177'
+          passmark_single: 3775
+          passmark_multi: 15421
         Intel Core i3-14100F:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -830,6 +1004,8 @@ sockets:
           cache: 12
           tdp: 58
           id: '203710183'
+          passmark_single: 3775
+          passmark_multi: 15421
         Intel Core i5-14400:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -839,6 +1015,8 @@ sockets:
           cache: 20
           tdp: 65
           id: '203711131'
+          passmark_single: 3703
+          passmark_multi: 25535
         Intel Core i5-14400F:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -848,6 +1026,8 @@ sockets:
           cache: 20
           tdp: 65
           id: '203711970'
+          passmark_single: 3703
+          passmark_multi: 25535
         Intel Core i5-14500:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -857,6 +1037,8 @@ sockets:
           cache: 24
           tdp: 65
           id: '203712575'
+          passmark_single: 3951
+          passmark_multi: 30937
         Intel Core i5-14600K:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -866,6 +1048,8 @@ sockets:
           cache: 24
           tdp: 125
           id: '203357244'
+          passmark_single: 4268
+          passmark_multi: 38450
         Intel Core i5-14600KF:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -875,6 +1059,8 @@ sockets:
           cache: 24
           tdp: 125
           id: '203357446'
+          passmark_single: 4256
+          passmark_multi: 38366
         Intel Core i7-14700:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -884,6 +1070,8 @@ sockets:
           cache: 33
           tdp: 65
           id: '203712147'
+          passmark_single: 4469
+          passmark_multi: 52107
         Intel Core i7-14700F:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -893,6 +1081,8 @@ sockets:
           cache: 33
           tdp: 65
           id: '203712146'
+          passmark_single: 4258
+          passmark_multi: 41406
         Intel Core i7-14700K:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -902,6 +1092,8 @@ sockets:
           cache: 33
           tdp: 125
           id: '203357233'
+          passmark_single: 4469
+          passmark_multi: 52107
         Intel Core i7-14700KF:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -911,6 +1103,8 @@ sockets:
           cache: 33
           tdp: 125
           id: '203357238'
+          passmark_single: 4469
+          passmark_multi: 52107
         Intel Core i9-14900:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -920,6 +1114,8 @@ sockets:
           cache: 36
           tdp: 65
           id: '203712199'
+          passmark_single: 4817
+          passmark_multi: 60129
         Intel Core i9-14900F:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -929,6 +1125,8 @@ sockets:
           cache: 36
           tdp: 65
           id: '203712201'
+          passmark_single: 4509
+          passmark_multi: 46646
         Intel Core i9-14900K:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -938,6 +1136,8 @@ sockets:
           cache: 36
           tdp: 125
           id: '203356213'
+          passmark_single: 4817
+          passmark_multi: 60129
         Intel Core i9-14900KF:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -947,6 +1147,8 @@ sockets:
           cache: 36
           tdp: 125
           id: '203357235'
+          passmark_single: 4692
+          passmark_multi: 58210
         Intel Core i9-14900KS:
           architecture: Raptor Lake Refresh
           process: Intel 7
@@ -956,6 +1158,8 @@ sockets:
           cache: 36
           tdp: 150
           id: '203993262'
+          passmark_single: 4817
+          passmark_multi: 60129
   LGA1851:
     generations:
       '200':
@@ -968,6 +1172,8 @@ sockets:
           cache: 20
           tdp: 65
           id: '205757482'
+          passmark_single: 4393
+          passmark_multi: 31032
         Intel Core Ultra 5 225F:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -977,6 +1183,8 @@ sockets:
           cache: 20
           tdp: 65
           id: '205757484'
+          passmark_single: 4393
+          passmark_multi: 31032
         Intel Core Ultra 5 235:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -986,6 +1194,8 @@ sockets:
           cache: 24
           tdp: 65
           id: '206095338'
+          passmark_single: 4711
+          passmark_multi: 41025
         Intel Core Ultra 5 245K:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -995,6 +1205,8 @@ sockets:
           cache: 24
           tdp: 125
           id: '204911341'
+          passmark_single: 4720
+          passmark_multi: 43175
         Intel Core Ultra 5 245KF:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -1004,6 +1216,8 @@ sockets:
           cache: 24
           tdp: 125
           id: '204911345'
+          passmark_single: 4720
+          passmark_multi: 43175
         Intel Core Ultra 7 265:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -1013,6 +1227,8 @@ sockets:
           cache: 30
           tdp: 65
           id: '205757799'
+          passmark_single: 4930
+          passmark_multi: 58691
         Intel Core Ultra 7 265F:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -1022,6 +1238,8 @@ sockets:
           cache: 30
           tdp: 65
           id: '205757803'
+          passmark_single: 4754
+          passmark_multi: 49552
         Intel Core Ultra 7 265K:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -1031,6 +1249,8 @@ sockets:
           cache: 30
           tdp: 125
           id: '204911340'
+          passmark_single: 4930
+          passmark_multi: 58691
         Intel Core Ultra 7 265KF:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -1040,6 +1260,8 @@ sockets:
           cache: 30
           tdp: 125
           id: '204911343'
+          passmark_single: 4926
+          passmark_multi: 58566
         Intel Core Ultra 9 285:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -1049,6 +1271,8 @@ sockets:
           cache: 36
           tdp: 65
           id: '205757814'
+          passmark_single: 5088
+          passmark_multi: 67286
         Intel Core Ultra 9 285K:
           architecture: Arrow Lake
           process: TSMC N3B
@@ -1058,3 +1282,5 @@ sockets:
           cache: 36
           tdp: 125
           id: '204911339'
+          passmark_single: 5088
+          passmark_multi: 67286

@@ -9,8 +9,8 @@
 #   general    - (single + multi) / price; null if no iGPU (hard requirement)
 #   workbench  - multi-core perf / price
 #
-# Single- and multi-core perf are currently proxied by turbo clock and
-# turbo * total_cores. Swap for real benchmark data when available.
+# Single- and multi-core perf use passmark_single / passmark_multi from cpus.yml
+# when present, falling back to turbo clock proxies for chips not yet measured.
 
 import yaml
 from pathlib import Path
@@ -90,14 +90,12 @@ def main():
 
     rows = []
     for socket, gen, name, spec in iter_cpus(cpus):
-        turbo = float(spec.get('turbo') or 0)
-        total_cores = parse_cores(spec.get('cores') or 0)
         derived = {
             'pcie_gen': pcie_gen_for(socket, gen),
             'has_igpu': bool(spec.get('gpu')),
-            'total_cores': total_cores,
-            'single_perf': turbo,
-            'multi_perf': round(total_cores * turbo, 2),
+            'total_cores': parse_cores(spec.get('cores') or 0),
+            'single_perf': spec.get('passmark_single'),
+            'multi_perf':  spec.get('passmark_multi'),
         }
         cpu_id = str(spec.get('id') or '') or None
         rr = raw.get(cpu_id) if cpu_id else None
