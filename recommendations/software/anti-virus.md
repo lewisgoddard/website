@@ -251,8 +251,7 @@ toc:
 <th class="num">Price/yr</th>
 </tr>
 </thead>
-<tbody>
-</tbody>
+
 <tbody>
 <tr class="cpu-tr--star">
 <td class="cpu-td-tier"><span>00</span></td>
@@ -434,7 +433,6 @@ toc:
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
 </tr>
 
-</tbody>
 </tbody>
 <tfoot>
 <tr><td colspan="7"><strong>Protection</strong> = online protection rate (AV&#8209;Comparatives Malware Protection Test, March&nbsp;2026). <strong>Impact</strong> = AV&#8209;Comparatives Performance Test, April&nbsp;2026 (lower is less drag on the system). <strong>False +</strong> = false alarms in the March 2026 protection run. Bars are scaled within this table. Avast, AVG and Norton return identical protection and false&#8209;positive counts &mdash; the same engine wearing three logos. Sources: <a href="https://av-comparatives.org/tests/real-world-protection-test-feb-mar-2026-factsheet/">Real-World Protection Feb–Mar 2026</a>, <a href="https://av-comparatives.org/tests/malware-protection-test-march-2026/">Malware Protection Test Mar 2026</a>, <a href="https://av-comparatives.org/tests/performance-test-april-2026/">Performance Test Apr 2026</a>.</td></tr>
