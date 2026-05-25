@@ -5,7 +5,7 @@ eyebrow: "No. 02 &middot; Software"
 lede: "Windows ships with a top-tier antivirus that costs nothing and gets out of the way. The honest answer for almost everyone is: turn it on and stop reading. The rest of this page is for the small number of people who have a specific reason to pay."
 meta_updated: "2026-05-25"
 meta_tiers: 3
-meta_compared: 7
+meta_compared: 17
 meta_bias: "Built-in first"
 breadcrumbs:
   - href: /recommendations/
