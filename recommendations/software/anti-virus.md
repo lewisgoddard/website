@@ -284,37 +284,27 @@ toc:
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>04</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--bd">BD</span><span class="cpu-cpuname">Bitdefender Total Security</span></div></td>
-<td class="cpu-td-gen">Bitdefender</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:38.4%"></div><span class="cpu-bar-num">9.6</span></div></td>
-<td class="num">4</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>05</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mc">MC</span><span class="cpu-cpuname">McAfee Total Protection</span></div></td>
-<td class="cpu-td-gen">McAfee</td>
+<td class="cpu-td-tier"><span>03</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">AVG Internet Security</span></div></td>
+<td class="cpu-td-gen">Gen Digital</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:13.2%"></div><span class="cpu-bar-num">3.3</span></div></td>
-<td class="num">14</td>
-<td class="num cpu-td-price"></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:22.0%"></div><span class="cpu-bar-num">5.5</span></div></td>
+<td class="num">9</td>
+<td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>08</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gd">GD</span><span class="cpu-cpuname">G DATA Total Security</span></div></td>
-<td class="cpu-td-gen">G DATA</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:34.0%"></div><span class="cpu-bar-num">8.5</span></div></td>
-<td class="num">5</td>
-<td class="num cpu-td-price"></td>
+<td class="cpu-td-tier"><span>04</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Avast One</span></div></td>
+<td class="cpu-td-gen">Gen Digital</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:22.0%"></div><span class="cpu-bar-num">5.5</span></div></td>
+<td class="num">9</td>
+<td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
 </tr>
 
 <tr class="cpu-tr--tier">
-<td class="cpu-td-tier"><span>&times;</span></td>
+<td class="cpu-td-tier"><span>05</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Norton 360</span></div></td>
 <td class="cpu-td-gen">Gen Digital</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
@@ -324,23 +314,33 @@ toc:
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>&times;</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Avast One</span></div></td>
-<td class="cpu-td-gen">Gen Digital</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:22.0%"></div><span class="cpu-bar-num">5.5</span></div></td>
-<td class="num">9</td>
-<td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
+<td class="cpu-td-tier"><span>06</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--bd">BD</span><span class="cpu-cpuname">Bitdefender Total Security</span></div></td>
+<td class="cpu-td-gen">Bitdefender</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:38.4%"></div><span class="cpu-bar-num">9.6</span></div></td>
+<td class="num">4</td>
+<td class="num cpu-td-price"></td>
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>&times;</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">AVG Internet Security</span></div></td>
-<td class="cpu-td-gen">Gen Digital</td>
+<td class="cpu-td-tier"><span>07</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gd">GD</span><span class="cpu-cpuname">G DATA Total Security</span></div></td>
+<td class="cpu-td-gen">G DATA</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:94%"></div><span class="cpu-bar-num">99.94</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:34.0%"></div><span class="cpu-bar-num">8.5</span></div></td>
+<td class="num">5</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>08</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mc">MC</span><span class="cpu-cpuname">McAfee Total Protection</span></div></td>
+<td class="cpu-td-gen">McAfee</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:97%"></div><span class="cpu-bar-num">99.97</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:22.0%"></div><span class="cpu-bar-num">5.5</span></div></td>
-<td class="num">9</td>
-<td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:13.2%"></div><span class="cpu-bar-num">3.3</span></div></td>
+<td class="num">14</td>
+<td class="num cpu-td-price"></td>
 </tr>
 
 <tr>
@@ -395,21 +395,21 @@ toc:
 
 <tr>
 <td class="cpu-td-tier"><span>15</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mb">MB</span><span class="cpu-cpuname">Malwarebytes Premium</span></div></td>
-<td class="cpu-td-gen">Malwarebytes</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:59%"></div><span class="cpu-bar-num">99.59</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:70.4%"></div><span class="cpu-bar-num">17.6</span></div></td>
-<td class="num">23</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>16</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--qh">QH</span><span class="cpu-cpuname">Quick Heal Total Security</span></div></td>
 <td class="cpu-td-gen">Quick Heal</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:50%"></div><span class="cpu-bar-num">99.50</span></div></td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:76.4%"></div><span class="cpu-bar-num">19.1</span></div></td>
 <td class="num">16</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>16</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mb">MB</span><span class="cpu-cpuname">Malwarebytes Premium</span></div></td>
+<td class="cpu-td-gen">Malwarebytes</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:59%"></div><span class="cpu-bar-num">99.59</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:70.4%"></div><span class="cpu-bar-num">17.6</span></div></td>
+<td class="num">23</td>
 <td class="num cpu-td-price"></td>
 </tr>
 
