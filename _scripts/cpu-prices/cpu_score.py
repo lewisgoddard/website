@@ -3,11 +3,12 @@
 # Reads static specs (_data/cpus.yml) and raw price data (cpu_prices.yml)
 # and emits one map keyed by full CPU name, containing price + use-case scores.
 #
-# Use-case scores (0..100, normalised across the priced pool).
-# Every score is per-£ — all three are null when price is unknown.
-#   gaming     - (cache + single + pcie + multi/igpu bonus) / price
-#   general    - (single + multi) / price; null if no iGPU (hard requirement)
-#   workbench  - multi-core perf / price
+# scores: raw use-case performance scores (not price adjusted)
+#   gaming     - weighted blend of cache/single/pcie/multi + iGPU bonus
+#   general    - weighted blend of single + multi; null if no iGPU
+#   workbench  - raw multi-core perf
+# values: 0..100, normalised perf-per-£ for the same keys in scores
+#   gaming/general/workbench are null when price is unknown
 #
 # Single- and multi-core perf use passmark_single / passmark_multi from cpus.yml
 # when present, falling back to turbo clock proxies for chips not yet measured.
@@ -134,7 +135,7 @@ def main():
         )
         workbench_perf.append(r['derived']['multi_perf'])
 
-    # Every score is perf-per-pound. No price -> no score.
+    # Value is perf-per-pound. No price -> no value.
     def per_pound(perf_values):
         out = []
         for i, perf in enumerate(perf_values):
@@ -145,13 +146,17 @@ def main():
                 out.append(perf / price)
         return out
 
-    gaming_raw    = per_pound(gaming_perf)
-    general_raw   = per_pound(general_perf)
-    workbench_raw = per_pound(workbench_perf)
+    gaming_value_raw    = per_pound(gaming_perf)
+    general_value_raw   = per_pound(general_perf)
+    workbench_value_raw = per_pound(workbench_perf)
 
-    gaming_pct    = scale_pct(norm(gaming_raw))
-    general_pct   = scale_pct(norm(general_raw))
-    workbench_pct = scale_pct(norm(workbench_raw))
+    gaming_value_pct    = scale_pct(norm(gaming_value_raw))
+    general_value_pct   = scale_pct(norm(general_value_raw))
+    workbench_value_pct = scale_pct(norm(workbench_value_raw))
+
+    gaming_score_pct    = scale_pct(norm(gaming_perf))
+    general_score_pct   = scale_pct(norm(general_perf))
+    workbench_score_pct = scale_pct(norm(workbench_perf))
     priced = sum(1 for r in rows if r['price'])
 
     out = {}
@@ -161,14 +166,19 @@ def main():
                       if r['price'] is not None else None),
             'derived': r['derived'],
             'scores': {
-                'gaming':    gaming_pct[i],
-                'general':   general_pct[i],
-                'workbench': workbench_pct[i],
+                'gaming':    round(gaming_score_pct[i], 6) if gaming_perf[i] is not None else None,
+                'general':   round(general_score_pct[i], 6) if general_perf[i] is not None else None,
+                'workbench': round(workbench_score_pct[i], 6) if workbench_perf[i] is not None else None,
+            },
+            'value': {
+                'gaming':    gaming_value_pct[i],
+                'general':   general_value_pct[i],
+                'workbench': workbench_value_pct[i],
             },
         }
 
     save_yaml(out, OUT_FILE)
-    print(f'Wrote {len(out)} entries to {OUT_FILE.relative_to(HERE.parent.parent)} ({priced} with prices/scores)')
+    print(f'Wrote {len(out)} entries to {OUT_FILE.relative_to(HERE.parent.parent)} ({priced} with prices/values)')
 
 
 if __name__ == '__main__':

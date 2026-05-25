@@ -10,6 +10,10 @@ AMD Ryzen 3 3100:
     single_perf: 2422
     multi_perf: 11645
   scores:
+    gaming: 35
+    general: null
+    workbench: 16
+  value:
     gaming: 36
     general: null
     workbench: 28
@@ -25,6 +29,10 @@ AMD Ryzen 3 3300X:
     single_perf: 2678
     multi_perf: 12692
   scores:
+    gaming: 37
+    general: null
+    workbench: 17
+  value:
     gaming: 15
     general: null
     workbench: 12
@@ -40,6 +48,10 @@ AMD Ryzen 5 3500X:
     single_perf: 2501
     multi_perf: 13171
   scores:
+    gaming: 41
+    general: null
+    workbench: 18
+  value:
     gaming: 49
     general: null
     workbench: 37
@@ -55,6 +67,10 @@ AMD Ryzen 5 3600:
     single_perf: 2569
     multi_perf: 17796
   scores:
+    gaming: 42
+    general: null
+    workbench: 24
+  value:
     gaming: 100
     general: null
     workbench: 100
@@ -70,6 +86,10 @@ AMD Ryzen 5 3600X:
     single_perf: 2658
     multi_perf: 18257
   scores:
+    gaming: 43
+    general: null
+    workbench: 25
+  value:
     gaming: 33
     general: null
     workbench: 33
@@ -82,6 +102,10 @@ AMD Ryzen 5 3600XT:
     single_perf: 2770
     multi_perf: 18715
   scores:
+    gaming: 44
+    general: null
+    workbench: 26
+  value:
     gaming: null
     general: null
     workbench: null
@@ -97,6 +121,10 @@ AMD Ryzen 7 3700X:
     single_perf: 2664
     multi_perf: 22667
   scores:
+    gaming: 43
+    general: null
+    workbench: 31
+  value:
     gaming: 29
     general: null
     workbench: 36
@@ -112,6 +140,10 @@ AMD Ryzen 7 3800X:
     single_perf: 2721
     multi_perf: 23255
   scores:
+    gaming: 44
+    general: null
+    workbench: 32
+  value:
     gaming: 30
     general: null
     workbench: 38
@@ -127,6 +159,10 @@ AMD Ryzen 7 3800XT:
     single_perf: 2809
     multi_perf: 23741
   scores:
+    gaming: 45
+    general: null
+    workbench: 33
+  value:
     gaming: 15
     general: null
     workbench: 18
@@ -142,6 +178,10 @@ AMD Ryzen 9 3900X:
     single_perf: 2707
     multi_perf: 32724
   scores:
+    gaming: 56
+    general: null
+    workbench: 45
+  value:
     gaming: 29
     general: null
     workbench: 40
@@ -157,6 +197,10 @@ AMD Ryzen 9 3900XT:
     single_perf: 2751
     multi_perf: 32788
   scores:
+    gaming: 56
+    general: null
+    workbench: 45
+  value:
     gaming: 16
     general: null
     workbench: 23
@@ -172,6 +216,10 @@ AMD Ryzen 9 3950X:
     single_perf: 2710
     multi_perf: 38971
   scores:
+    gaming: 56
+    general: null
+    workbench: 54
+  value:
     gaming: 9
     general: null
     workbench: 15
@@ -187,6 +235,10 @@ AMD Ryzen 3 4100:
     single_perf: 2539
     multi_perf: 11160
   scores:
+    gaming: 31
+    general: null
+    workbench: 15
+  value:
     gaming: 80
     general: null
     workbench: 68
@@ -202,6 +254,10 @@ AMD Ryzen 5 4500:
     single_perf: 2603
     multi_perf: 16222
   scores:
+    gaming: 34
+    general: null
+    workbench: 22
+  value:
     gaming: 70
     general: null
     workbench: 80
@@ -217,6 +273,10 @@ AMD Ryzen 5 4600G:
     single_perf: 2664
     multi_perf: 15936
   scores:
+    gaming: 46
+    general: 62
+    workbench: 22
+  value:
     gaming: 22
     general: 31
     workbench: 18
@@ -232,6 +292,10 @@ AMD Ryzen 5 5500:
     single_perf: 3066
     multi_perf: 19624
   scores:
+    gaming: 41
+    general: null
+    workbench: 27
+  value:
     gaming: 72
     general: null
     workbench: 83
@@ -247,6 +311,10 @@ AMD Ryzen 5 5600:
     single_perf: 3259
     multi_perf: 21642
   scores:
+    gaming: 48
+    general: null
+    workbench: 30
+  value:
     gaming: 57
     general: null
     workbench: 61
@@ -262,6 +330,10 @@ AMD Ryzen 5 5600G:
     single_perf: 3187
     multi_perf: 19931
   scores:
+    gaming: 53
+    general: 75
+    workbench: 27
+  value:
     gaming: 48
     general: 71
     workbench: 43
@@ -277,6 +349,10 @@ AMD Ryzen 5 5600X:
     single_perf: 3359
     multi_perf: 21959
   scores:
+    gaming: 49
+    general: null
+    workbench: 30
+  value:
     gaming: 46
     general: null
     workbench: 49
@@ -292,6 +368,10 @@ AMD Ryzen 7 5700G:
     single_perf: 3287
     multi_perf: 24689
   scores:
+    gaming: 54
+    general: 82
+    workbench: 34
+  value:
     gaming: 42
     general: 67
     workbench: 46
@@ -307,6 +387,10 @@ AMD Ryzen 7 5700X:
     single_perf: 3385
     multi_perf: 26827
   scores:
+    gaming: 49
+    general: null
+    workbench: 37
+  value:
     gaming: 45
     general: null
     workbench: 58
@@ -322,6 +406,10 @@ AMD Ryzen 7 5700X3D:
     single_perf: 2969
     multi_perf: 26312
   scores:
+    gaming: 69
+    general: null
+    workbench: 36
+  value:
     gaming: 23
     general: null
     workbench: 21
@@ -337,6 +425,10 @@ AMD Ryzen 7 5800X:
     single_perf: 3447
     multi_perf: 28074
   scores:
+    gaming: 50
+    general: null
+    workbench: 39
+  value:
     gaming: 39
     general: null
     workbench: 53
@@ -352,6 +444,10 @@ AMD Ryzen 7 5800X3D:
     single_perf: 3213
     multi_perf: 28169
   scores:
+    gaming: 71
+    general: null
+    workbench: 39
+  value:
     gaming: 17
     general: null
     workbench: 16
@@ -367,6 +463,10 @@ AMD Ryzen 9 5900X:
     single_perf: 3471
     multi_perf: 39313
   scores:
+    gaming: 62
+    general: null
+    workbench: 54
+  value:
     gaming: 25
     general: null
     workbench: 38
@@ -382,6 +482,10 @@ AMD Ryzen 9 5950X:
     single_perf: 3470
     multi_perf: 45931
   scores:
+    gaming: 63
+    general: null
+    workbench: 63
+  value:
     gaming: 25
     general: null
     workbench: 43
@@ -397,6 +501,10 @@ AMD Ryzen 5 7500F:
     single_perf: 3827
     multi_perf: 26563
   scores:
+    gaming: 55
+    general: null
+    workbench: 37
+  value:
     gaming: 57
     general: null
     workbench: 65
@@ -412,6 +520,10 @@ AMD Ryzen 5 7600:
     single_perf: 4009
     multi_perf: 27973
   scores:
+    gaming: 57
+    general: null
+    workbench: 38
+  value:
     gaming: 46
     general: null
     workbench: 54
@@ -427,6 +539,10 @@ AMD Ryzen 5 7600X:
     single_perf: 4222
     multi_perf: 28964
   scores:
+    gaming: 58
+    general: null
+    workbench: 40
+  value:
     gaming: 51
     general: null
     workbench: 60
@@ -442,6 +558,10 @@ AMD Ryzen 5 7600X3D:
     single_perf: 3604
     multi_perf: 25835
   scores:
+    gaming: 76
+    general: null
+    workbench: 36
+  value:
     gaming: 38
     general: null
     workbench: 30
@@ -457,6 +577,10 @@ AMD Ryzen 7 7700:
     single_perf: 4165
     multi_perf: 35615
   scores:
+    gaming: 58
+    general: null
+    workbench: 49
+  value:
     gaming: 46
     general: null
     workbench: 67
@@ -472,6 +596,10 @@ AMD Ryzen 7 7700X:
     single_perf: 4276
     multi_perf: 36549
   scores:
+    gaming: 59
+    general: null
+    workbench: 50
+  value:
     gaming: 41
     general: null
     workbench: 60
@@ -487,6 +615,10 @@ AMD Ryzen 7 7800X3D:
     single_perf: 3796
     multi_perf: 35114
   scores:
+    gaming: 78
+    general: null
+    workbench: 48
+  value:
     gaming: 41
     general: null
     workbench: 43
@@ -502,6 +634,10 @@ AMD Ryzen 9 7900:
     single_perf: 4214
     multi_perf: 49309
   scores:
+    gaming: 71
+    general: null
+    workbench: 68
+  value:
     gaming: 34
     general: null
     workbench: 55
@@ -517,6 +653,10 @@ AMD Ryzen 9 7900X:
     single_perf: 4330
     multi_perf: 52491
   scores:
+    gaming: 72
+    general: null
+    workbench: 72
+  value:
     gaming: 35
     general: null
     workbench: 60
@@ -532,6 +672,10 @@ AMD Ryzen 9 7900X3D:
     single_perf: 4140
     multi_perf: 51312
   scores:
+    gaming: 94
+    general: null
+    workbench: 71
+  value:
     gaming: 23
     general: null
     workbench: 30
@@ -547,6 +691,10 @@ AMD Ryzen 9 7950X:
     single_perf: 4327
     multi_perf: 63628
   scores:
+    gaming: 73
+    general: null
+    workbench: 88
+  value:
     gaming: 21
     general: null
     workbench: 43
@@ -562,6 +710,10 @@ AMD Ryzen 9 7950X3D:
     single_perf: 4228
     multi_perf: 63519
   scores:
+    gaming: 95
+    general: null
+    workbench: 87
+  value:
     gaming: 23
     general: null
     workbench: 36
@@ -577,6 +729,10 @@ AMD Ryzen 5 8400F:
     single_perf: 3688
     multi_perf: 24439
   scores:
+    gaming: 46
+    general: null
+    workbench: 34
+  value:
     gaming: 60
     general: null
     workbench: 76
@@ -592,6 +748,10 @@ AMD Ryzen 5 8500G:
     single_perf: 3876
     multi_perf: 21420
   scores:
+    gaming: 58
+    general: 88
+    workbench: 29
+  value:
     gaming: 64
     general: 100
     workbench: 55
@@ -607,6 +767,10 @@ AMD Ryzen 5 8600G:
     single_perf: 3874
     multi_perf: 25195
   scores:
+    gaming: 59
+    general: 92
+    workbench: 35
+  value:
     gaming: 50
     general: 81
     workbench: 50
@@ -622,6 +786,10 @@ AMD Ryzen 7 8700F:
     single_perf: 3876
     multi_perf: 31008
   scores:
+    gaming: 48
+    general: null
+    workbench: 43
+  value:
     gaming: 46
     general: null
     workbench: 70
@@ -637,6 +805,10 @@ AMD Ryzen 7 8700G:
     single_perf: 3924
     multi_perf: 31567
   scores:
+    gaming: 60
+    general: 100
+    workbench: 43
+  value:
     gaming: 36
     general: 63
     workbench: 45
@@ -652,6 +824,10 @@ AMD Ryzen 5 9600:
     single_perf: 4571
     multi_perf: 30086
   scores:
+    gaming: 61
+    general: null
+    workbench: 41
+  value:
     gaming: 43
     general: null
     workbench: 50
@@ -667,6 +843,10 @@ AMD Ryzen 5 9600X:
     single_perf: 4571
     multi_perf: 30086
   scores:
+    gaming: 61
+    general: null
+    workbench: 41
+  value:
     gaming: 53
     general: null
     workbench: 62
@@ -682,6 +862,10 @@ AMD Ryzen 7 9700X:
     single_perf: 4649
     multi_perf: 37061
   scores:
+    gaming: 62
+    general: null
+    workbench: 51
+  value:
     gaming: 34
     general: null
     workbench: 48
@@ -697,6 +881,10 @@ AMD Ryzen 7 9800X3D:
     single_perf: 4425
     multi_perf: 39970
   scores:
+    gaming: 84
+    general: null
+    workbench: 55
+  value:
     gaming: 33
     general: null
     workbench: 37
@@ -712,6 +900,10 @@ AMD Ryzen 9 9900X:
     single_perf: 4643
     multi_perf: 56192
   scores:
+    gaming: 75
+    general: null
+    workbench: 77
+  value:
     gaming: 32
     general: null
     workbench: 57
@@ -727,6 +919,10 @@ AMD Ryzen 9 9900X3D:
     single_perf: 4643
     multi_perf: 56192
   scores:
+    gaming: 98
+    general: null
+    workbench: 77
+  value:
     gaming: 29
     general: null
     workbench: 39
@@ -742,6 +938,10 @@ AMD Ryzen 9 9950X:
     single_perf: 4717
     multi_perf: 72703
   scores:
+    gaming: 77
+    general: null
+    workbench: 100
+  value:
     gaming: 22
     general: null
     workbench: 50
@@ -757,6 +957,10 @@ AMD Ryzen 9 9950X3D:
     single_perf: 4717
     multi_perf: 72703
   scores:
+    gaming: 100
+    general: null
+    workbench: 100
+  value:
     gaming: 26
     general: null
     workbench: 45
@@ -772,6 +976,10 @@ Intel Pentium Gold G7400:
     single_perf: 3050
     multi_perf: 6792
   scores:
+    gaming: 38
+    general: null
+    workbench: 9
+  value:
     gaming: 49
     general: null
     workbench: 21
@@ -787,6 +995,10 @@ Intel Celeron G6900:
     single_perf: 2707
     multi_perf: 4481
   scores:
+    gaming: 35
+    general: null
+    workbench: 6
+  value:
     gaming: 70
     general: null
     workbench: 22
@@ -802,6 +1014,10 @@ Intel Core i3-12100:
     single_perf: 3436
     multi_perf: 13967
   scores:
+    gaming: 44
+    general: null
+    workbench: 19
+  value:
     gaming: 38
     general: null
     workbench: 29
@@ -817,6 +1033,10 @@ Intel Core i3-12100F:
     single_perf: 3436
     multi_perf: 13967
   scores:
+    gaming: 44
+    general: null
+    workbench: 19
+  value:
     gaming: 72
     general: null
     workbench: 55
@@ -832,6 +1052,10 @@ Intel Core i5-12400:
     single_perf: 3488
     multi_perf: 19582
   scores:
+    gaming: 47
+    general: null
+    workbench: 27
+  value:
     gaming: 36
     general: null
     workbench: 35
@@ -847,6 +1071,10 @@ Intel Core i5-12400F:
     single_perf: 3488
     multi_perf: 19582
   scores:
+    gaming: 47
+    general: null
+    workbench: 27
+  value:
     gaming: 44
     general: null
     workbench: 43
@@ -862,6 +1090,10 @@ Intel Core i5-12500:
     single_perf: 3643
     multi_perf: 23366
   scores:
+    gaming: 48
+    general: null
+    workbench: 32
+  value:
     gaming: 31
     general: null
     workbench: 35
@@ -877,6 +1109,10 @@ Intel Core i5-12600:
     single_perf: 3919
     multi_perf: 27537
   scores:
+    gaming: 51
+    general: null
+    workbench: 38
+  value:
     gaming: 23
     general: null
     workbench: 29
@@ -892,6 +1128,10 @@ Intel Core i5-12600K:
     single_perf: 3919
     multi_perf: 27537
   scores:
+    gaming: 52
+    general: null
+    workbench: 38
+  value:
     gaming: 36
     general: null
     workbench: 45
@@ -907,6 +1147,10 @@ Intel Core i5-12600KF:
     single_perf: 3916
     multi_perf: 27529
   scores:
+    gaming: 52
+    general: null
+    workbench: 38
+  value:
     gaming: 41
     general: null
     workbench: 52
@@ -922,6 +1166,10 @@ Intel Core i7-12700:
     single_perf: 4005
     multi_perf: 34288
   scores:
+    gaming: 55
+    general: null
+    workbench: 47
+  value:
     gaming: 23
     general: null
     workbench: 34
@@ -937,6 +1185,10 @@ Intel Core i7-12700F:
     single_perf: 3843
     multi_perf: 30228
   scores:
+    gaming: 53
+    general: null
+    workbench: 42
+  value:
     gaming: 28
     general: null
     workbench: 38
@@ -952,6 +1204,10 @@ Intel Core i7-12700K:
     single_perf: 4005
     multi_perf: 34288
   scores:
+    gaming: 55
+    general: null
+    workbench: 47
+  value:
     gaming: 27
     general: null
     workbench: 40
@@ -967,6 +1223,10 @@ Intel Core i7-12700KF:
     single_perf: 3979
     multi_perf: 33971
   scores:
+    gaming: 54
+    general: null
+    workbench: 47
+  value:
     gaming: 29
     general: null
     workbench: 43
@@ -982,6 +1242,10 @@ Intel Core i9-12900:
     single_perf: 4327
     multi_perf: 43445
   scores:
+    gaming: 60
+    general: null
+    workbench: 60
+  value:
     gaming: 18
     general: null
     workbench: 31
@@ -997,6 +1261,10 @@ Intel Core i9-12900F:
     single_perf: 4015
     multi_perf: 35785
   scores:
+    gaming: 57
+    general: null
+    workbench: 49
+  value:
     gaming: 17
     general: null
     workbench: 26
@@ -1012,6 +1280,10 @@ Intel Core i9-12900K:
     single_perf: 4327
     multi_perf: 43445
   scores:
+    gaming: 60
+    general: null
+    workbench: 60
+  value:
     gaming: 23
     general: null
     workbench: 40
@@ -1027,6 +1299,10 @@ Intel Core i9-12900KF:
     single_perf: 4123
     multi_perf: 40600
   scores:
+    gaming: 58
+    general: null
+    workbench: 56
+  value:
     gaming: 29
     general: null
     workbench: 48
@@ -1042,6 +1318,10 @@ Intel Core i9-12900KS:
     single_perf: 4327
     multi_perf: 43445
   scores:
+    gaming: 60
+    general: null
+    workbench: 60
+  value:
     gaming: 20
     general: null
     workbench: 35
@@ -1057,6 +1337,10 @@ Intel Core i3-13100:
     single_perf: 3604
     multi_perf: 14667
   scores:
+    gaming: 45
+    general: null
+    workbench: 20
+  value:
     gaming: 43
     general: null
     workbench: 33
@@ -1072,6 +1356,10 @@ Intel Core i3-13100F:
     single_perf: 3604
     multi_perf: 14667
   scores:
+    gaming: 45
+    general: null
+    workbench: 20
+  value:
     gaming: 60
     general: null
     workbench: 46
@@ -1087,6 +1375,10 @@ Intel Core i5-13400:
     single_perf: 3716
     multi_perf: 27000
   scores:
+    gaming: 50
+    general: null
+    workbench: 37
+  value:
     gaming: 29
     general: null
     workbench: 37
@@ -1102,6 +1394,10 @@ Intel Core i5-13400F:
     single_perf: 3633
     multi_perf: 24944
   scores:
+    gaming: 49
+    general: null
+    workbench: 34
+  value:
     gaming: 37
     general: null
     workbench: 45
@@ -1117,6 +1413,10 @@ Intel Core i5-13500:
     single_perf: 3858
     multi_perf: 30905
   scores:
+    gaming: 53
+    general: null
+    workbench: 43
+  value:
     gaming: 23
     general: null
     workbench: 32
@@ -1132,6 +1432,10 @@ Intel Core i5-13600K:
     single_perf: 4115
     multi_perf: 37520
   scores:
+    gaming: 55
+    general: null
+    workbench: 52
+  value:
     gaming: 28
     general: null
     workbench: 45
@@ -1147,6 +1451,10 @@ Intel Core i5-13600KF:
     single_perf: 4114
     multi_perf: 37387
   scores:
+    gaming: 55
+    general: null
+    workbench: 51
+  value:
     gaming: 31
     general: null
     workbench: 50
@@ -1162,6 +1470,10 @@ Intel Core i7-13700:
     single_perf: 4328
     multi_perf: 45692
   scores:
+    gaming: 60
+    general: null
+    workbench: 63
+  value:
     gaming: 17
     general: null
     workbench: 31
@@ -1177,6 +1489,10 @@ Intel Core i7-13700F:
     single_perf: 4117
     multi_perf: 37883
   scores:
+    gaming: 58
+    general: null
+    workbench: 52
+  value:
     gaming: 24
     general: null
     workbench: 38
@@ -1192,6 +1508,10 @@ Intel Core i7-13700K:
     single_perf: 4328
     multi_perf: 45692
   scores:
+    gaming: 60
+    general: null
+    workbench: 63
+  value:
     gaming: 22
     general: null
     workbench: 40
@@ -1207,6 +1527,10 @@ Intel Core i7-13700KF:
     single_perf: 4331
     multi_perf: 45583
   scores:
+    gaming: 60
+    general: null
+    workbench: 63
+  value:
     gaming: 25
     general: null
     workbench: 45
@@ -1222,6 +1546,10 @@ Intel Core i9-13900:
     single_perf: 4716
     multi_perf: 60490
   scores:
+    gaming: 66
+    general: null
+    workbench: 83
+  value:
     gaming: 14
     general: null
     workbench: 30
@@ -1237,6 +1565,10 @@ Intel Core i9-13900F:
     single_perf: 4400
     multi_perf: 48391
   scores:
+    gaming: 63
+    general: null
+    workbench: 67
+  value:
     gaming: 21
     general: null
     workbench: 38
@@ -1252,6 +1584,10 @@ Intel Core i9-13900K:
     single_perf: 4716
     multi_perf: 60490
   scores:
+    gaming: 66
+    general: null
+    workbench: 83
+  value:
     gaming: 20
     general: null
     workbench: 43
@@ -1267,6 +1603,10 @@ Intel Core i9-13900KF:
     single_perf: 4581
     multi_perf: 57556
   scores:
+    gaming: 65
+    general: null
+    workbench: 79
+  value:
     gaming: 20
     general: null
     workbench: 43
@@ -1282,6 +1622,10 @@ Intel Core i9-13900KS:
     single_perf: 4716
     multi_perf: 60490
   scores:
+    gaming: 66
+    general: null
+    workbench: 83
+  value:
     gaming: 17
     general: null
     workbench: 37
@@ -1297,6 +1641,10 @@ Intel Core i3-14100:
     single_perf: 3775
     multi_perf: 15421
   scores:
+    gaming: 47
+    general: null
+    workbench: 21
+  value:
     gaming: 43
     general: null
     workbench: 34
@@ -1312,6 +1660,10 @@ Intel Core i3-14100F:
     single_perf: 3775
     multi_perf: 15421
   scores:
+    gaming: 47
+    general: null
+    workbench: 21
+  value:
     gaming: 68
     general: null
     workbench: 54
@@ -1327,6 +1679,10 @@ Intel Core i5-14400:
     single_perf: 3703
     multi_perf: 25535
   scores:
+    gaming: 50
+    general: null
+    workbench: 35
+  value:
     gaming: 28
     general: null
     workbench: 34
@@ -1342,6 +1698,10 @@ Intel Core i5-14400F:
     single_perf: 3703
     multi_perf: 25535
   scores:
+    gaming: 50
+    general: null
+    workbench: 35
+  value:
     gaming: 41
     general: null
     workbench: 49
@@ -1357,6 +1717,10 @@ Intel Core i5-14500:
     single_perf: 3951
     multi_perf: 30937
   scores:
+    gaming: 54
+    general: null
+    workbench: 43
+  value:
     gaming: 21
     general: null
     workbench: 29
@@ -1372,6 +1736,10 @@ Intel Core i5-14600K:
     single_perf: 4268
     multi_perf: 38450
   scores:
+    gaming: 57
+    general: null
+    workbench: 53
+  value:
     gaming: 29
     general: null
     workbench: 47
@@ -1387,6 +1755,10 @@ Intel Core i5-14600KF:
     single_perf: 4256
     multi_perf: 38366
   scores:
+    gaming: 57
+    general: null
+    workbench: 53
+  value:
     gaming: 32
     general: null
     workbench: 52
@@ -1402,6 +1774,10 @@ Intel Core i7-14700:
     single_perf: 4469
     multi_perf: 52107
   scores:
+    gaming: 62
+    general: null
+    workbench: 72
+  value:
     gaming: 23
     general: null
     workbench: 46
@@ -1417,6 +1793,10 @@ Intel Core i7-14700F:
     single_perf: 4258
     multi_perf: 41406
   scores:
+    gaming: 60
+    general: null
+    workbench: 57
+  value:
     gaming: 26
     general: null
     workbench: 43
@@ -1432,6 +1812,10 @@ Intel Core i7-14700K:
     single_perf: 4469
     multi_perf: 52107
   scores:
+    gaming: 62
+    general: null
+    workbench: 72
+  value:
     gaming: 23
     general: null
     workbench: 46
@@ -1447,6 +1831,10 @@ Intel Core i7-14700KF:
     single_perf: 4469
     multi_perf: 52107
   scores:
+    gaming: 62
+    general: null
+    workbench: 72
+  value:
     gaming: 24
     general: null
     workbench: 48
@@ -1462,6 +1850,10 @@ Intel Core i9-14900:
     single_perf: 4817
     multi_perf: 60129
   scores:
+    gaming: 67
+    general: null
+    workbench: 83
+  value:
     gaming: 17
     general: null
     workbench: 35
@@ -1477,6 +1869,10 @@ Intel Core i9-14900F:
     single_perf: 4509
     multi_perf: 46646
   scores:
+    gaming: 63
+    general: null
+    workbench: 64
+  value:
     gaming: 16
     general: null
     workbench: 29
@@ -1492,6 +1888,10 @@ Intel Core i9-14900K:
     single_perf: 4817
     multi_perf: 60129
   scores:
+    gaming: 67
+    general: null
+    workbench: 83
+  value:
     gaming: 21
     general: null
     workbench: 44
@@ -1507,6 +1907,10 @@ Intel Core i9-14900KF:
     single_perf: 4692
     multi_perf: 58210
   scores:
+    gaming: 66
+    general: null
+    workbench: 80
+  value:
     gaming: 25
     general: null
     workbench: 51
@@ -1522,6 +1926,10 @@ Intel Core i9-14900KS:
     single_perf: 4817
     multi_perf: 60129
   scores:
+    gaming: 67
+    general: null
+    workbench: 83
+  value:
     gaming: 15
     general: null
     workbench: 31
@@ -1537,6 +1945,10 @@ Intel Core Ultra 5 225:
     single_perf: 4393
     multi_perf: 31032
   scores:
+    gaming: 56
+    general: null
+    workbench: 43
+  value:
     gaming: 47
     general: null
     workbench: 62
@@ -1552,6 +1964,10 @@ Intel Core Ultra 5 225F:
     single_perf: 4393
     multi_perf: 31032
   scores:
+    gaming: 56
+    general: null
+    workbench: 43
+  value:
     gaming: 60
     general: null
     workbench: 80
@@ -1567,6 +1983,10 @@ Intel Core Ultra 5 235:
     single_perf: 4711
     multi_perf: 41025
   scores:
+    gaming: 60
+    general: null
+    workbench: 56
+  value:
     gaming: 32
     general: null
     workbench: 52
@@ -1582,6 +2002,10 @@ Intel Core Ultra 5 245K:
     single_perf: 4720
     multi_perf: 43175
   scores:
+    gaming: 61
+    general: null
+    workbench: 59
+  value:
     gaming: 53
     general: null
     workbench: 89
@@ -1597,6 +2021,10 @@ Intel Core Ultra 5 245KF:
     single_perf: 4720
     multi_perf: 43175
   scores:
+    gaming: 61
+    general: null
+    workbench: 59
+  value:
     gaming: 56
     general: null
     workbench: 95
@@ -1612,6 +2040,10 @@ Intel Core Ultra 7 265:
     single_perf: 4930
     multi_perf: 58691
   scores:
+    gaming: 66
+    general: null
+    workbench: 81
+  value:
     gaming: 25
     general: null
     workbench: 52
@@ -1627,6 +2059,10 @@ Intel Core Ultra 7 265F:
     single_perf: 4754
     multi_perf: 49552
   scores:
+    gaming: 63
+    general: null
+    workbench: 68
+  value:
     gaming: 27
     general: null
     workbench: 50
@@ -1642,6 +2078,10 @@ Intel Core Ultra 7 265K:
     single_perf: 4930
     multi_perf: 58691
   scores:
+    gaming: 66
+    general: null
+    workbench: 81
+  value:
     gaming: 33
     general: null
     workbench: 69
@@ -1657,6 +2097,10 @@ Intel Core Ultra 7 265KF:
     single_perf: 4926
     multi_perf: 58566
   scores:
+    gaming: 66
+    general: null
+    workbench: 81
+  value:
     gaming: 40
     general: null
     workbench: 85
@@ -1672,6 +2116,10 @@ Intel Core Ultra 9 285:
     single_perf: 5088
     multi_perf: 67286
   scores:
+    gaming: 70
+    general: null
+    workbench: 93
+  value:
     gaming: 18
     general: null
     workbench: 42
@@ -1687,6 +2135,10 @@ Intel Core Ultra 9 285K:
     single_perf: 5088
     multi_perf: 67286
   scores:
+    gaming: 70
+    general: null
+    workbench: 93
+  value:
     gaming: 19
     general: null
     workbench: 44
