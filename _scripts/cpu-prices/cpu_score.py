@@ -55,9 +55,13 @@ def parse_cores(value):
     return int(value)
 
 
-def pcie_gen_for(socket, gen):
-    # AM4 platform = PCIe 4. AM5 8000-series APUs = PCIe 4. Everything else = 5.
+def pcie_gen_for(socket, gen, name):
+    # Desktop CPU-side PCIe generation used for scoring.
     if socket == 'AM4':
+        if str(gen) == '4000':
+            return 3
+        if name in {'AMD Ryzen 5 5500', 'AMD Ryzen 5 5600G', 'AMD Ryzen 7 5700G'}:
+            return 3
         return 4
     if socket == 'AM5' and str(gen) == '8000':
         return 4
@@ -92,7 +96,7 @@ def main():
     rows = []
     for socket, gen, name, spec in iter_cpus(cpus):
         derived = {
-            'pcie_gen': pcie_gen_for(socket, gen),
+            'pcie_gen': pcie_gen_for(socket, gen, name),
             'has_igpu': bool(spec.get('gpu')),
             'total_cores': parse_cores(spec.get('cores') or 0),
             'single_perf': spec.get('passmark_single'),

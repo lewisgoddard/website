@@ -229,17 +229,17 @@ AMD Ryzen 3 4100:
     offers: 13
     updated: '2026-05-25T02:53:45.124Z'
   derived:
-    pcie_gen: 4
+    pcie_gen: 3
     has_igpu: false
     total_cores: 4
     single_perf: 2539
     multi_perf: 11160
   scores:
-    gaming: 31
+    gaming: 29
     general: null
     workbench: 15
   value:
-    gaming: 80
+    gaming: 74
     general: null
     workbench: 68
 AMD Ryzen 5 4500:
@@ -248,17 +248,17 @@ AMD Ryzen 5 4500:
     offers: 18
     updated: '2026-05-25T02:53:39.754Z'
   derived:
-    pcie_gen: 4
+    pcie_gen: 3
     has_igpu: false
     total_cores: 6
     single_perf: 2603
     multi_perf: 16222
   scores:
-    gaming: 34
+    gaming: 31
     general: null
     workbench: 22
   value:
-    gaming: 70
+    gaming: 65
     general: null
     workbench: 80
 AMD Ryzen 5 4600G:
@@ -267,17 +267,17 @@ AMD Ryzen 5 4600G:
     offers: 1
     updated: '2026-05-25T02:53:42.130Z'
   derived:
-    pcie_gen: 4
+    pcie_gen: 3
     has_igpu: true
     total_cores: 6
     single_perf: 2664
     multi_perf: 15936
   scores:
-    gaming: 46
+    gaming: 43
     general: 62
     workbench: 22
   value:
-    gaming: 22
+    gaming: 21
     general: 31
     workbench: 18
 AMD Ryzen 5 5500:
@@ -286,17 +286,17 @@ AMD Ryzen 5 5500:
     offers: 13
     updated: '2026-05-25T02:53:45.369Z'
   derived:
-    pcie_gen: 4
+    pcie_gen: 3
     has_igpu: false
     total_cores: 6
     single_perf: 3066
     multi_perf: 19624
   scores:
-    gaming: 41
+    gaming: 38
     general: null
     workbench: 27
   value:
-    gaming: 72
+    gaming: 68
     general: null
     workbench: 83
 AMD Ryzen 5 5600:
@@ -324,17 +324,17 @@ AMD Ryzen 5 5600G:
     offers: 5
     updated: '2026-05-25T02:53:41.421Z'
   derived:
-    pcie_gen: 4
+    pcie_gen: 3
     has_igpu: true
     total_cores: 6
     single_perf: 3187
     multi_perf: 19931
   scores:
-    gaming: 53
+    gaming: 51
     general: 75
     workbench: 27
   value:
-    gaming: 48
+    gaming: 46
     general: 71
     workbench: 43
 AMD Ryzen 5 5600X:
@@ -362,17 +362,17 @@ AMD Ryzen 7 5700G:
     offers: 13
     updated: '2026-05-25T02:53:49.699Z'
   derived:
-    pcie_gen: 4
+    pcie_gen: 3
     has_igpu: true
     total_cores: 8
     single_perf: 3287
     multi_perf: 24689
   scores:
-    gaming: 54
+    gaming: 52
     general: 82
     workbench: 34
   value:
-    gaming: 42
+    gaming: 40
     general: 67
     workbench: 46
 AMD Ryzen 7 5700X:
