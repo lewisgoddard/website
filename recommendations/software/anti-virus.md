@@ -42,9 +42,18 @@ toc:
 <h2>Just use Windows Defender.</h2>
 <p class="av-banner-lede">Microsoft Defender Antivirus ships with every copy of Windows&nbsp;10 and 11. It scores 99.93% online protection in the latest AV&#8209;Comparatives round with only 3 false positives, and updates silently in the background. For the overwhelming majority of home users this is the right answer and the final answer.</p>
 <ol class="av-banner-steps">
-<li><span>1</span> Open Start, type <strong>Windows Security</strong>.</li>
-<li><span>2</span> Confirm <strong>Virus &amp; threat protection</strong> is on.</li>
-<li><span>3</span> Done. Close the tab.</li>
+<li>
+  <span>1</span>
+  <div class="av-banner-step-text">Open Start, type <strong>Windows Security</strong>.</div>
+</li>
+<li>
+  <span>2</span>
+  <div class="av-banner-step-text">Confirm <strong>Virus &amp; threat protection</strong> is on.</div>
+</li>
+<li>
+  <span>3</span>
+  <div class="av-banner-step-text">Done. Close the tab.</div>
+</li>
 </ol>
 <p class="av-banner-foot">Paying for a third&#8209;party AV will not make you safer. It will eat memory, throw pop&#8209;ups, and add an extra attacker surface. Only pay if one of the use cases in the next section actually fits.</p>
 </div>
@@ -160,7 +169,6 @@ toc:
 <div class="cpu-details">
 
 <article class="cpu-detail">
-</aside>
 <aside class="cpu-detail-aside">
 <span class="cpu-detail-no">01</span>
 <span class="cpu-detail-band">Microsoft Defender</span>
