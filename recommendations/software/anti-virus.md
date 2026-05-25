@@ -304,26 +304,6 @@ toc:
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>06</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--tm">TM</span><span class="cpu-cpuname">Trend Micro Internet Security</span></div></td>
-<td class="cpu-td-gen">Trend Micro</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:9%"></div><span class="cpu-bar-num">99.09</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:18.8%"></div><span class="cpu-bar-num">4.7</span></div></td>
-<td class="num">8</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>07</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--fs">FS</span><span class="cpu-cpuname">F-Secure Internet Security</span></div></td>
-<td class="cpu-td-gen">F-Secure</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:73.2%"></div><span class="cpu-bar-num">18.3</span></div></td>
-<td class="num">19</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
 <td class="cpu-td-tier"><span>08</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gd">GD</span><span class="cpu-cpuname">G DATA Total Security</span></div></td>
 <td class="cpu-td-gen">G DATA</td>
@@ -333,77 +313,7 @@ toc:
 <td class="num cpu-td-price"></td>
 </tr>
 
-<tr>
-<td class="cpu-td-tier"><span>09</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mb">MB</span><span class="cpu-cpuname">Malwarebytes Premium</span></div></td>
-<td class="cpu-td-gen">Malwarebytes</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:59%"></div><span class="cpu-bar-num">99.59</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:70.4%"></div><span class="cpu-bar-num">17.6</span></div></td>
-<td class="num">23</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>10</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--pd">PD</span><span class="cpu-cpuname">Panda Dome Advanced</span></div></td>
-<td class="cpu-td-gen">Panda</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:17%"></div><span class="cpu-bar-num">99.17</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:44.4%"></div><span class="cpu-bar-num">11.1</span></div></td>
-<td class="num">54</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>11</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--qh">QH</span><span class="cpu-cpuname">Quick Heal Total Security</span></div></td>
-<td class="cpu-td-gen">Quick Heal</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:50%"></div><span class="cpu-bar-num">99.50</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:76.4%"></div><span class="cpu-bar-num">19.1</span></div></td>
-<td class="num">16</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>12</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ft">FT</span><span class="cpu-cpuname">Fortect PC Suite</span></div></td>
-<td class="cpu-td-gen">Fortect</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:95%"></div><span class="cpu-bar-num">99.95</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:71.6%"></div><span class="cpu-bar-num">17.9</span></div></td>
-<td class="num">10</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>13</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ta">TA</span><span class="cpu-cpuname">TotalAV Premium</span></div></td>
-<td class="cpu-td-gen">TotalAV</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:72.8%"></div><span class="cpu-bar-num">18.2</span></div></td>
-<td class="num">19</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>14</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--td">TD</span><span class="cpu-cpuname">Total Defense Essential</span></div></td>
-<td class="cpu-td-gen">Total Defense</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:95%"></div><span class="cpu-bar-num">31.6</span></div></td>
-<td class="num">4</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr>
-<td class="cpu-td-tier"><span>15</span></td>
-<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--vp">VP</span><span class="cpu-cpuname">VIPRE Advanced Security</span></div></td>
-<td class="cpu-td-gen">VIPRE</td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
-<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:89.6%"></div><span class="cpu-bar-num">22.4</span></div></td>
-<td class="num">4</td>
-<td class="num cpu-td-price"></td>
-</tr>
-
-<tr class="cpu-tr--star">
+<tr class="cpu-tr--tier">
 <td class="cpu-td-tier"><span>&times;</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Norton 360</span></div></td>
 <td class="cpu-td-gen">Gen Digital</td>
@@ -431,6 +341,96 @@ toc:
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:22.0%"></div><span class="cpu-bar-num">5.5</span></div></td>
 <td class="num">9</td>
 <td class="num cpu-td-price"><span class="cpu-price-cur">&pound;</span>25</td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>09</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ft">FT</span><span class="cpu-cpuname">Fortect PC Suite</span></div></td>
+<td class="cpu-td-gen">Fortect</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:95%"></div><span class="cpu-bar-num">99.95</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:71.6%"></div><span class="cpu-bar-num">17.9</span></div></td>
+<td class="num">10</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>10</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--fs">FS</span><span class="cpu-cpuname">F-Secure Internet Security</span></div></td>
+<td class="cpu-td-gen">F-Secure</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:73.2%"></div><span class="cpu-bar-num">18.3</span></div></td>
+<td class="num">19</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>11</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ta">TA</span><span class="cpu-cpuname">TotalAV Premium</span></div></td>
+<td class="cpu-td-gen">TotalAV</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:72.8%"></div><span class="cpu-bar-num">18.2</span></div></td>
+<td class="num">19</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>12</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--vp">VP</span><span class="cpu-cpuname">VIPRE Advanced Security</span></div></td>
+<td class="cpu-td-gen">VIPRE</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:89.6%"></div><span class="cpu-bar-num">22.4</span></div></td>
+<td class="num">4</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>13</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--td">TD</span><span class="cpu-cpuname">Total Defense Essential</span></div></td>
+<td class="cpu-td-gen">Total Defense</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:95%"></div><span class="cpu-bar-num">31.6</span></div></td>
+<td class="num">4</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>15</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--mb">MB</span><span class="cpu-cpuname">Malwarebytes Premium</span></div></td>
+<td class="cpu-td-gen">Malwarebytes</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:59%"></div><span class="cpu-bar-num">99.59</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:70.4%"></div><span class="cpu-bar-num">17.6</span></div></td>
+<td class="num">23</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>16</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--qh">QH</span><span class="cpu-cpuname">Quick Heal Total Security</span></div></td>
+<td class="cpu-td-gen">Quick Heal</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:50%"></div><span class="cpu-bar-num">99.50</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:76.4%"></div><span class="cpu-bar-num">19.1</span></div></td>
+<td class="num">16</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>17</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--tm">TM</span><span class="cpu-cpuname">Trend Micro Internet Security</span></div></td>
+<td class="cpu-td-gen">Trend Micro</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:9%"></div><span class="cpu-bar-num">99.09</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:18.8%"></div><span class="cpu-bar-num">4.7</span></div></td>
+<td class="num">8</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>18</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--pd">PD</span><span class="cpu-cpuname">Panda Dome Advanced</span></div></td>
+<td class="cpu-td-gen">Panda</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:17%"></div><span class="cpu-bar-num">99.17</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:44.4%"></div><span class="cpu-bar-num">11.1</span></div></td>
+<td class="num">54</td>
+<td class="num cpu-td-price"></td>
 </tr>
 
 </tbody>
