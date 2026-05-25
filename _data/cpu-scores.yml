@@ -10,13 +10,13 @@ AMD Ryzen 3 3100:
     single_perf: 2422
     multi_perf: 11645
   scores:
-    gaming: 35
+    gaming: 34
     general: null
-    workbench: 16
+    workbench: 18
   value:
-    gaming: 36
+    gaming: 30
     general: null
-    workbench: 28
+    workbench: 26
 AMD Ryzen 3 3300X:
   price:
     min: 325.12
@@ -29,13 +29,13 @@ AMD Ryzen 3 3300X:
     single_perf: 2678
     multi_perf: 12692
   scores:
-    gaming: 37
+    gaming: 36
     general: null
-    workbench: 17
+    workbench: 19
   value:
-    gaming: 15
+    gaming: 12
     general: null
-    workbench: 12
+    workbench: 11
 AMD Ryzen 5 3500X:
   price:
     min: 109.9
@@ -48,13 +48,13 @@ AMD Ryzen 5 3500X:
     single_perf: 2501
     multi_perf: 13171
   scores:
-    gaming: 41
+    gaming: 47
     general: null
-    workbench: 18
+    workbench: 25
   value:
-    gaming: 49
+    gaming: 48
     general: null
-    workbench: 37
+    workbench: 41
 AMD Ryzen 5 3600:
   price:
     min: 54.99
@@ -67,9 +67,9 @@ AMD Ryzen 5 3600:
     single_perf: 2569
     multi_perf: 17796
   scores:
-    gaming: 42
+    gaming: 49
     general: null
-    workbench: 24
+    workbench: 30
   value:
     gaming: 100
     general: null
@@ -86,9 +86,9 @@ AMD Ryzen 5 3600X:
     single_perf: 2658
     multi_perf: 18257
   scores:
-    gaming: 43
+    gaming: 50
     general: null
-    workbench: 25
+    workbench: 31
   value:
     gaming: 33
     general: null
@@ -102,9 +102,9 @@ AMD Ryzen 5 3600XT:
     single_perf: 2770
     multi_perf: 18715
   scores:
-    gaming: 44
+    gaming: 50
     general: null
-    workbench: 26
+    workbench: 31
   value:
     gaming: null
     general: null
@@ -121,13 +121,13 @@ AMD Ryzen 7 3700X:
     single_perf: 2664
     multi_perf: 22667
   scores:
-    gaming: 43
+    gaming: 52
     general: null
-    workbench: 31
+    workbench: 35
   value:
-    gaming: 29
+    gaming: 30
     general: null
-    workbench: 36
+    workbench: 33
 AMD Ryzen 7 3800X:
   price:
     min: 187.99
@@ -140,13 +140,13 @@ AMD Ryzen 7 3800X:
     single_perf: 2721
     multi_perf: 23255
   scores:
-    gaming: 44
+    gaming: 52
     general: null
-    workbench: 32
+    workbench: 36
   value:
-    gaming: 30
+    gaming: 31
     general: null
-    workbench: 38
+    workbench: 35
 AMD Ryzen 7 3800XT:
   price:
     min: 399
@@ -159,13 +159,13 @@ AMD Ryzen 7 3800XT:
     single_perf: 2809
     multi_perf: 23741
   scores:
-    gaming: 45
+    gaming: 53
     general: null
-    workbench: 33
+    workbench: 37
   value:
     gaming: 15
     general: null
-    workbench: 18
+    workbench: 17
 AMD Ryzen 9 3900X:
   price:
     min: 255
@@ -178,13 +178,13 @@ AMD Ryzen 9 3900X:
     single_perf: 2707
     multi_perf: 32724
   scores:
-    gaming: 56
+    gaming: 62
     general: null
-    workbench: 45
+    workbench: 49
   value:
-    gaming: 29
+    gaming: 27
     general: null
-    workbench: 40
+    workbench: 36
 AMD Ryzen 9 3900XT:
   price:
     min: 449
@@ -197,13 +197,13 @@ AMD Ryzen 9 3900XT:
     single_perf: 2751
     multi_perf: 32788
   scores:
-    gaming: 56
+    gaming: 63
     general: null
-    workbench: 45
+    workbench: 49
   value:
     gaming: 16
     general: null
-    workbench: 23
+    workbench: 20
 AMD Ryzen 9 3950X:
   price:
     min: 799
@@ -216,13 +216,13 @@ AMD Ryzen 9 3950X:
     single_perf: 2710
     multi_perf: 38971
   scores:
-    gaming: 56
+    gaming: 65
     general: null
-    workbench: 54
+    workbench: 56
   value:
     gaming: 9
     general: null
-    workbench: 15
+    workbench: 13
 AMD Ryzen 3 4100:
   price:
     min: 50.99
@@ -235,13 +235,13 @@ AMD Ryzen 3 4100:
     single_perf: 2539
     multi_perf: 11160
   scores:
-    gaming: 29
+    gaming: null
     general: null
-    workbench: 15
+    workbench: 17
   value:
-    gaming: 74
+    gaming: null
     general: null
-    workbench: 68
+    workbench: 63
 AMD Ryzen 5 4500:
   price:
     min: 62.99
@@ -254,13 +254,13 @@ AMD Ryzen 5 4500:
     single_perf: 2603
     multi_perf: 16222
   scores:
-    gaming: 31
+    gaming: null
     general: null
-    workbench: 22
+    workbench: 23
   value:
-    gaming: 65
+    gaming: null
     general: null
-    workbench: 80
+    workbench: 68
 AMD Ryzen 5 4600G:
   price:
     min: 275.03
@@ -273,13 +273,13 @@ AMD Ryzen 5 4600G:
     single_perf: 2664
     multi_perf: 15936
   scores:
-    gaming: 43
+    gaming: null
     general: 62
-    workbench: 22
+    workbench: 23
   value:
-    gaming: 21
+    gaming: null
     general: 31
-    workbench: 18
+    workbench: 15
 AMD Ryzen 5 5500:
   price:
     min: 72.99
@@ -292,13 +292,13 @@ AMD Ryzen 5 5500:
     single_perf: 3066
     multi_perf: 19624
   scores:
-    gaming: 38
+    gaming: null
     general: null
-    workbench: 27
+    workbench: 28
   value:
-    gaming: 68
+    gaming: null
     general: null
-    workbench: 83
+    workbench: 70
 AMD Ryzen 5 5600:
   price:
     min: 110
@@ -311,13 +311,13 @@ AMD Ryzen 5 5600:
     single_perf: 3259
     multi_perf: 21642
   scores:
-    gaming: 48
+    gaming: 54
     general: null
-    workbench: 30
+    workbench: 35
   value:
-    gaming: 57
+    gaming: 55
     general: null
-    workbench: 61
+    workbench: 59
 AMD Ryzen 5 5600G:
   price:
     min: 143.99
@@ -330,13 +330,13 @@ AMD Ryzen 5 5600G:
     single_perf: 3187
     multi_perf: 19931
   scores:
-    gaming: 51
+    gaming: null
     general: 75
-    workbench: 27
+    workbench: 28
   value:
-    gaming: 46
+    gaming: null
     general: 71
-    workbench: 43
+    workbench: 36
 AMD Ryzen 5 5600X:
   price:
     min: 138.99
@@ -349,13 +349,13 @@ AMD Ryzen 5 5600X:
     single_perf: 3359
     multi_perf: 21959
   scores:
-    gaming: 49
+    gaming: 55
     general: null
-    workbench: 30
+    workbench: 36
   value:
-    gaming: 46
+    gaming: 44
     general: null
-    workbench: 49
+    workbench: 48
 AMD Ryzen 7 5700G:
   price:
     min: 166.99
@@ -368,13 +368,13 @@ AMD Ryzen 7 5700G:
     single_perf: 3287
     multi_perf: 24689
   scores:
-    gaming: 52
+    gaming: null
     general: 82
     workbench: 34
   value:
-    gaming: 40
+    gaming: null
     general: 67
-    workbench: 46
+    workbench: 37
 AMD Ryzen 7 5700X:
   price:
     min: 142.93
@@ -387,13 +387,13 @@ AMD Ryzen 7 5700X:
     single_perf: 3385
     multi_perf: 26827
   scores:
-    gaming: 49
+    gaming: 57
     general: null
-    workbench: 37
+    workbench: 41
   value:
     gaming: 45
     general: null
-    workbench: 58
+    workbench: 53
 AMD Ryzen 7 5700X3D:
   price:
     min: 393.99
@@ -406,11 +406,11 @@ AMD Ryzen 7 5700X3D:
     single_perf: 2969
     multi_perf: 26312
   scores:
-    gaming: 69
+    gaming: 66
     general: null
-    workbench: 36
+    workbench: 45
   value:
-    gaming: 23
+    gaming: 19
     general: null
     workbench: 21
 AMD Ryzen 7 5800X:
@@ -425,13 +425,13 @@ AMD Ryzen 7 5800X:
     single_perf: 3447
     multi_perf: 28074
   scores:
-    gaming: 50
+    gaming: 58
     general: null
-    workbench: 39
+    workbench: 43
   value:
     gaming: 39
     general: null
-    workbench: 53
+    workbench: 48
 AMD Ryzen 7 5800X3D:
   price:
     min: 549.99
@@ -444,11 +444,11 @@ AMD Ryzen 7 5800X3D:
     single_perf: 3213
     multi_perf: 28169
   scores:
-    gaming: 71
+    gaming: 68
     general: null
-    workbench: 39
+    workbench: 48
   value:
-    gaming: 17
+    gaming: 14
     general: null
     workbench: 16
 AMD Ryzen 9 5900X:
@@ -463,13 +463,13 @@ AMD Ryzen 9 5900X:
     single_perf: 3471
     multi_perf: 39313
   scores:
-    gaming: 62
+    gaming: 69
     general: null
-    workbench: 54
+    workbench: 58
   value:
-    gaming: 25
+    gaming: 24
     general: null
-    workbench: 38
+    workbench: 33
 AMD Ryzen 9 5950X:
   price:
     min: 329
@@ -482,13 +482,13 @@ AMD Ryzen 9 5950X:
     single_perf: 3470
     multi_perf: 45931
   scores:
-    gaming: 63
+    gaming: 72
     general: null
-    workbench: 63
+    workbench: 65
   value:
-    gaming: 25
+    gaming: 24
     general: null
-    workbench: 43
+    workbench: 37
 AMD Ryzen 5 7500F:
   price:
     min: 126.42
@@ -501,13 +501,13 @@ AMD Ryzen 5 7500F:
     single_perf: 3827
     multi_perf: 26563
   scores:
-    gaming: 55
+    gaming: 63
     general: null
-    workbench: 37
+    workbench: 42
   value:
-    gaming: 57
+    gaming: 56
     general: null
-    workbench: 65
+    workbench: 61
 AMD Ryzen 5 7600:
   price:
     min: 160.97
@@ -520,13 +520,13 @@ AMD Ryzen 5 7600:
     single_perf: 4009
     multi_perf: 27973
   scores:
-    gaming: 57
+    gaming: 65
     general: null
-    workbench: 38
+    workbench: 44
   value:
-    gaming: 46
+    gaming: 45
     general: null
-    workbench: 54
+    workbench: 50
 AMD Ryzen 5 7600X:
   price:
     min: 149.03
@@ -539,13 +539,13 @@ AMD Ryzen 5 7600X:
     single_perf: 4222
     multi_perf: 28964
   scores:
-    gaming: 58
+    gaming: 66
     general: null
-    workbench: 40
+    workbench: 46
   value:
-    gaming: 51
+    gaming: 50
     general: null
-    workbench: 60
+    workbench: 56
 AMD Ryzen 5 7600X3D:
   price:
     min: 262.74
@@ -558,13 +558,13 @@ AMD Ryzen 5 7600X3D:
     single_perf: 3604
     multi_perf: 25835
   scores:
-    gaming: 76
+    gaming: 73
     general: null
-    workbench: 36
+    workbench: 46
   value:
-    gaming: 38
+    gaming: 31
     general: null
-    workbench: 30
+    workbench: 32
 AMD Ryzen 7 7700:
   price:
     min: 165
@@ -577,13 +577,13 @@ AMD Ryzen 7 7700:
     single_perf: 4165
     multi_perf: 35615
   scores:
-    gaming: 58
+    gaming: 69
     general: null
-    workbench: 49
+    workbench: 53
   value:
-    gaming: 46
+    gaming: 47
     general: null
-    workbench: 67
+    workbench: 59
 AMD Ryzen 7 7700X:
   price:
     min: 188
@@ -596,13 +596,13 @@ AMD Ryzen 7 7700X:
     single_perf: 4276
     multi_perf: 36549
   scores:
-    gaming: 59
+    gaming: 70
     general: null
-    workbench: 50
+    workbench: 54
   value:
-    gaming: 41
+    gaming: 42
     general: null
-    workbench: 60
+    workbench: 53
 AMD Ryzen 7 7800X3D:
   price:
     min: 249.99
@@ -617,11 +617,11 @@ AMD Ryzen 7 7800X3D:
   scores:
     gaming: 78
     general: null
-    workbench: 48
+    workbench: 57
   value:
-    gaming: 41
+    gaming: 35
     general: null
-    workbench: 43
+    workbench: 42
 AMD Ryzen 9 7900:
   price:
     min: 274.99
@@ -634,13 +634,13 @@ AMD Ryzen 9 7900:
     single_perf: 4214
     multi_perf: 49309
   scores:
-    gaming: 71
+    gaming: 81
     general: null
-    workbench: 68
+    workbench: 71
   value:
-    gaming: 34
+    gaming: 33
     general: null
-    workbench: 55
+    workbench: 47
 AMD Ryzen 9 7900X:
   price:
     min: 269.99
@@ -653,13 +653,13 @@ AMD Ryzen 9 7900X:
     single_perf: 4330
     multi_perf: 52491
   scores:
-    gaming: 72
+    gaming: 83
     general: null
-    workbench: 72
+    workbench: 74
   value:
     gaming: 35
     general: null
-    workbench: 60
+    workbench: 51
 AMD Ryzen 9 7900X3D:
   price:
     min: 525
@@ -672,13 +672,13 @@ AMD Ryzen 9 7900X3D:
     single_perf: 4140
     multi_perf: 51312
   scores:
-    gaming: 94
+    gaming: 87
     general: null
-    workbench: 71
+    workbench: 75
   value:
-    gaming: 23
+    gaming: 19
     general: null
-    workbench: 30
+    workbench: 26
 AMD Ryzen 9 7950X:
   price:
     min: 458
@@ -691,13 +691,13 @@ AMD Ryzen 9 7950X:
     single_perf: 4327
     multi_perf: 63628
   scores:
-    gaming: 73
+    gaming: 88
     general: null
-    workbench: 88
+    workbench: 87
   value:
-    gaming: 21
+    gaming: 22
     general: null
-    workbench: 43
+    workbench: 35
 AMD Ryzen 9 7950X3D:
   price:
     min: 539
@@ -710,13 +710,13 @@ AMD Ryzen 9 7950X3D:
     single_perf: 4228
     multi_perf: 63519
   scores:
-    gaming: 95
+    gaming: 94
     general: null
-    workbench: 87
+    workbench: 89
   value:
-    gaming: 23
+    gaming: 19
     general: null
-    workbench: 36
+    workbench: 30
 AMD Ryzen 5 8400F:
   price:
     min: 99.99
@@ -733,28 +733,28 @@ AMD Ryzen 5 8400F:
     general: null
     workbench: 34
   value:
-    gaming: 60
+    gaming: 51
     general: null
-    workbench: 76
+    workbench: 63
 AMD Ryzen 5 8500G:
   price:
     min: 119.99
     offers: 14
     updated: '2026-05-25T02:53:51.470Z'
   derived:
-    pcie_gen: 4
+    pcie_gen: 3
     has_igpu: true
     total_cores: 6
     single_perf: 3876
     multi_perf: 21420
   scores:
-    gaming: 58
+    gaming: null
     general: 88
-    workbench: 29
+    workbench: 31
   value:
-    gaming: 64
+    gaming: null
     general: 100
-    workbench: 55
+    workbench: 48
 AMD Ryzen 5 8600G:
   price:
     min: 154.49
@@ -767,13 +767,13 @@ AMD Ryzen 5 8600G:
     single_perf: 3874
     multi_perf: 25195
   scores:
-    gaming: 59
+    gaming: 58
     general: 92
-    workbench: 35
+    workbench: 36
   value:
-    gaming: 50
+    gaming: 42
     general: 81
-    workbench: 50
+    workbench: 42
 AMD Ryzen 7 8700F:
   price:
     min: 136.69
@@ -786,13 +786,13 @@ AMD Ryzen 7 8700F:
     single_perf: 3876
     multi_perf: 31008
   scores:
-    gaming: 48
+    gaming: 50
     general: null
-    workbench: 43
+    workbench: 42
   value:
-    gaming: 46
+    gaming: 41
     general: null
-    workbench: 70
+    workbench: 57
 AMD Ryzen 7 8700G:
   price:
     min: 218.28
@@ -805,13 +805,13 @@ AMD Ryzen 7 8700G:
     single_perf: 3924
     multi_perf: 31567
   scores:
-    gaming: 60
+    gaming: 61
     general: 100
     workbench: 43
   value:
-    gaming: 36
+    gaming: 32
     general: 63
-    workbench: 45
+    workbench: 36
 AMD Ryzen 5 9600:
   price:
     min: 184.99
@@ -824,13 +824,13 @@ AMD Ryzen 5 9600:
     single_perf: 4571
     multi_perf: 30086
   scores:
-    gaming: 61
+    gaming: 68
     general: null
-    workbench: 41
+    workbench: 47
   value:
-    gaming: 43
+    gaming: 41
     general: null
-    workbench: 50
+    workbench: 47
 AMD Ryzen 5 9600X:
   price:
     min: 150
@@ -843,13 +843,13 @@ AMD Ryzen 5 9600X:
     single_perf: 4571
     multi_perf: 30086
   scores:
-    gaming: 61
+    gaming: 68
     general: null
-    workbench: 41
+    workbench: 47
   value:
-    gaming: 53
+    gaming: 51
     general: null
-    workbench: 62
+    workbench: 58
 AMD Ryzen 7 9700X:
   price:
     min: 241
@@ -862,13 +862,13 @@ AMD Ryzen 7 9700X:
     single_perf: 4649
     multi_perf: 37061
   scores:
-    gaming: 62
+    gaming: 72
     general: null
-    workbench: 51
+    workbench: 55
   value:
-    gaming: 34
+    gaming: 33
     general: null
-    workbench: 48
+    workbench: 42
 AMD Ryzen 7 9800X3D:
   price:
     min: 329.99
@@ -881,13 +881,13 @@ AMD Ryzen 7 9800X3D:
     single_perf: 4425
     multi_perf: 39970
   scores:
-    gaming: 84
+    gaming: 83
     general: null
-    workbench: 55
+    workbench: 63
   value:
-    gaming: 33
+    gaming: 28
     general: null
-    workbench: 37
+    workbench: 35
 AMD Ryzen 9 9900X:
   price:
     min: 305
@@ -900,13 +900,13 @@ AMD Ryzen 9 9900X:
     single_perf: 4643
     multi_perf: 56192
   scores:
-    gaming: 75
+    gaming: 86
     general: null
-    workbench: 77
+    workbench: 79
   value:
     gaming: 32
     general: null
-    workbench: 57
+    workbench: 48
 AMD Ryzen 9 9900X3D:
   price:
     min: 441.28
@@ -919,13 +919,13 @@ AMD Ryzen 9 9900X3D:
     single_perf: 4643
     multi_perf: 56192
   scores:
-    gaming: 98
+    gaming: 92
     general: null
-    workbench: 77
+    workbench: 82
   value:
-    gaming: 29
+    gaming: 23
     general: null
-    workbench: 39
+    workbench: 34
 AMD Ryzen 9 9950X:
   price:
     min: 448.91
@@ -938,13 +938,13 @@ AMD Ryzen 9 9950X:
     single_perf: 4717
     multi_perf: 72703
   scores:
-    gaming: 77
+    gaming: 94
     general: null
-    workbench: 100
+    workbench: 97
   value:
-    gaming: 22
+    gaming: 24
     general: null
-    workbench: 50
+    workbench: 40
 AMD Ryzen 9 9950X3D:
   price:
     min: 494.99
@@ -961,9 +961,9 @@ AMD Ryzen 9 9950X3D:
     general: null
     workbench: 100
   value:
-    gaming: 26
+    gaming: 23
     general: null
-    workbench: 45
+    workbench: 37
 Intel Pentium Gold G7400:
   price:
     min: 101.99
@@ -976,13 +976,13 @@ Intel Pentium Gold G7400:
     single_perf: 3050
     multi_perf: 6792
   scores:
-    gaming: 38
+    gaming: 39
     general: null
-    workbench: 9
+    workbench: 14
   value:
-    gaming: 49
+    gaming: 43
     general: null
-    workbench: 21
+    workbench: 25
 Intel Celeron G6900:
   price:
     min: 64.19
@@ -995,13 +995,13 @@ Intel Celeron G6900:
     single_perf: 2707
     multi_perf: 4481
   scores:
-    gaming: 35
+    gaming: 37
     general: null
-    workbench: 6
+    workbench: 10
   value:
-    gaming: 70
+    gaming: 64
     general: null
-    workbench: 22
+    workbench: 30
 Intel Core i3-12100:
   price:
     min: 148.99
@@ -1016,11 +1016,11 @@ Intel Core i3-12100:
   scores:
     gaming: 44
     general: null
-    workbench: 19
+    workbench: 22
   value:
-    gaming: 38
+    gaming: 33
     general: null
-    workbench: 29
+    workbench: 28
 Intel Core i3-12100F:
   price:
     min: 78.99
@@ -1035,11 +1035,11 @@ Intel Core i3-12100F:
   scores:
     gaming: 44
     general: null
-    workbench: 19
+    workbench: 22
   value:
-    gaming: 72
+    gaming: 63
     general: null
-    workbench: 55
+    workbench: 52
 Intel Core i5-12400:
   price:
     min: 171.64
@@ -1052,13 +1052,13 @@ Intel Core i5-12400:
     single_perf: 3488
     multi_perf: 19582
   scores:
-    gaming: 47
+    gaming: 49
     general: null
-    workbench: 27
+    workbench: 29
   value:
-    gaming: 36
+    gaming: 32
     general: null
-    workbench: 35
+    workbench: 31
 Intel Core i5-12400F:
   price:
     min: 139.99
@@ -1071,13 +1071,13 @@ Intel Core i5-12400F:
     single_perf: 3488
     multi_perf: 19582
   scores:
-    gaming: 47
+    gaming: 49
     general: null
-    workbench: 27
+    workbench: 29
   value:
-    gaming: 44
+    gaming: 39
     general: null
-    workbench: 43
+    workbench: 38
 Intel Core i5-12500:
   price:
     min: 205
@@ -1090,13 +1090,13 @@ Intel Core i5-12500:
     single_perf: 3643
     multi_perf: 23366
   scores:
-    gaming: 48
+    gaming: 51
     general: null
-    workbench: 32
+    workbench: 34
   value:
-    gaming: 31
+    gaming: 28
     general: null
-    workbench: 35
+    workbench: 30
 Intel Core i5-12600:
   price:
     min: 291.08
@@ -1109,13 +1109,13 @@ Intel Core i5-12600:
     single_perf: 3919
     multi_perf: 27537
   scores:
-    gaming: 51
+    gaming: 54
     general: null
-    workbench: 38
+    workbench: 39
   value:
-    gaming: 23
+    gaming: 21
     general: null
-    workbench: 29
+    workbench: 25
 Intel Core i5-12600K:
   price:
     min: 187.99
@@ -1128,13 +1128,13 @@ Intel Core i5-12600K:
     single_perf: 3919
     multi_perf: 27537
   scores:
-    gaming: 52
+    gaming: 56
     general: null
-    workbench: 38
+    workbench: 40
   value:
-    gaming: 36
+    gaming: 33
     general: null
-    workbench: 45
+    workbench: 39
 Intel Core i5-12600KF:
   price:
     min: 162.99
@@ -1147,13 +1147,13 @@ Intel Core i5-12600KF:
     single_perf: 3916
     multi_perf: 27529
   scores:
-    gaming: 52
+    gaming: 56
     general: null
-    workbench: 38
+    workbench: 40
   value:
-    gaming: 41
+    gaming: 38
     general: null
-    workbench: 52
+    workbench: 45
 Intel Core i7-12700:
   price:
     min: 310
@@ -1166,13 +1166,13 @@ Intel Core i7-12700:
     single_perf: 4005
     multi_perf: 34288
   scores:
-    gaming: 55
+    gaming: 63
     general: null
-    workbench: 47
+    workbench: 49
   value:
     gaming: 23
     general: null
-    workbench: 34
+    workbench: 29
 Intel Core i7-12700F:
   price:
     min: 248.34
@@ -1185,13 +1185,13 @@ Intel Core i7-12700F:
     single_perf: 3843
     multi_perf: 30228
   scores:
-    gaming: 53
+    gaming: 60
     general: null
-    workbench: 42
+    workbench: 44
   value:
-    gaming: 28
+    gaming: 27
     general: null
-    workbench: 38
+    workbench: 33
 Intel Core i7-12700K:
   price:
     min: 263.99
@@ -1204,13 +1204,13 @@ Intel Core i7-12700K:
     single_perf: 4005
     multi_perf: 34288
   scores:
-    gaming: 55
+    gaming: 63
     general: null
-    workbench: 47
+    workbench: 49
   value:
     gaming: 27
     general: null
-    workbench: 40
+    workbench: 34
 Intel Core i7-12700KF:
   price:
     min: 244.99
@@ -1223,13 +1223,13 @@ Intel Core i7-12700KF:
     single_perf: 3979
     multi_perf: 33971
   scores:
-    gaming: 54
+    gaming: 62
     general: null
-    workbench: 47
+    workbench: 48
   value:
     gaming: 29
     general: null
-    workbench: 43
+    workbench: 36
 Intel Core i9-12900:
   price:
     min: 429.99
@@ -1242,13 +1242,13 @@ Intel Core i9-12900:
     single_perf: 4327
     multi_perf: 43445
   scores:
-    gaming: 60
+    gaming: 72
     general: null
-    workbench: 60
+    workbench: 61
   value:
-    gaming: 18
+    gaming: 19
     general: null
-    workbench: 31
+    workbench: 26
 Intel Core i9-12900F:
   price:
     min: 425.22
@@ -1261,13 +1261,13 @@ Intel Core i9-12900F:
     single_perf: 4015
     multi_perf: 35785
   scores:
-    gaming: 57
+    gaming: 67
     general: null
-    workbench: 49
+    workbench: 52
   value:
-    gaming: 17
+    gaming: 18
     general: null
-    workbench: 26
+    workbench: 23
 Intel Core i9-12900K:
   price:
     min: 331.94
@@ -1280,13 +1280,13 @@ Intel Core i9-12900K:
     single_perf: 4327
     multi_perf: 43445
   scores:
-    gaming: 60
+    gaming: 72
     general: null
-    workbench: 60
+    workbench: 61
   value:
-    gaming: 23
+    gaming: 24
     general: null
-    workbench: 40
+    workbench: 34
 Intel Core i9-12900KF:
   price:
     min: 259.99
@@ -1299,13 +1299,13 @@ Intel Core i9-12900KF:
     single_perf: 4123
     multi_perf: 40600
   scores:
-    gaming: 58
+    gaming: 70
     general: null
-    workbench: 56
+    workbench: 58
   value:
-    gaming: 29
+    gaming: 30
     general: null
-    workbench: 48
+    workbench: 41
 Intel Core i9-12900KS:
   price:
     min: 379.99
@@ -1318,13 +1318,13 @@ Intel Core i9-12900KS:
     single_perf: 4327
     multi_perf: 43445
   scores:
-    gaming: 60
+    gaming: 72
     general: null
-    workbench: 60
+    workbench: 61
   value:
-    gaming: 20
+    gaming: 21
     general: null
-    workbench: 35
+    workbench: 30
 Intel Core i3-13100:
   price:
     min: 137.99
@@ -1339,11 +1339,11 @@ Intel Core i3-13100:
   scores:
     gaming: 45
     general: null
-    workbench: 20
+    workbench: 23
   value:
-    gaming: 43
+    gaming: 37
     general: null
-    workbench: 33
+    workbench: 31
 Intel Core i3-13100F:
   price:
     min: 98.99
@@ -1358,11 +1358,11 @@ Intel Core i3-13100F:
   scores:
     gaming: 45
     general: null
-    workbench: 20
+    workbench: 23
   value:
-    gaming: 60
+    gaming: 51
     general: null
-    workbench: 46
+    workbench: 44
 Intel Core i5-13400:
   price:
     min: 228.29
@@ -1375,13 +1375,13 @@ Intel Core i5-13400:
     single_perf: 3716
     multi_perf: 27000
   scores:
-    gaming: 50
+    gaming: 54
     general: null
-    workbench: 37
+    workbench: 39
   value:
-    gaming: 29
+    gaming: 27
     general: null
-    workbench: 37
+    workbench: 31
 Intel Core i5-13400F:
   price:
     min: 172.99
@@ -1394,13 +1394,13 @@ Intel Core i5-13400F:
     single_perf: 3633
     multi_perf: 24944
   scores:
-    gaming: 49
+    gaming: 53
     general: null
-    workbench: 34
+    workbench: 36
   value:
-    gaming: 37
+    gaming: 34
     general: null
-    workbench: 45
+    workbench: 38
 Intel Core i5-13500:
   price:
     min: 295.99
@@ -1413,13 +1413,13 @@ Intel Core i5-13500:
     single_perf: 3858
     multi_perf: 30905
   scores:
-    gaming: 53
+    gaming: 60
     general: null
-    workbench: 43
+    workbench: 44
   value:
     gaming: 23
     general: null
-    workbench: 32
+    workbench: 28
 Intel Core i5-13600K:
   price:
     min: 259.99
@@ -1432,13 +1432,13 @@ Intel Core i5-13600K:
     single_perf: 4115
     multi_perf: 37520
   scores:
-    gaming: 55
+    gaming: 64
     general: null
     workbench: 52
   value:
     gaming: 28
     general: null
-    workbench: 45
+    workbench: 37
 Intel Core i5-13600KF:
   price:
     min: 229.99
@@ -1451,13 +1451,13 @@ Intel Core i5-13600KF:
     single_perf: 4114
     multi_perf: 37387
   scores:
-    gaming: 55
+    gaming: 64
     general: null
-    workbench: 51
+    workbench: 52
   value:
     gaming: 31
     general: null
-    workbench: 50
+    workbench: 42
 Intel Core i7-13700:
   price:
     min: 455
@@ -1470,13 +1470,13 @@ Intel Core i7-13700:
     single_perf: 4328
     multi_perf: 45692
   scores:
-    gaming: 60
+    gaming: 73
     general: null
-    workbench: 63
+    workbench: 64
   value:
-    gaming: 17
+    gaming: 18
     general: null
-    workbench: 31
+    workbench: 26
 Intel Core i7-13700F:
   price:
     min: 311.34
@@ -1489,13 +1489,13 @@ Intel Core i7-13700F:
     single_perf: 4117
     multi_perf: 37883
   scores:
-    gaming: 58
+    gaming: 68
     general: null
-    workbench: 52
+    workbench: 55
   value:
-    gaming: 24
+    gaming: 25
     general: null
-    workbench: 38
+    workbench: 32
 Intel Core i7-13700K:
   price:
     min: 349.99
@@ -1508,13 +1508,13 @@ Intel Core i7-13700K:
     single_perf: 4328
     multi_perf: 45692
   scores:
-    gaming: 60
+    gaming: 73
     general: null
-    workbench: 63
+    workbench: 64
   value:
-    gaming: 22
+    gaming: 23
     general: null
-    workbench: 40
+    workbench: 33
 Intel Core i7-13700KF:
   price:
     min: 314.99
@@ -1527,13 +1527,13 @@ Intel Core i7-13700KF:
     single_perf: 4331
     multi_perf: 45583
   scores:
-    gaming: 60
+    gaming: 73
     general: null
-    workbench: 63
+    workbench: 64
   value:
-    gaming: 25
+    gaming: 26
     general: null
-    workbench: 45
+    workbench: 37
 Intel Core i9-13900:
   price:
     min: 629.99
@@ -1546,13 +1546,13 @@ Intel Core i9-13900:
     single_perf: 4716
     multi_perf: 60490
   scores:
-    gaming: 66
+    gaming: 84
     general: null
-    workbench: 83
+    workbench: 82
   value:
-    gaming: 14
+    gaming: 15
     general: null
-    workbench: 30
+    workbench: 24
 Intel Core i9-13900F:
   price:
     min: 395
@@ -1565,13 +1565,13 @@ Intel Core i9-13900F:
     single_perf: 4400
     multi_perf: 48391
   scores:
-    gaming: 63
+    gaming: 77
     general: null
-    workbench: 67
+    workbench: 68
   value:
-    gaming: 21
+    gaming: 22
     general: null
-    workbench: 38
+    workbench: 32
 Intel Core i9-13900K:
   price:
     min: 437.93
@@ -1584,13 +1584,13 @@ Intel Core i9-13900K:
     single_perf: 4716
     multi_perf: 60490
   scores:
-    gaming: 66
+    gaming: 84
     general: null
-    workbench: 83
+    workbench: 82
   value:
-    gaming: 20
+    gaming: 21
     general: null
-    workbench: 43
+    workbench: 34
 Intel Core i9-13900KF:
   price:
     min: 415.99
@@ -1603,13 +1603,13 @@ Intel Core i9-13900KF:
     single_perf: 4581
     multi_perf: 57556
   scores:
-    gaming: 65
+    gaming: 82
     general: null
-    workbench: 79
+    workbench: 78
   value:
-    gaming: 20
+    gaming: 22
     general: null
-    workbench: 43
+    workbench: 35
 Intel Core i9-13900KS:
   price:
     min: 503.29
@@ -1622,13 +1622,13 @@ Intel Core i9-13900KS:
     single_perf: 4716
     multi_perf: 60490
   scores:
-    gaming: 66
+    gaming: 84
     general: null
-    workbench: 83
+    workbench: 82
   value:
-    gaming: 17
+    gaming: 19
     general: null
-    workbench: 37
+    workbench: 30
 Intel Core i3-14100:
   price:
     min: 139.99
@@ -1643,11 +1643,11 @@ Intel Core i3-14100:
   scores:
     gaming: 47
     general: null
-    workbench: 21
+    workbench: 25
   value:
-    gaming: 43
+    gaming: 37
     general: null
-    workbench: 34
+    workbench: 32
 Intel Core i3-14100F:
   price:
     min: 88.99
@@ -1662,11 +1662,11 @@ Intel Core i3-14100F:
   scores:
     gaming: 47
     general: null
-    workbench: 21
+    workbench: 25
   value:
-    gaming: 68
+    gaming: 59
     general: null
-    workbench: 54
+    workbench: 51
 Intel Core i5-14400:
   price:
     min: 229.99
@@ -1679,13 +1679,13 @@ Intel Core i5-14400:
     single_perf: 3703
     multi_perf: 25535
   scores:
-    gaming: 50
+    gaming: 54
     general: null
-    workbench: 35
+    workbench: 37
   value:
-    gaming: 28
+    gaming: 26
     general: null
-    workbench: 34
+    workbench: 30
 Intel Core i5-14400F:
   price:
     min: 159.99
@@ -1698,13 +1698,13 @@ Intel Core i5-14400F:
     single_perf: 3703
     multi_perf: 25535
   scores:
-    gaming: 50
+    gaming: 54
     general: null
-    workbench: 35
+    workbench: 37
   value:
-    gaming: 41
+    gaming: 38
     general: null
-    workbench: 49
+    workbench: 42
 Intel Core i5-14500:
   price:
     min: 334.84
@@ -1717,13 +1717,13 @@ Intel Core i5-14500:
     single_perf: 3951
     multi_perf: 30937
   scores:
-    gaming: 54
+    gaming: 60
     general: null
-    workbench: 43
+    workbench: 45
   value:
-    gaming: 21
+    gaming: 20
     general: null
-    workbench: 29
+    workbench: 25
 Intel Core i5-14600K:
   price:
     min: 252.99
@@ -1736,13 +1736,13 @@ Intel Core i5-14600K:
     single_perf: 4268
     multi_perf: 38450
   scores:
-    gaming: 57
+    gaming: 65
     general: null
-    workbench: 53
+    workbench: 54
   value:
     gaming: 29
     general: null
-    workbench: 47
+    workbench: 39
 Intel Core i5-14600KF:
   price:
     min: 227.9
@@ -1755,13 +1755,13 @@ Intel Core i5-14600KF:
     single_perf: 4256
     multi_perf: 38366
   scores:
-    gaming: 57
+    gaming: 65
     general: null
     workbench: 53
   value:
     gaming: 32
     general: null
-    workbench: 52
+    workbench: 43
 Intel Core i7-14700:
   price:
     min: 349.99
@@ -1774,13 +1774,13 @@ Intel Core i7-14700:
     single_perf: 4469
     multi_perf: 52107
   scores:
-    gaming: 62
+    gaming: 78
     general: null
     workbench: 72
   value:
-    gaming: 23
+    gaming: 25
     general: null
-    workbench: 46
+    workbench: 38
 Intel Core i7-14700F:
   price:
     min: 296.3
@@ -1793,13 +1793,13 @@ Intel Core i7-14700F:
     single_perf: 4258
     multi_perf: 41406
   scores:
-    gaming: 60
+    gaming: 72
     general: null
-    workbench: 57
+    workbench: 59
   value:
-    gaming: 26
+    gaming: 27
     general: null
-    workbench: 43
+    workbench: 37
 Intel Core i7-14700K:
   price:
     min: 346.82
@@ -1812,13 +1812,13 @@ Intel Core i7-14700K:
     single_perf: 4469
     multi_perf: 52107
   scores:
-    gaming: 62
+    gaming: 78
     general: null
     workbench: 72
   value:
-    gaming: 23
+    gaming: 25
     general: null
-    workbench: 46
+    workbench: 38
 Intel Core i7-14700KF:
   price:
     min: 336.31
@@ -1831,13 +1831,13 @@ Intel Core i7-14700KF:
     single_perf: 4469
     multi_perf: 52107
   scores:
-    gaming: 62
+    gaming: 78
     general: null
     workbench: 72
   value:
-    gaming: 24
+    gaming: 26
     general: null
-    workbench: 48
+    workbench: 39
 Intel Core i9-14900:
   price:
     min: 526.99
@@ -1850,13 +1850,13 @@ Intel Core i9-14900:
     single_perf: 4817
     multi_perf: 60129
   scores:
-    gaming: 67
+    gaming: 84
     general: null
-    workbench: 83
+    workbench: 82
   value:
-    gaming: 17
+    gaming: 18
     general: null
-    workbench: 35
+    workbench: 29
 Intel Core i9-14900F:
   price:
     min: 503.99
@@ -1869,13 +1869,13 @@ Intel Core i9-14900F:
     single_perf: 4509
     multi_perf: 46646
   scores:
-    gaming: 63
+    gaming: 76
     general: null
-    workbench: 64
+    workbench: 66
   value:
-    gaming: 16
+    gaming: 17
     general: null
-    workbench: 29
+    workbench: 24
 Intel Core i9-14900K:
   price:
     min: 419
@@ -1888,13 +1888,13 @@ Intel Core i9-14900K:
     single_perf: 4817
     multi_perf: 60129
   scores:
-    gaming: 67
+    gaming: 84
     general: null
-    workbench: 83
+    workbench: 82
   value:
-    gaming: 21
+    gaming: 22
     general: null
-    workbench: 44
+    workbench: 36
 Intel Core i9-14900KF:
   price:
     min: 349.95
@@ -1907,13 +1907,13 @@ Intel Core i9-14900KF:
     single_perf: 4692
     multi_perf: 58210
   scores:
-    gaming: 66
+    gaming: 83
     general: null
-    workbench: 80
+    workbench: 79
   value:
-    gaming: 25
+    gaming: 26
     general: null
-    workbench: 51
+    workbench: 42
 Intel Core i9-14900KS:
   price:
     min: 589.99
@@ -1926,13 +1926,13 @@ Intel Core i9-14900KS:
     single_perf: 4817
     multi_perf: 60129
   scores:
-    gaming: 67
+    gaming: 84
     general: null
-    workbench: 83
+    workbench: 82
   value:
-    gaming: 15
+    gaming: 16
     general: null
-    workbench: 31
+    workbench: 25
 Intel Core Ultra 5 225:
   price:
     min: 154.99
@@ -1945,13 +1945,13 @@ Intel Core Ultra 5 225:
     single_perf: 4393
     multi_perf: 31032
   scores:
-    gaming: 56
+    gaming: 59
     general: null
-    workbench: 43
+    workbench: 44
   value:
-    gaming: 47
+    gaming: 43
     general: null
-    workbench: 62
+    workbench: 53
 Intel Core Ultra 5 225F:
   price:
     min: 119.95
@@ -1964,13 +1964,13 @@ Intel Core Ultra 5 225F:
     single_perf: 4393
     multi_perf: 31032
   scores:
-    gaming: 56
+    gaming: 59
     general: null
-    workbench: 43
+    workbench: 44
   value:
-    gaming: 60
+    gaming: 55
     general: null
-    workbench: 80
+    workbench: 68
 Intel Core Ultra 5 235:
   price:
     min: 245.99
@@ -1983,13 +1983,13 @@ Intel Core Ultra 5 235:
     single_perf: 4711
     multi_perf: 41025
   scores:
-    gaming: 60
+    gaming: 68
     general: null
-    workbench: 56
+    workbench: 57
   value:
-    gaming: 32
+    gaming: 31
     general: null
-    workbench: 52
+    workbench: 43
 Intel Core Ultra 5 245K:
   price:
     min: 149.99
@@ -2002,13 +2002,13 @@ Intel Core Ultra 5 245K:
     single_perf: 4720
     multi_perf: 43175
   scores:
-    gaming: 61
+    gaming: 69
     general: null
-    workbench: 59
+    workbench: 60
   value:
-    gaming: 53
+    gaming: 52
     general: null
-    workbench: 89
+    workbench: 73
 Intel Core Ultra 5 245KF:
   price:
     min: 139.99
@@ -2021,13 +2021,13 @@ Intel Core Ultra 5 245KF:
     single_perf: 4720
     multi_perf: 43175
   scores:
-    gaming: 61
+    gaming: 69
     general: null
-    workbench: 59
+    workbench: 60
   value:
-    gaming: 56
+    gaming: 55
     general: null
-    workbench: 95
+    workbench: 79
 Intel Core Ultra 7 265:
   price:
     min: 346.92
@@ -2040,13 +2040,13 @@ Intel Core Ultra 7 265:
     single_perf: 4930
     multi_perf: 58691
   scores:
-    gaming: 66
+    gaming: 82
     general: null
-    workbench: 81
+    workbench: 79
   value:
-    gaming: 25
+    gaming: 26
     general: null
-    workbench: 52
+    workbench: 42
 Intel Core Ultra 7 265F:
   price:
     min: 304.28
@@ -2059,13 +2059,13 @@ Intel Core Ultra 7 265F:
     single_perf: 4754
     multi_perf: 49552
   scores:
-    gaming: 63
+    gaming: 77
     general: null
-    workbench: 68
+    workbench: 69
   value:
-    gaming: 27
+    gaming: 28
     general: null
-    workbench: 50
+    workbench: 42
 Intel Core Ultra 7 265K:
   price:
     min: 260.99
@@ -2078,13 +2078,13 @@ Intel Core Ultra 7 265K:
     single_perf: 4930
     multi_perf: 58691
   scores:
-    gaming: 66
+    gaming: 82
     general: null
-    workbench: 81
+    workbench: 79
   value:
-    gaming: 33
+    gaming: 35
     general: null
-    workbench: 69
+    workbench: 56
 Intel Core Ultra 7 265KF:
   price:
     min: 212
@@ -2097,13 +2097,13 @@ Intel Core Ultra 7 265KF:
     single_perf: 4926
     multi_perf: 58566
   scores:
-    gaming: 66
+    gaming: 82
     general: null
-    workbench: 81
+    workbench: 79
   value:
-    gaming: 40
+    gaming: 43
     general: null
-    workbench: 85
+    workbench: 69
 Intel Core Ultra 9 285:
   price:
     min: 499.95
@@ -2116,13 +2116,13 @@ Intel Core Ultra 9 285:
     single_perf: 5088
     multi_perf: 67286
   scores:
-    gaming: 70
+    gaming: 89
     general: null
-    workbench: 93
+    workbench: 90
   value:
-    gaming: 18
+    gaming: 20
     general: null
-    workbench: 42
+    workbench: 33
 Intel Core Ultra 9 285K:
   price:
     min: 475
@@ -2135,10 +2135,10 @@ Intel Core Ultra 9 285K:
     single_perf: 5088
     multi_perf: 67286
   scores:
-    gaming: 70
+    gaming: 89
     general: null
-    workbench: 93
+    workbench: 90
   value:
-    gaming: 19
+    gaming: 21
     general: null
-    workbench: 44
+    workbench: 35
