@@ -1,5 +1,8 @@
 AMD Ryzen 3 3100:
-  price: null
+  price:
+    min: 127.75
+    offers: 1
+    updated: '2026-05-25T02:53:34.975Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -7,11 +10,14 @@ AMD Ryzen 3 3100:
     single_perf: 3.9
     multi_perf: 15.6
   scores:
-    gaming: null
+    gaming: 36
     general: null
-    workbench: null
+    workbench: 23
 AMD Ryzen 3 3300X:
-  price: null
+  price:
+    min: 325.12
+    offers: 2
+    updated: '2026-05-25T02:53:36.106Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -19,11 +25,14 @@ AMD Ryzen 3 3300X:
     single_perf: 4.3
     multi_perf: 17.2
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 10
 AMD Ryzen 5 3500X:
-  price: null
+  price:
+    min: 109.9
+    offers: 2
+    updated: '2026-05-25T02:53:40.460Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -31,11 +40,14 @@ AMD Ryzen 5 3500X:
     single_perf: 4.1
     multi_perf: 24.6
   scores:
-    gaming: null
+    gaming: 49
     general: null
-    workbench: null
+    workbench: 43
 AMD Ryzen 5 3600:
-  price: null
+  price:
+    min: 54.99
+    offers: 5
+    updated: '2026-05-25T02:53:35.407Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -43,11 +55,14 @@ AMD Ryzen 5 3600:
     single_perf: 4.2
     multi_perf: 25.2
   scores:
-    gaming: null
+    gaming: 100
     general: null
-    workbench: null
+    workbench: 88
 AMD Ryzen 5 3600X:
-  price: null
+  price:
+    min: 170.99
+    offers: 2
+    updated: '2026-05-25T02:53:38.792Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -55,9 +70,9 @@ AMD Ryzen 5 3600X:
     single_perf: 4.4
     multi_perf: 26.4
   scores:
-    gaming: null
+    gaming: 33
     general: null
-    workbench: null
+    workbench: 30
 AMD Ryzen 5 3600XT:
   price: null
   derived:
@@ -71,7 +86,10 @@ AMD Ryzen 5 3600XT:
     general: null
     workbench: null
 AMD Ryzen 7 3700X:
-  price: null
+  price:
+    min: 195.99
+    offers: 3
+    updated: '2026-05-25T02:53:37.431Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -79,11 +97,14 @@ AMD Ryzen 7 3700X:
     single_perf: 4.4
     multi_perf: 35.2
   scores:
-    gaming: null
+    gaming: 29
     general: null
-    workbench: null
+    workbench: 35
 AMD Ryzen 7 3800X:
-  price: null
+  price:
+    min: 187.99
+    offers: 1
+    updated: '2026-05-25T02:53:43.270Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -91,11 +112,14 @@ AMD Ryzen 7 3800X:
     single_perf: 4.5
     multi_perf: 36.0
   scores:
-    gaming: null
+    gaming: 31
     general: null
-    workbench: null
+    workbench: 37
 AMD Ryzen 7 3800XT:
-  price: null
+  price:
+    min: 399
+    offers: 1
+    updated: '2026-05-25T02:53:42.981Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -103,11 +127,14 @@ AMD Ryzen 7 3800XT:
     single_perf: 4.7
     multi_perf: 37.6
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 18
 AMD Ryzen 9 3900X:
-  price: null
+  price:
+    min: 255
+    offers: 1
+    updated: '2026-05-25T02:53:39.007Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -115,11 +142,14 @@ AMD Ryzen 9 3900X:
     single_perf: 4.6
     multi_perf: 55.2
   scores:
-    gaming: null
+    gaming: 28
     general: null
-    workbench: null
+    workbench: 42
 AMD Ryzen 9 3900XT:
-  price: null
+  price:
+    min: 449
+    offers: 1
+    updated: '2026-05-25T02:53:45.222Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -127,11 +157,14 @@ AMD Ryzen 9 3900XT:
     single_perf: 4.7
     multi_perf: 56.4
   scores:
-    gaming: null
+    gaming: 16
     general: null
-    workbench: null
+    workbench: 24
 AMD Ryzen 9 3950X:
-  price: null
+  price:
+    min: 799
+    offers: 2
+    updated: '2026-05-25T02:53:43.698Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -139,11 +172,14 @@ AMD Ryzen 9 3950X:
     single_perf: 4.7
     multi_perf: 75.2
   scores:
-    gaming: null
+    gaming: 9
     general: null
-    workbench: null
+    workbench: 18
 AMD Ryzen 3 4100:
-  price: null
+  price:
+    min: 50.99
+    offers: 13
+    updated: '2026-05-25T02:53:45.124Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -151,11 +187,14 @@ AMD Ryzen 3 4100:
     single_perf: 4.0
     multi_perf: 16.0
   scores:
-    gaming: null
+    gaming: 82
     general: null
-    workbench: null
+    workbench: 60
 AMD Ryzen 5 4500:
-  price: null
+  price:
+    min: 62.99
+    offers: 18
+    updated: '2026-05-25T02:53:39.754Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -163,11 +202,14 @@ AMD Ryzen 5 4500:
     single_perf: 4.1
     multi_perf: 24.6
   scores:
-    gaming: null
+    gaming: 71
     general: null
-    workbench: null
+    workbench: 75
 AMD Ryzen 5 4600G:
-  price: null
+  price:
+    min: 275.03
+    offers: 1
+    updated: '2026-05-25T02:53:42.130Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -175,11 +217,14 @@ AMD Ryzen 5 4600G:
     single_perf: 4.2
     multi_perf: 25.2
   scores:
-    gaming: null
-    general: null
-    workbench: null
+    gaming: 21
+    general: 37
+    workbench: 18
 AMD Ryzen 5 5500:
-  price: null
+  price:
+    min: 72.99
+    offers: 13
+    updated: '2026-05-25T02:53:45.369Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -187,11 +232,14 @@ AMD Ryzen 5 5500:
     single_perf: 4.2
     multi_perf: 25.2
   scores:
-    gaming: null
+    gaming: 66
     general: null
-    workbench: null
+    workbench: 66
 AMD Ryzen 5 5600:
-  price: null
+  price:
+    min: 110
+    offers: 8
+    updated: '2026-05-25T02:53:45.663Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -199,11 +247,14 @@ AMD Ryzen 5 5600:
     single_perf: 4.4
     multi_perf: 26.4
   scores:
-    gaming: null
+    gaming: 51
     general: null
-    workbench: null
+    workbench: 46
 AMD Ryzen 5 5600G:
-  price: null
+  price:
+    min: 143.99
+    offers: 5
+    updated: '2026-05-25T02:53:41.421Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -211,11 +262,14 @@ AMD Ryzen 5 5600G:
     single_perf: 4.4
     multi_perf: 26.4
   scores:
-    gaming: null
-    general: null
-    workbench: null
+    gaming: 44
+    general: 73
+    workbench: 35
 AMD Ryzen 5 5600X:
-  price: null
+  price:
+    min: 138.99
+    offers: 8
+    updated: '2026-05-25T02:53:42.731Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -223,11 +277,14 @@ AMD Ryzen 5 5600X:
     single_perf: 4.6
     multi_perf: 27.6
   scores:
-    gaming: null
+    gaming: 42
     general: null
-    workbench: null
+    workbench: 38
 AMD Ryzen 7 5700G:
-  price: null
+  price:
+    min: 166.99
+    offers: 13
+    updated: '2026-05-25T02:53:49.699Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -235,11 +292,14 @@ AMD Ryzen 7 5700G:
     single_perf: 4.6
     multi_perf: 36.8
   scores:
-    gaming: null
-    general: null
-    workbench: null
+    gaming: 39
+    general: 71
+    workbench: 42
 AMD Ryzen 7 5700X:
-  price: null
+  price:
+    min: 142.93
+    offers: 9
+    updated: '2026-05-25T02:53:43.922Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -247,11 +307,14 @@ AMD Ryzen 7 5700X:
     single_perf: 4.6
     multi_perf: 36.8
   scores:
-    gaming: null
+    gaming: 41
     general: null
-    workbench: null
+    workbench: 50
 AMD Ryzen 7 5700X3D:
-  price: null
+  price:
+    min: 393.99
+    offers: 2
+    updated: '2026-05-25T02:53:44.028Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -259,11 +322,14 @@ AMD Ryzen 7 5700X3D:
     single_perf: 4.1
     multi_perf: 32.8
   scores:
-    gaming: null
+    gaming: 20
     general: null
-    workbench: null
+    workbench: 16
 AMD Ryzen 7 5800X:
-  price: null
+  price:
+    min: 164.99
+    offers: 16
+    updated: '2026-05-25T02:53:46.111Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -271,11 +337,14 @@ AMD Ryzen 7 5800X:
     single_perf: 4.7
     multi_perf: 37.6
   scores:
-    gaming: null
+    gaming: 36
     general: null
-    workbench: null
+    workbench: 44
 AMD Ryzen 7 5800X3D:
-  price: null
+  price:
+    min: 549.99
+    offers: 2
+    updated: '2026-05-25T02:53:47.947Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -283,11 +352,14 @@ AMD Ryzen 7 5800X3D:
     single_perf: 4.5
     multi_perf: 36.0
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 13
 AMD Ryzen 9 5900X:
-  price: null
+  price:
+    min: 320
+    offers: 3
+    updated: '2026-05-25T02:53:45.332Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -295,11 +367,14 @@ AMD Ryzen 9 5900X:
     single_perf: 4.8
     multi_perf: 57.6
   scores:
-    gaming: null
+    gaming: 23
     general: null
-    workbench: null
+    workbench: 35
 AMD Ryzen 9 5950X:
-  price: null
+  price:
+    min: 329
+    offers: 4
+    updated: '2026-05-25T02:53:46.149Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -307,11 +382,14 @@ AMD Ryzen 9 5950X:
     single_perf: 4.9
     multi_perf: 78.4
   scores:
-    gaming: null
+    gaming: 23
     general: null
-    workbench: null
+    workbench: 46
 AMD Ryzen 5 7500F:
-  price: null
+  price:
+    min: 126.42
+    offers: 8
+    updated: '2026-05-25T02:53:49.052Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -319,11 +397,14 @@ AMD Ryzen 5 7500F:
     single_perf: 5.0
     multi_perf: 30.0
   scores:
-    gaming: null
+    gaming: 50
     general: null
-    workbench: null
+    workbench: 46
 AMD Ryzen 5 7600:
-  price: null
+  price:
+    min: 160.97
+    offers: 13
+    updated: '2026-05-25T02:53:46.910Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -331,11 +412,14 @@ AMD Ryzen 5 7600:
     single_perf: 5.1
     multi_perf: 30.6
   scores:
-    gaming: null
+    gaming: 40
     general: null
-    workbench: null
+    workbench: 37
 AMD Ryzen 5 7600X:
-  price: null
+  price:
+    min: 149.03
+    offers: 17
+    updated: '2026-05-25T02:53:47.090Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -343,11 +427,14 @@ AMD Ryzen 5 7600X:
     single_perf: 5.3
     multi_perf: 31.8
   scores:
-    gaming: null
+    gaming: 44
     general: null
-    workbench: null
+    workbench: 41
 AMD Ryzen 5 7600X3D:
-  price: null
+  price:
+    min: 262.74
+    offers: 1
+    updated: '2026-05-25T02:53:48.615Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -355,11 +442,14 @@ AMD Ryzen 5 7600X3D:
     single_perf: 4.7
     multi_perf: 28.2
   scores:
-    gaming: null
+    gaming: 33
     general: null
-    workbench: null
+    workbench: 21
 AMD Ryzen 7 7700:
-  price: null
+  price:
+    min: 165
+    offers: 17
+    updated: '2026-05-25T02:53:49.321Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -367,11 +457,14 @@ AMD Ryzen 7 7700:
     single_perf: 5.3
     multi_perf: 42.4
   scores:
-    gaming: null
+    gaming: 40
     general: null
-    workbench: null
+    workbench: 49
 AMD Ryzen 7 7700X:
-  price: null
+  price:
+    min: 188
+    offers: 17
+    updated: '2026-05-25T02:53:48.308Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -379,11 +472,14 @@ AMD Ryzen 7 7700X:
     single_perf: 5.4
     multi_perf: 43.2
   scores:
-    gaming: null
+    gaming: 36
     general: null
-    workbench: null
+    workbench: 44
 AMD Ryzen 7 7800X3D:
-  price: null
+  price:
+    min: 249.99
+    offers: 20
+    updated: '2026-05-25T02:53:48.833Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -391,11 +487,14 @@ AMD Ryzen 7 7800X3D:
     single_perf: 5.0
     multi_perf: 40.0
   scores:
-    gaming: null
+    gaming: 36
     general: null
-    workbench: null
+    workbench: 31
 AMD Ryzen 9 7900:
-  price: null
+  price:
+    min: 274.99
+    offers: 20
+    updated: '2026-05-25T02:53:49.073Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -403,11 +502,14 @@ AMD Ryzen 9 7900:
     single_perf: 5.4
     multi_perf: 64.8
   scores:
-    gaming: null
+    gaming: 29
     general: null
-    workbench: null
+    workbench: 45
 AMD Ryzen 9 7900X:
-  price: null
+  price:
+    min: 269.99
+    offers: 16
+    updated: '2026-05-25T02:53:49.580Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -415,11 +517,14 @@ AMD Ryzen 9 7900X:
     single_perf: 5.6
     multi_perf: 67.2
   scores:
-    gaming: null
+    gaming: 31
     general: null
-    workbench: null
+    workbench: 48
 AMD Ryzen 9 7900X3D:
-  price: null
+  price:
+    min: 525
+    offers: 6
+    updated: '2026-05-25T02:53:49.197Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -427,11 +532,14 @@ AMD Ryzen 9 7900X3D:
     single_perf: 5.6
     multi_perf: 67.2
   scores:
-    gaming: null
+    gaming: 21
     general: null
-    workbench: null
+    workbench: 25
 AMD Ryzen 9 7950X:
-  price: null
+  price:
+    min: 458
+    offers: 4
+    updated: '2026-05-25T02:53:52.991Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -439,11 +547,14 @@ AMD Ryzen 9 7950X:
     single_perf: 5.7
     multi_perf: 91.2
   scores:
-    gaming: null
+    gaming: 18
     general: null
-    workbench: null
+    workbench: 38
 AMD Ryzen 9 7950X3D:
-  price: null
+  price:
+    min: 539
+    offers: 1
+    updated: '2026-05-25T02:53:52.201Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -451,11 +562,14 @@ AMD Ryzen 9 7950X3D:
     single_perf: 5.7
     multi_perf: 91.2
   scores:
-    gaming: null
+    gaming: 20
     general: null
-    workbench: null
+    workbench: 33
 AMD Ryzen 5 8400F:
-  price: null
+  price:
+    min: 99.99
+    offers: 17
+    updated: '2026-05-25T02:53:52.431Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -463,11 +577,14 @@ AMD Ryzen 5 8400F:
     single_perf: 4.7
     multi_perf: 28.2
   scores:
-    gaming: null
+    gaming: 52
     general: null
-    workbench: null
+    workbench: 54
 AMD Ryzen 5 8500G:
-  price: null
+  price:
+    min: 119.99
+    offers: 14
+    updated: '2026-05-25T02:53:51.470Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -475,11 +592,14 @@ AMD Ryzen 5 8500G:
     single_perf: 5.0
     multi_perf: 30.0
   scores:
-    gaming: null
-    general: null
-    workbench: null
+    gaming: 56
+    general: 100
+    workbench: 48
 AMD Ryzen 5 8600G:
-  price: null
+  price:
+    min: 154.49
+    offers: 14
+    updated: '2026-05-25T02:53:50.989Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -487,11 +607,14 @@ AMD Ryzen 5 8600G:
     single_perf: 5.0
     multi_perf: 30.0
   scores:
-    gaming: null
-    general: null
-    workbench: null
+    gaming: 44
+    general: 78
+    workbench: 37
 AMD Ryzen 7 8700F:
-  price: null
+  price:
+    min: 136.69
+    offers: 13
+    updated: '2026-05-25T02:53:53.435Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -499,11 +622,14 @@ AMD Ryzen 7 8700F:
     single_perf: 5.0
     multi_perf: 40.0
   scores:
-    gaming: null
+    gaming: 40
     general: null
-    workbench: null
+    workbench: 56
 AMD Ryzen 7 8700G:
-  price: null
+  price:
+    min: 218.28
+    offers: 13
+    updated: '2026-05-25T02:53:52.875Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -511,11 +637,14 @@ AMD Ryzen 7 8700G:
     single_perf: 5.1
     multi_perf: 40.8
   scores:
-    gaming: null
-    general: null
-    workbench: null
+    gaming: 31
+    general: 60
+    workbench: 36
 AMD Ryzen 5 9600:
-  price: null
+  price:
+    min: 184.99
+    offers: 11
+    updated: '2026-05-25T02:53:53.372Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -523,11 +652,14 @@ AMD Ryzen 5 9600:
     single_perf: 5.2
     multi_perf: 31.2
   scores:
-    gaming: null
+    gaming: 35
     general: null
-    workbench: null
+    workbench: 32
 AMD Ryzen 5 9600X:
-  price: null
+  price:
+    min: 150
+    offers: 20
+    updated: '2026-05-25T02:53:56.327Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -535,11 +667,14 @@ AMD Ryzen 5 9600X:
     single_perf: 5.4
     multi_perf: 32.4
   scores:
-    gaming: null
+    gaming: 44
     general: null
-    workbench: null
+    workbench: 42
 AMD Ryzen 7 9700X:
-  price: null
+  price:
+    min: 241
+    offers: 19
+    updated: '2026-05-25T02:53:57.935Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -547,11 +682,14 @@ AMD Ryzen 7 9700X:
     single_perf: 5.5
     multi_perf: 44.0
   scores:
-    gaming: null
+    gaming: 28
     general: null
-    workbench: null
+    workbench: 35
 AMD Ryzen 7 9800X3D:
-  price: null
+  price:
+    min: 329.99
+    offers: 20
+    updated: '2026-05-25T02:54:00.315Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -559,11 +697,14 @@ AMD Ryzen 7 9800X3D:
     single_perf: 5.2
     multi_perf: 41.6
   scores:
-    gaming: null
+    gaming: 28
     general: null
-    workbench: null
+    workbench: 24
 AMD Ryzen 9 9900X:
-  price: null
+  price:
+    min: 305
+    offers: 16
+    updated: '2026-05-25T02:53:56.879Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -571,11 +712,14 @@ AMD Ryzen 9 9900X:
     single_perf: 5.6
     multi_perf: 67.2
   scores:
-    gaming: null
+    gaming: 27
     general: null
-    workbench: null
+    workbench: 42
 AMD Ryzen 9 9900X3D:
-  price: null
+  price:
+    min: 441.28
+    offers: 17
+    updated: '2026-05-25T02:53:55.370Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -583,11 +727,14 @@ AMD Ryzen 9 9900X3D:
     single_perf: 5.5
     multi_perf: 66.0
   scores:
-    gaming: null
+    gaming: 24
     general: null
-    workbench: null
+    workbench: 29
 AMD Ryzen 9 9950X:
-  price: null
+  price:
+    min: 448.91
+    offers: 17
+    updated: '2026-05-25T02:53:57.352Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -595,11 +742,14 @@ AMD Ryzen 9 9950X:
     single_perf: 5.7
     multi_perf: 91.2
   scores:
-    gaming: null
+    gaming: 19
     general: null
-    workbench: null
+    workbench: 39
 AMD Ryzen 9 9950X3D:
-  price: null
+  price:
+    min: 494.99
+    offers: 14
+    updated: '2026-05-25T02:53:55.992Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -607,11 +757,14 @@ AMD Ryzen 9 9950X3D:
     single_perf: 5.7
     multi_perf: 91.2
   scores:
-    gaming: null
+    gaming: 22
     general: null
-    workbench: null
+    workbench: 35
 Intel Pentium Gold G7400:
-  price: null
+  price:
+    min: 101.99
+    offers: 3
+    updated: '2026-05-25T02:54:01.493Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -619,11 +772,14 @@ Intel Pentium Gold G7400:
     single_perf: 3.7
     multi_perf: 7.4
   scores:
-    gaming: null
+    gaming: 42
     general: null
-    workbench: null
+    workbench: 14
 Intel Celeron G6900:
-  price: null
+  price:
+    min: 64.19
+    offers: 5
+    updated: '2026-05-25T02:53:58.870Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -631,11 +787,14 @@ Intel Celeron G6900:
     single_perf: 3.4
     multi_perf: 6.8
   scores:
-    gaming: null
+    gaming: 62
     general: null
-    workbench: null
+    workbench: 20
 Intel Core i3-12100:
-  price: null
+  price:
+    min: 148.99
+    offers: 10
+    updated: '2026-05-25T02:54:00.617Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -643,11 +802,14 @@ Intel Core i3-12100:
     single_perf: 4.3
     multi_perf: 17.2
   scores:
-    gaming: null
+    gaming: 33
     general: null
-    workbench: null
+    workbench: 22
 Intel Core i3-12100F:
-  price: null
+  price:
+    min: 78.99
+    offers: 14
+    updated: '2026-05-25T02:53:57.815Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -655,11 +817,14 @@ Intel Core i3-12100F:
     single_perf: 4.3
     multi_perf: 17.2
   scores:
-    gaming: null
+    gaming: 63
     general: null
-    workbench: null
+    workbench: 42
 Intel Core i5-12400:
-  price: null
+  price:
+    min: 171.64
+    offers: 16
+    updated: '2026-05-25T02:54:00.949Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -667,11 +832,14 @@ Intel Core i5-12400:
     single_perf: 4.4
     multi_perf: 26.4
   scores:
-    gaming: null
+    gaming: 31
     general: null
-    workbench: null
+    workbench: 30
 Intel Core i5-12400F:
-  price: null
+  price:
+    min: 139.99
+    offers: 12
+    updated: '2026-05-25T02:53:58.788Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -679,11 +847,14 @@ Intel Core i5-12400F:
     single_perf: 4.4
     multi_perf: 26.4
   scores:
-    gaming: null
+    gaming: 38
     general: null
-    workbench: null
+    workbench: 36
 Intel Core i5-12500:
-  price: null
+  price:
+    min: 205
+    offers: 5
+    updated: '2026-05-25T02:53:58.903Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -691,11 +862,14 @@ Intel Core i5-12500:
     single_perf: 4.6
     multi_perf: 27.6
   scores:
-    gaming: null
+    gaming: 27
     general: null
-    workbench: null
+    workbench: 26
 Intel Core i5-12600:
-  price: null
+  price:
+    min: 291.08
+    offers: 2
+    updated: '2026-05-25T02:53:59.292Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -703,11 +877,14 @@ Intel Core i5-12600:
     single_perf: 4.8
     multi_perf: 28.8
   scores:
-    gaming: null
+    gaming: 19
     general: null
-    workbench: null
+    workbench: 19
 Intel Core i5-12600K:
-  price: null
+  price:
+    min: 187.99
+    offers: 12
+    updated: '2026-05-25T02:54:00.163Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -715,11 +892,14 @@ Intel Core i5-12600K:
     single_perf: 4.9
     multi_perf: 49.0
   scores:
-    gaming: null
+    gaming: 31
     general: null
-    workbench: null
+    workbench: 50
 Intel Core i5-12600KF:
-  price: null
+  price:
+    min: 162.99
+    offers: 9
+    updated: '2026-05-25T02:54:01.386Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -727,11 +907,14 @@ Intel Core i5-12600KF:
     single_perf: 4.9
     multi_perf: 49.0
   scores:
-    gaming: null
+    gaming: 36
     general: null
-    workbench: null
+    workbench: 58
 Intel Core i7-12700:
-  price: null
+  price:
+    min: 310
+    offers: 9
+    updated: '2026-05-25T02:54:02.078Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -739,11 +922,14 @@ Intel Core i7-12700:
     single_perf: 4.9
     multi_perf: 58.8
   scores:
-    gaming: null
+    gaming: 20
     general: null
-    workbench: null
+    workbench: 36
 Intel Core i7-12700F:
-  price: null
+  price:
+    min: 248.34
+    offers: 13
+    updated: '2026-05-25T02:54:01.003Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -751,11 +937,14 @@ Intel Core i7-12700F:
     single_perf: 4.9
     multi_perf: 58.8
   scores:
-    gaming: null
+    gaming: 25
     general: null
-    workbench: null
+    workbench: 46
 Intel Core i7-12700K:
-  price: null
+  price:
+    min: 263.99
+    offers: 10
+    updated: '2026-05-25T02:54:02.706Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -763,11 +952,14 @@ Intel Core i7-12700K:
     single_perf: 5.0
     multi_perf: 60.0
   scores:
-    gaming: null
+    gaming: 24
     general: null
-    workbench: null
+    workbench: 44
 Intel Core i7-12700KF:
-  price: null
+  price:
+    min: 244.99
+    offers: 9
+    updated: '2026-05-25T02:54:05.768Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -775,11 +967,14 @@ Intel Core i7-12700KF:
     single_perf: 5.0
     multi_perf: 60.0
   scores:
-    gaming: null
+    gaming: 25
     general: null
-    workbench: null
+    workbench: 47
 Intel Core i9-12900:
-  price: null
+  price:
+    min: 429.99
+    offers: 5
+    updated: '2026-05-25T02:54:02.014Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -787,11 +982,14 @@ Intel Core i9-12900:
     single_perf: 5.1
     multi_perf: 81.6
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 36
 Intel Core i9-12900F:
-  price: null
+  price:
+    min: 425.22
+    offers: 3
+    updated: '2026-05-25T02:54:03.133Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -799,11 +997,14 @@ Intel Core i9-12900F:
     single_perf: 5.1
     multi_perf: 81.6
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 37
 Intel Core i9-12900K:
-  price: null
+  price:
+    min: 331.94
+    offers: 9
+    updated: '2026-05-25T02:54:03.217Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -811,11 +1012,14 @@ Intel Core i9-12900K:
     single_perf: 5.2
     multi_perf: 83.2
   scores:
-    gaming: null
+    gaming: 20
     general: null
-    workbench: null
+    workbench: 48
 Intel Core i9-12900KF:
-  price: null
+  price:
+    min: 259.99
+    offers: 12
+    updated: '2026-05-25T02:54:07.088Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -823,11 +1027,14 @@ Intel Core i9-12900KF:
     single_perf: 5.2
     multi_perf: 83.2
   scores:
-    gaming: null
+    gaming: 26
     general: null
-    workbench: null
+    workbench: 62
 Intel Core i9-12900KS:
-  price: null
+  price:
+    min: 379.99
+    offers: 5
+    updated: '2026-05-25T02:54:03.887Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -835,11 +1042,14 @@ Intel Core i9-12900KS:
     single_perf: 5.5
     multi_perf: 88.0
   scores:
-    gaming: null
+    gaming: 18
     general: null
-    workbench: null
+    workbench: 45
 Intel Core i3-13100:
-  price: null
+  price:
+    min: 137.99
+    offers: 3
+    updated: '2026-05-25T02:54:03.553Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -847,11 +1057,14 @@ Intel Core i3-13100:
     single_perf: 4.5
     multi_perf: 18.0
   scores:
-    gaming: null
+    gaming: 37
     general: null
-    workbench: null
+    workbench: 25
 Intel Core i3-13100F:
-  price: null
+  price:
+    min: 98.99
+    offers: 5
+    updated: '2026-05-25T02:54:09.015Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -859,11 +1072,14 @@ Intel Core i3-13100F:
     single_perf: 4.5
     multi_perf: 18.0
   scores:
-    gaming: null
+    gaming: 52
     general: null
-    workbench: null
+    workbench: 35
 Intel Core i5-13400:
-  price: null
+  price:
+    min: 228.29
+    offers: 8
+    updated: '2026-05-25T02:54:06.191Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -871,11 +1087,14 @@ Intel Core i5-13400:
     single_perf: 4.6
     multi_perf: 46.0
   scores:
-    gaming: null
+    gaming: 25
     general: null
-    workbench: null
+    workbench: 39
 Intel Core i5-13400F:
-  price: null
+  price:
+    min: 172.99
+    offers: 10
+    updated: '2026-05-25T02:54:05.164Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -883,11 +1102,14 @@ Intel Core i5-13400F:
     single_perf: 4.6
     multi_perf: 46.0
   scores:
-    gaming: null
+    gaming: 33
     general: null
-    workbench: null
+    workbench: 51
 Intel Core i5-13500:
-  price: null
+  price:
+    min: 295.99
+    offers: 2
+    updated: '2026-05-25T02:54:05.724Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -895,11 +1117,14 @@ Intel Core i5-13500:
     single_perf: 4.8
     multi_perf: 67.2
   scores:
-    gaming: null
+    gaming: 20
     general: null
-    workbench: null
+    workbench: 44
 Intel Core i5-13600K:
-  price: null
+  price:
+    min: 259.99
+    offers: 4
+    updated: '2026-05-25T02:54:06.161Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -907,11 +1132,14 @@ Intel Core i5-13600K:
     single_perf: 5.1
     multi_perf: 71.4
   scores:
-    gaming: null
+    gaming: 24
     general: null
-    workbench: null
+    workbench: 53
 Intel Core i5-13600KF:
-  price: null
+  price:
+    min: 229.99
+    offers: 4
+    updated: '2026-05-25T02:54:08.445Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -919,11 +1147,14 @@ Intel Core i5-13600KF:
     single_perf: 5.1
     multi_perf: 71.4
   scores:
-    gaming: null
+    gaming: 27
     general: null
-    workbench: null
+    workbench: 60
 Intel Core i7-13700:
-  price: null
+  price:
+    min: 455
+    offers: 3
+    updated: '2026-05-25T02:54:05.838Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -931,11 +1162,14 @@ Intel Core i7-13700:
     single_perf: 5.2
     multi_perf: 83.2
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 35
 Intel Core i7-13700F:
-  price: null
+  price:
+    min: 311.34
+    offers: 6
+    updated: '2026-05-25T02:54:07.289Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -943,11 +1177,14 @@ Intel Core i7-13700F:
     single_perf: 5.2
     multi_perf: 83.2
   scores:
-    gaming: null
+    gaming: 21
     general: null
-    workbench: null
+    workbench: 51
 Intel Core i7-13700K:
-  price: null
+  price:
+    min: 349.99
+    offers: 2
+    updated: '2026-05-25T02:54:07.701Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -955,11 +1192,14 @@ Intel Core i7-13700K:
     single_perf: 5.4
     multi_perf: 86.4
   scores:
-    gaming: null
+    gaming: 19
     general: null
-    workbench: null
+    workbench: 47
 Intel Core i7-13700KF:
-  price: null
+  price:
+    min: 314.99
+    offers: 4
+    updated: '2026-05-25T02:54:08.098Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -967,11 +1207,14 @@ Intel Core i7-13700KF:
     single_perf: 5.4
     multi_perf: 86.4
   scores:
-    gaming: null
+    gaming: 22
     general: null
-    workbench: null
+    workbench: 53
 Intel Core i9-13900:
-  price: null
+  price:
+    min: 629.99
+    offers: 4
+    updated: '2026-05-25T02:54:07.642Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -979,11 +1222,14 @@ Intel Core i9-13900:
     single_perf: 5.6
     multi_perf: 134.4
   scores:
-    gaming: null
+    gaming: 12
     general: null
-    workbench: null
+    workbench: 41
 Intel Core i9-13900F:
-  price: null
+  price:
+    min: 395
+    offers: 2
+    updated: '2026-05-25T02:54:10.229Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -991,11 +1237,14 @@ Intel Core i9-13900F:
     single_perf: 5.6
     multi_perf: 134.4
   scores:
-    gaming: null
+    gaming: 19
     general: null
-    workbench: null
+    workbench: 65
 Intel Core i9-13900K:
-  price: null
+  price:
+    min: 437.93
+    offers: 5
+    updated: '2026-05-25T02:54:10.870Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1003,11 +1252,14 @@ Intel Core i9-13900K:
     single_perf: 5.8
     multi_perf: 139.2
   scores:
-    gaming: null
+    gaming: 17
     general: null
-    workbench: null
+    workbench: 61
 Intel Core i9-13900KF:
-  price: null
+  price:
+    min: 415.99
+    offers: 4
+    updated: '2026-05-25T02:54:09.866Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1015,11 +1267,14 @@ Intel Core i9-13900KF:
     single_perf: 5.8
     multi_perf: 139.2
   scores:
-    gaming: null
+    gaming: 18
     general: null
-    workbench: null
+    workbench: 64
 Intel Core i9-13900KS:
-  price: null
+  price:
+    min: 503.29
+    offers: 5
+    updated: '2026-05-25T02:54:10.246Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1027,11 +1282,14 @@ Intel Core i9-13900KS:
     single_perf: 6.0
     multi_perf: 144.0
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 55
 Intel Core i3-14100:
-  price: null
+  price:
+    min: 139.99
+    offers: 9
+    updated: '2026-05-25T02:54:12.169Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1039,11 +1297,14 @@ Intel Core i3-14100:
     single_perf: 4.7
     multi_perf: 18.8
   scores:
-    gaming: null
+    gaming: 38
     general: null
-    workbench: null
+    workbench: 26
 Intel Core i3-14100F:
-  price: null
+  price:
+    min: 88.99
+    offers: 9
+    updated: '2026-05-25T02:54:11.199Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1051,11 +1312,14 @@ Intel Core i3-14100F:
     single_perf: 4.7
     multi_perf: 18.8
   scores:
-    gaming: null
+    gaming: 59
     general: null
-    workbench: null
+    workbench: 41
 Intel Core i5-14400:
-  price: null
+  price:
+    min: 229.99
+    offers: 12
+    updated: '2026-05-25T02:54:11.721Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1063,11 +1327,14 @@ Intel Core i5-14400:
     single_perf: 4.7
     multi_perf: 47.0
   scores:
-    gaming: null
+    gaming: 25
     general: null
-    workbench: null
+    workbench: 39
 Intel Core i5-14400F:
-  price: null
+  price:
+    min: 159.99
+    offers: 15
+    updated: '2026-05-25T02:54:13.303Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1075,11 +1342,14 @@ Intel Core i5-14400F:
     single_perf: 4.7
     multi_perf: 47.0
   scores:
-    gaming: null
+    gaming: 36
     general: null
-    workbench: null
+    workbench: 56
 Intel Core i5-14500:
-  price: null
+  price:
+    min: 334.84
+    offers: 2
+    updated: '2026-05-25T02:54:13.837Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1087,11 +1357,14 @@ Intel Core i5-14500:
     single_perf: 5.0
     multi_perf: 70.0
   scores:
-    gaming: null
+    gaming: 19
     general: null
-    workbench: null
+    workbench: 40
 Intel Core i5-14600K:
-  price: null
+  price:
+    min: 252.99
+    offers: 10
+    updated: '2026-05-25T02:54:12.738Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1099,11 +1372,14 @@ Intel Core i5-14600K:
     single_perf: 5.3
     multi_perf: 74.2
   scores:
-    gaming: null
+    gaming: 25
     general: null
-    workbench: null
+    workbench: 56
 Intel Core i5-14600KF:
-  price: null
+  price:
+    min: 227.9
+    offers: 8
+    updated: '2026-05-25T02:54:13.423Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1111,11 +1387,14 @@ Intel Core i5-14600KF:
     single_perf: 5.3
     multi_perf: 74.2
   scores:
-    gaming: null
+    gaming: 28
     general: null
-    workbench: null
+    workbench: 63
 Intel Core i7-14700:
-  price: null
+  price:
+    min: 349.99
+    offers: 7
+    updated: '2026-05-25T02:54:15.333Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1123,11 +1402,14 @@ Intel Core i7-14700:
     single_perf: 5.4
     multi_perf: 108.0
   scores:
-    gaming: null
+    gaming: 20
     general: null
-    workbench: null
+    workbench: 59
 Intel Core i7-14700F:
-  price: null
+  price:
+    min: 296.3
+    offers: 12
+    updated: '2026-05-25T02:54:13.405Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1135,11 +1417,14 @@ Intel Core i7-14700F:
     single_perf: 5.4
     multi_perf: 108.0
   scores:
-    gaming: null
+    gaming: 24
     general: null
-    workbench: null
+    workbench: 70
 Intel Core i7-14700K:
-  price: null
+  price:
+    min: 346.82
+    offers: 13
+    updated: '2026-05-25T02:54:18.050Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1147,11 +1432,14 @@ Intel Core i7-14700K:
     single_perf: 5.6
     multi_perf: 112.0
   scores:
-    gaming: null
+    gaming: 21
     general: null
-    workbench: null
+    workbench: 62
 Intel Core i7-14700KF:
-  price: null
+  price:
+    min: 336.31
+    offers: 10
+    updated: '2026-05-25T02:54:14.665Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1159,11 +1447,14 @@ Intel Core i7-14700KF:
     single_perf: 5.6
     multi_perf: 112.0
   scores:
-    gaming: null
+    gaming: 21
     general: null
-    workbench: null
+    workbench: 64
 Intel Core i9-14900:
-  price: null
+  price:
+    min: 526.99
+    offers: 6
+    updated: '2026-05-25T02:54:15.229Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1171,11 +1462,14 @@ Intel Core i9-14900:
     single_perf: 5.8
     multi_perf: 139.2
   scores:
-    gaming: null
+    gaming: 14
     general: null
-    workbench: null
+    workbench: 51
 Intel Core i9-14900F:
-  price: null
+  price:
+    min: 503.99
+    offers: 8
+    updated: '2026-05-25T02:54:16.868Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1183,11 +1477,14 @@ Intel Core i9-14900F:
     single_perf: 5.8
     multi_perf: 139.2
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 53
 Intel Core i9-14900K:
-  price: null
+  price:
+    min: 419
+    offers: 14
+    updated: '2026-05-25T02:54:14.931Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1195,11 +1492,14 @@ Intel Core i9-14900K:
     single_perf: 6.0
     multi_perf: 144.0
   scores:
-    gaming: null
+    gaming: 18
     general: null
-    workbench: null
+    workbench: 66
 Intel Core i9-14900KF:
-  price: null
+  price:
+    min: 349.95
+    offers: 14
+    updated: '2026-05-25T02:54:16.304Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1207,11 +1507,14 @@ Intel Core i9-14900KF:
     single_perf: 6.0
     multi_perf: 144.0
   scores:
-    gaming: null
+    gaming: 22
     general: null
-    workbench: null
+    workbench: 79
 Intel Core i9-14900KS:
-  price: null
+  price:
+    min: 589.99
+    offers: 10
+    updated: '2026-05-25T02:54:17.268Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1219,11 +1522,14 @@ Intel Core i9-14900KS:
     single_perf: 6.2
     multi_perf: 148.8
   scores:
-    gaming: null
+    gaming: 13
     general: null
-    workbench: null
+    workbench: 48
 Intel Core Ultra 5 225:
-  price: null
+  price:
+    min: 154.99
+    offers: 17
+    updated: '2026-05-25T02:54:19.292Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1231,11 +1537,14 @@ Intel Core Ultra 5 225:
     single_perf: 4.9
     multi_perf: 49.0
   scores:
-    gaming: null
+    gaming: 38
     general: null
-    workbench: null
+    workbench: 61
 Intel Core Ultra 5 225F:
-  price: null
+  price:
+    min: 119.95
+    offers: 12
+    updated: '2026-05-25T02:54:19.389Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1243,11 +1552,14 @@ Intel Core Ultra 5 225F:
     single_perf: 4.9
     multi_perf: 49.0
   scores:
-    gaming: null
+    gaming: 49
     general: null
-    workbench: null
+    workbench: 79
 Intel Core Ultra 5 235:
-  price: null
+  price:
+    min: 245.99
+    offers: 11
+    updated: '2026-05-25T02:54:19.231Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1255,11 +1567,14 @@ Intel Core Ultra 5 235:
     single_perf: 5.0
     multi_perf: 70.0
   scores:
-    gaming: null
+    gaming: 25
     general: null
-    workbench: null
+    workbench: 55
 Intel Core Ultra 5 245K:
-  price: null
+  price:
+    min: 149.99
+    offers: 14
+    updated: '2026-05-25T02:54:18.500Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1267,11 +1582,14 @@ Intel Core Ultra 5 245K:
     single_perf: 5.2
     multi_perf: 72.8
   scores:
-    gaming: null
+    gaming: 42
     general: null
-    workbench: null
+    workbench: 93
 Intel Core Ultra 5 245KF:
-  price: null
+  price:
+    min: 139.99
+    offers: 16
+    updated: '2026-05-25T02:54:18.847Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1279,11 +1597,14 @@ Intel Core Ultra 5 245KF:
     single_perf: 5.2
     multi_perf: 72.8
   scores:
-    gaming: null
+    gaming: 46
     general: null
-    workbench: null
+    workbench: 100
 Intel Core Ultra 7 265:
-  price: null
+  price:
+    min: 346.92
+    offers: 15
+    updated: '2026-05-25T02:54:20.370Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1291,11 +1612,14 @@ Intel Core Ultra 7 265:
     single_perf: 5.3
     multi_perf: 106.0
   scores:
-    gaming: null
+    gaming: 20
     general: null
-    workbench: null
+    workbench: 59
 Intel Core Ultra 7 265F:
-  price: null
+  price:
+    min: 304.28
+    offers: 12
+    updated: '2026-05-25T02:54:19.737Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1303,11 +1627,14 @@ Intel Core Ultra 7 265F:
     single_perf: 5.3
     multi_perf: 106.0
   scores:
-    gaming: null
+    gaming: 22
     general: null
-    workbench: null
+    workbench: 67
 Intel Core Ultra 7 265K:
-  price: null
+  price:
+    min: 260.99
+    offers: 18
+    updated: '2026-05-25T02:54:19.915Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1315,11 +1642,14 @@ Intel Core Ultra 7 265K:
     single_perf: 5.5
     multi_perf: 110.0
   scores:
-    gaming: null
+    gaming: 27
     general: null
-    workbench: null
+    workbench: 81
 Intel Core Ultra 7 265KF:
-  price: null
+  price:
+    min: 212
+    offers: 13
+    updated: '2026-05-25T02:54:22.962Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1327,11 +1657,14 @@ Intel Core Ultra 7 265KF:
     single_perf: 5.5
     multi_perf: 110.0
   scores:
-    gaming: null
+    gaming: 33
     general: null
-    workbench: null
+    workbench: 100
 Intel Core Ultra 9 285:
-  price: null
+  price:
+    min: 499.95
+    offers: 12
+    updated: '2026-05-25T02:54:20.716Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1339,11 +1672,14 @@ Intel Core Ultra 9 285:
     single_perf: 5.6
     multi_perf: 134.4
   scores:
-    gaming: null
+    gaming: 15
     general: null
-    workbench: null
+    workbench: 52
 Intel Core Ultra 9 285K:
-  price: null
+  price:
+    min: 475
+    offers: 16
+    updated: '2026-05-25T02:54:21.636Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1351,6 +1687,6 @@ Intel Core Ultra 9 285K:
     single_perf: 5.7
     multi_perf: 136.8
   scores:
-    gaming: null
+    gaming: 16
     general: null
-    workbench: null
+    workbench: 55
