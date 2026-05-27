@@ -5,7 +5,7 @@ eyebrow: "No. 02 &middot; Software"
 lede: "Windows ships with a top-tier antivirus that costs nothing and gets out of the way. The honest answer for almost everyone is: turn it on and stop reading. The rest of this page is for the small number of people who have a specific reason to pay."
 meta_updated: "2026-05-25"
 meta_tiers: 3
-meta_compared: 17
+meta_compared: 18
 meta_bias: "Built-in first"
 breadcrumbs:
   - href: /recommendations/
@@ -355,6 +355,16 @@ toc:
 
 <tr>
 <td class="cpu-td-tier"><span>10</span></td>
+<td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--gen">Gen</span><span class="cpu-cpuname">Avira Prime</span></div></td>
+<td class="cpu-td-gen">Avira</td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:95%"></div><span class="cpu-bar-num">99.95</span></div></td>
+<td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--multi" style="width:92.0%"></div><span class="cpu-bar-num">23.0</span></div></td>
+<td class="num">7</td>
+<td class="num cpu-td-price"></td>
+</tr>
+
+<tr>
+<td class="cpu-td-tier"><span>11</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--fs">FS</span><span class="cpu-cpuname">F-Secure Internet Security</span></div></td>
 <td class="cpu-td-gen">Avira</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
@@ -364,7 +374,7 @@ toc:
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>11</span></td>
+<td class="cpu-td-tier"><span>12</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--ta">TA</span><span class="cpu-cpuname">TotalAV Premium</span></div></td>
 <td class="cpu-td-gen">Avira</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:98%"></div><span class="cpu-bar-num">99.98</span></div></td>
@@ -374,7 +384,7 @@ toc:
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>12</span></td>
+<td class="cpu-td-tier"><span>13</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--vp">VP</span><span class="cpu-cpuname">VIPRE Advanced Security</span></div></td>
 <td class="cpu-td-gen">Bitdefender</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
@@ -384,7 +394,7 @@ toc:
 </tr>
 
 <tr>
-<td class="cpu-td-tier"><span>13</span></td>
+<td class="cpu-td-tier"><span>14</span></td>
 <td><div class="cpu-td-name"><span class="cpu-vendor av-vendor--td">TD</span><span class="cpu-cpuname">Total Defense Essential</span></div></td>
 <td class="cpu-td-gen">Bitdefender</td>
 <td class="cpu-td-bar"><div class="cpu-bar"><div class="cpu-bar-fill cpu-bar-fill--game" style="width:91%"></div><span class="cpu-bar-num">99.91</span></div></td>
