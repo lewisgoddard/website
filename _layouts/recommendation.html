@@ -18,8 +18,8 @@
 
 	{% include header.html %}
 
-	<section class="cpu-head">
-		<nav class="cpu-crumb" aria-label="Breadcrumb">
+	<section class="rec-head">
+		<nav class="rec-crumb" aria-label="Breadcrumb">
 			{% for crumb in page.breadcrumbs %}
 				{% unless forloop.last %}
 					<a href="{{ crumb.href | relative_url }}">{{ crumb.label }}</a>
@@ -30,13 +30,13 @@
 			{% endfor %}
 		</nav>
 
-		<div class="cpu-head-grid">
-			<div class="cpu-head-l">
-				<span class="cpu-eyebrow">{{ page.eyebrow }}</span>
-				<h1>{{ page.title }}<span class="cpu-dot">.</span></h1>
-				<p class="cpu-lede">{{ page.lede }}</p>
+		<div class="rec-head-grid">
+			<div class="rec-head-l">
+				<span class="rec-eyebrow">{{ page.eyebrow }}</span>
+				<h1>{{ page.title }}<span class="rec-dot">.</span></h1>
+				<p class="rec-lede">{{ page.lede }}</p>
 
-				<ul class="cpu-headmeta" aria-label="Page metadata">
+				<ul class="rec-headmeta" aria-label="Page metadata">
 					<li>
 						<span>Updated</span>
 						<strong><time datetime="{{ page.meta_updated }}">{{ page.meta_updated | date: "%-d %b %Y" }}</time></strong>
@@ -56,8 +56,8 @@
 				</ul>
 			</div>
 
-			<aside class="cpu-toc" aria-label="On this page">
-				<span class="cpu-toc-h">On this page</span>
+			<aside class="rec-toc" aria-label="On this page">
+				<span class="rec-toc-h">On this page</span>
 				<ol>
 					{% for item in page.toc %}
 					<li><a href="{{ item.href }}">{{ item.label }}</a></li>
@@ -69,15 +69,15 @@
 
 	{{ content }}
 
-	<footer class="cpu-foot">
+	<footer class="rec-foot">
 		<div>
-			<div class="cpu-foot-h">Author</div>
-			<div class="cpu-foot-name">Lewis Goddard</div>
-			<div class="cpu-foot-meta">Norfolk, England</div>
+			<div class="rec-foot-h">Author</div>
+			<div class="rec-foot-name">Lewis Goddard</div>
+			<div class="rec-foot-meta">Norfolk, England</div>
 		</div>
 		<div>
-			<div class="cpu-foot-h">This page</div>
-			<ul class="cpu-foot-meta-list">
+			<div class="rec-foot-h">This page</div>
+			<ul class="rec-foot-meta-list">
 				<li><span>Updated</span><strong>{{ page.meta_updated | date: "%-d %b %Y" }}</strong></li>
 				<li><span>Tiers</span><strong>{{ page.meta_tiers }}</strong></li>
 				<li><span>Compared</span><strong>{{ page.meta_compared }}</strong></li>
@@ -86,8 +86,8 @@
 			</ul>
 		</div>
 		<div>
-			<div class="cpu-foot-h">Correspondence</div>
-			<ul class="cpu-foot-socials">
+			<div class="rec-foot-h">Correspondence</div>
+			<ul class="rec-foot-socials">
 				{% for link in site.data.social.contact limit: 4 %}
 				<li>
 					<a href="{{ link.href }}"{% if link.rel != "" %} rel="{{ link.rel }}"{% endif %}>
