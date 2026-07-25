@@ -1,8 +1,8 @@
 AMD Ryzen 3 3100:
   price:
-    min: 156.55
+    min: 159.43
     offers: 1
-    updated: '2026-07-17T06:49:01.014Z'
+    updated: '2026-07-25T05:49:56.517Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -14,9 +14,9 @@ AMD Ryzen 3 3100:
     general: null
     workbench: 18
   value:
-    gaming: 25
+    gaming: 28
     general: null
-    workbench: 21
+    workbench: 23
 AMD Ryzen 3 3300X:
   price:
     min: 171.86
@@ -33,9 +33,9 @@ AMD Ryzen 3 3300X:
     general: null
     workbench: 19
   value:
-    gaming: 23
+    gaming: 27
     general: null
-    workbench: 21
+    workbench: 24
 AMD Ryzen 5 3500X:
   price:
     min: 109.9
@@ -52,14 +52,14 @@ AMD Ryzen 5 3500X:
     general: null
     workbench: 25
   value:
-    gaming: 48
+    gaming: 54
     general: null
-    workbench: 41
+    workbench: 47
 AMD Ryzen 5 3600:
   price:
-    min: 54.99
-    offers: 4
-    updated: '2026-07-17T06:48:48.674Z'
+    min: 62.99
+    offers: 6
+    updated: '2026-07-25T05:49:56.932Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -78,7 +78,7 @@ AMD Ryzen 5 3600X:
   price:
     min: 170.99
     offers: 3
-    updated: '2026-07-17T06:48:28.482Z'
+    updated: '2026-07-25T05:49:57.252Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -90,9 +90,9 @@ AMD Ryzen 5 3600X:
     general: null
     workbench: 31
   value:
-    gaming: 33
+    gaming: 37
     general: null
-    workbench: 33
+    workbench: 38
 AMD Ryzen 5 3600XT:
   price: null
   derived:
@@ -113,7 +113,7 @@ AMD Ryzen 7 3700X:
   price:
     min: 195.99
     offers: 3
-    updated: '2026-07-17T06:48:28.168Z'
+    updated: '2026-07-25T05:49:57.726Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -125,14 +125,14 @@ AMD Ryzen 7 3700X:
     general: null
     workbench: 35
   value:
-    gaming: 30
+    gaming: 34
     general: null
-    workbench: 33
+    workbench: 38
 AMD Ryzen 7 3800X:
   price:
     min: 187.99
     offers: 1
-    updated: '2026-07-17T06:48:31.930Z'
+    updated: '2026-07-25T05:49:58.113Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -144,14 +144,14 @@ AMD Ryzen 7 3800X:
     general: null
     workbench: 36
   value:
-    gaming: 31
+    gaming: 36
     general: null
-    workbench: 35
+    workbench: 41
 AMD Ryzen 7 3800XT:
   price:
     min: 399
     offers: 1
-    updated: '2026-07-17T06:48:29.985Z'
+    updated: '2026-07-25T05:49:58.470Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -163,9 +163,9 @@ AMD Ryzen 7 3800XT:
     general: null
     workbench: 37
   value:
-    gaming: 15
+    gaming: 17
     general: null
-    workbench: 17
+    workbench: 20
 AMD Ryzen 9 3900X:
   price:
     min: 255
@@ -182,9 +182,9 @@ AMD Ryzen 9 3900X:
     general: null
     workbench: 49
   value:
-    gaming: 27
+    gaming: 31
     general: null
-    workbench: 36
+    workbench: 41
 AMD Ryzen 9 3900XT:
   price:
     min: 343.22
@@ -201,14 +201,14 @@ AMD Ryzen 9 3900XT:
     general: null
     workbench: 49
   value:
-    gaming: 20
+    gaming: 23
     general: null
-    workbench: 26
+    workbench: 30
 AMD Ryzen 9 3950X:
   price:
     min: 799
     offers: 2
-    updated: '2026-07-17T06:48:31.755Z'
+    updated: '2026-07-25T05:49:58.863Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -220,14 +220,14 @@ AMD Ryzen 9 3950X:
     general: null
     workbench: 56
   value:
-    gaming: 9
+    gaming: 10
     general: null
-    workbench: 13
+    workbench: 15
 AMD Ryzen 3 4100:
   price:
     min: 51.99
-    offers: 13
-    updated: '2026-07-17T06:48:28.262Z'
+    offers: 15
+    updated: '2026-07-25T05:49:59.373Z'
   derived:
     pcie_gen: 3
     has_igpu: false
@@ -241,12 +241,12 @@ AMD Ryzen 3 4100:
   value:
     gaming: null
     general: null
-    workbench: 62
+    workbench: 71
 AMD Ryzen 5 4500:
   price:
-    min: 64.99
-    offers: 12
-    updated: '2026-07-17T06:48:28.827Z'
+    min: 64.89
+    offers: 14
+    updated: '2026-07-25T05:49:59.703Z'
   derived:
     pcie_gen: 3
     has_igpu: false
@@ -260,12 +260,12 @@ AMD Ryzen 5 4500:
   value:
     gaming: null
     general: null
-    workbench: 66
+    workbench: 75
 AMD Ryzen 5 4600G:
   price:
     min: 276.09
     offers: 1
-    updated: '2026-07-17T06:48:33.372Z'
+    updated: '2026-07-25T05:50:00.015Z'
   derived:
     pcie_gen: 3
     has_igpu: true
@@ -279,12 +279,12 @@ AMD Ryzen 5 4600G:
   value:
     gaming: null
     general: 33
-    workbench: 15
+    workbench: 18
 AMD Ryzen 5 5500:
   price:
     min: 74.99
-    offers: 14
-    updated: '2026-07-17T06:48:29.290Z'
+    offers: 15
+    updated: '2026-07-25T05:50:00.450Z'
   derived:
     pcie_gen: 3
     has_igpu: false
@@ -298,12 +298,12 @@ AMD Ryzen 5 5500:
   value:
     gaming: null
     general: null
-    workbench: 68
+    workbench: 78
 AMD Ryzen 5 5600:
   price:
     min: 121.99
-    offers: 6
-    updated: '2026-07-17T06:48:48.284Z'
+    offers: 7
+    updated: '2026-07-25T05:50:00.762Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -315,14 +315,14 @@ AMD Ryzen 5 5600:
     general: null
     workbench: 35
   value:
-    gaming: 50
+    gaming: 57
     general: null
-    workbench: 54
+    workbench: 61
 AMD Ryzen 5 5600G:
   price:
-    min: 117.95
+    min: 138.19
     offers: 4
-    updated: '2026-07-17T06:48:31.866Z'
+    updated: '2026-07-25T05:50:01.631Z'
   derived:
     pcie_gen: 3
     has_igpu: true
@@ -335,13 +335,13 @@ AMD Ryzen 5 5600G:
     workbench: 28
   value:
     gaming: null
-    general: 93
-    workbench: 44
+    general: 80
+    workbench: 43
 AMD Ryzen 5 5600X:
   price:
-    min: 139.99
-    offers: 10
-    updated: '2026-07-17T06:48:28.422Z'
+    min: 137.86
+    offers: 8
+    updated: '2026-07-25T05:50:01.622Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -353,14 +353,14 @@ AMD Ryzen 5 5600X:
     general: null
     workbench: 36
   value:
-    gaming: 44
+    gaming: 51
     general: null
-    workbench: 47
+    workbench: 55
 AMD Ryzen 7 5700G:
   price:
     min: 170
-    offers: 14
-    updated: '2026-07-17T06:48:42.472Z'
+    offers: 18
+    updated: '2026-07-25T05:50:01.980Z'
   derived:
     pcie_gen: 3
     has_igpu: true
@@ -374,12 +374,12 @@ AMD Ryzen 7 5700G:
   value:
     gaming: null
     general: 71
-    workbench: 37
+    workbench: 42
 AMD Ryzen 7 5700X:
   price:
     min: 148.99
-    offers: 13
-    updated: '2026-07-17T06:48:32.212Z'
+    offers: 17
+    updated: '2026-07-25T05:50:02.290Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -391,14 +391,14 @@ AMD Ryzen 7 5700X:
     general: null
     workbench: 41
   value:
-    gaming: 43
+    gaming: 49
     general: null
-    workbench: 51
+    workbench: 59
 AMD Ryzen 7 5700X3D:
   price:
-    min: 430.99
-    offers: 1
-    updated: '2026-07-17T06:48:42.549Z'
+    min: 341.99
+    offers: 3
+    updated: '2026-07-25T05:50:02.686Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -410,14 +410,14 @@ AMD Ryzen 7 5700X3D:
     general: null
     workbench: 45
   value:
-    gaming: 17
+    gaming: 25
     general: null
-    workbench: 19
+    workbench: 28
 AMD Ryzen 7 5800X:
   price:
-    min: 188.99
-    offers: 16
-    updated: '2026-07-17T06:48:31.944Z'
+    min: 184.99
+    offers: 18
+    updated: '2026-07-25T05:50:03.076Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -429,14 +429,14 @@ AMD Ryzen 7 5800X:
     general: null
     workbench: 43
   value:
-    gaming: 34
+    gaming: 40
     general: null
-    workbench: 42
+    workbench: 49
 AMD Ryzen 7 5800X3D:
   price:
-    min: 314.99
-    offers: 11
-    updated: '2026-07-17T06:48:29.332Z'
+    min: 299.99
+    offers: 13
+    updated: '2026-07-25T05:50:03.384Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -448,14 +448,14 @@ AMD Ryzen 7 5800X3D:
     general: null
     workbench: 48
   value:
-    gaming: 24
+    gaming: 29
     general: null
-    workbench: 28
+    workbench: 34
 AMD Ryzen 9 5900X:
   price:
-    min: 393.38
+    min: 310
     offers: 3
-    updated: '2026-07-17T06:48:28.458Z'
+    updated: '2026-07-25T05:50:03.858Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -467,14 +467,14 @@ AMD Ryzen 9 5900X:
     general: null
     workbench: 58
   value:
-    gaming: 20
+    gaming: 28
     general: null
-    workbench: 27
+    workbench: 39
 AMD Ryzen 9 5950X:
   price:
-    min: 301.99
+    min: 304.99
     offers: 8
-    updated: '2026-07-17T06:48:28.065Z'
+    updated: '2026-07-25T05:50:04.815Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -486,14 +486,14 @@ AMD Ryzen 9 5950X:
     general: null
     workbench: 65
   value:
-    gaming: 27
+    gaming: 30
     general: null
-    workbench: 40
+    workbench: 45
 AMD Ryzen 5 7500F:
   price:
-    min: 120.56
-    offers: 6
-    updated: '2026-07-17T06:48:49.098Z'
+    min: 141.46
+    offers: 8
+    updated: '2026-07-25T05:50:04.535Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -505,9 +505,9 @@ AMD Ryzen 5 7500F:
     general: null
     workbench: 42
   value:
-    gaming: 59
+    gaming: 57
     general: null
-    workbench: 64
+    workbench: 63
 AMD Ryzen 5 7600:
   price:
     min: 154.99
@@ -524,14 +524,14 @@ AMD Ryzen 5 7600:
     general: null
     workbench: 44
   value:
-    gaming: 47
+    gaming: 54
     general: null
-    workbench: 52
+    workbench: 60
 AMD Ryzen 5 7600X:
   price:
-    min: 137.99
-    offers: 17
-    updated: '2026-07-17T06:48:49.191Z'
+    min: 132.36
+    offers: 20
+    updated: '2026-07-25T05:50:05.002Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -543,9 +543,9 @@ AMD Ryzen 5 7600X:
     general: null
     workbench: 46
   value:
-    gaming: 54
+    gaming: 64
     general: null
-    workbench: 61
+    workbench: 73
 AMD Ryzen 5 7600X3D:
   price:
     min: 287.99
@@ -562,9 +562,9 @@ AMD Ryzen 5 7600X3D:
     general: null
     workbench: 46
   value:
-    gaming: 28
+    gaming: 33
     general: null
-    workbench: 29
+    workbench: 34
 AMD Ryzen 7 7700:
   price:
     min: 205.7
@@ -581,14 +581,14 @@ AMD Ryzen 7 7700:
     general: null
     workbench: 53
   value:
-    gaming: 38
+    gaming: 43
     general: null
-    workbench: 47
+    workbench: 54
 AMD Ryzen 7 7700X:
   price:
-    min: 199.8
-    offers: 15
-    updated: '2026-07-17T06:48:27.741Z'
+    min: 199.99
+    offers: 17
+    updated: '2026-07-25T05:50:06.176Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -600,14 +600,14 @@ AMD Ryzen 7 7700X:
     general: null
     workbench: 54
   value:
-    gaming: 39
+    gaming: 45
     general: null
-    workbench: 50
+    workbench: 57
 AMD Ryzen 7 7800X3D:
   price:
     min: 249.99
-    offers: 17
-    updated: '2026-07-17T06:48:37.583Z'
+    offers: 20
+    updated: '2026-07-25T05:50:05.782Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -619,9 +619,9 @@ AMD Ryzen 7 7800X3D:
     general: null
     workbench: 57
   value:
-    gaming: 35
+    gaming: 40
     general: null
-    workbench: 42
+    workbench: 48
 AMD Ryzen 9 7900:
   price:
     min: 274.99
@@ -638,14 +638,14 @@ AMD Ryzen 9 7900:
     general: null
     workbench: 71
   value:
-    gaming: 33
+    gaming: 38
     general: null
-    workbench: 47
+    workbench: 54
 AMD Ryzen 9 7900X:
   price:
-    min: 259.49
-    offers: 17
-    updated: '2026-07-17T06:48:48.415Z'
+    min: 259.4
+    offers: 18
+    updated: '2026-07-25T05:50:06.928Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -657,9 +657,9 @@ AMD Ryzen 9 7900X:
     general: null
     workbench: 74
   value:
-    gaming: 36
+    gaming: 41
     general: null
-    workbench: 53
+    workbench: 60
 AMD Ryzen 9 7900X3D:
   price:
     min: 522.02
@@ -676,9 +676,9 @@ AMD Ryzen 9 7900X3D:
     general: null
     workbench: 75
   value:
-    gaming: 19
+    gaming: 22
     general: null
-    workbench: 27
+    workbench: 30
 AMD Ryzen 9 7950X:
   price:
     min: 450
@@ -695,14 +695,14 @@ AMD Ryzen 9 7950X:
     general: null
     workbench: 87
   value:
-    gaming: 22
+    gaming: 25
     general: null
-    workbench: 35
+    workbench: 41
 AMD Ryzen 9 7950X3D:
   price:
     min: 590.99
     offers: 1
-    updated: '2026-07-17T06:48:30.266Z'
+    updated: '2026-07-25T05:50:06.629Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -714,9 +714,9 @@ AMD Ryzen 9 7950X3D:
     general: null
     workbench: 89
   value:
-    gaming: 18
+    gaming: 20
     general: null
-    workbench: 28
+    workbench: 32
 AMD Ryzen 5 8400F:
   price:
     min: 115.9
@@ -733,14 +733,14 @@ AMD Ryzen 5 8400F:
     general: null
     workbench: 34
   value:
-    gaming: 44
+    gaming: 51
     general: null
-    workbench: 55
+    workbench: 63
 AMD Ryzen 5 8500G:
   price:
     min: 129
-    offers: 12
-    updated: '2026-07-17T06:48:47.668Z'
+    offers: 13
+    updated: '2026-07-25T05:50:07.149Z'
   derived:
     pcie_gen: 3
     has_igpu: true
@@ -754,12 +754,12 @@ AMD Ryzen 5 8500G:
   value:
     gaming: null
     general: 100
-    workbench: 45
+    workbench: 51
 AMD Ryzen 5 8600G:
   price:
     min: 147
-    offers: 15
-    updated: '2026-07-17T06:49:01.071Z'
+    offers: 18
+    updated: '2026-07-25T05:50:07.468Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -771,14 +771,14 @@ AMD Ryzen 5 8600G:
     general: 92
     workbench: 36
   value:
-    gaming: 44
+    gaming: 51
     general: 92
-    workbench: 45
+    workbench: 51
 AMD Ryzen 7 8700F:
   price:
-    min: 155.9
-    offers: 13
-    updated: '2026-07-17T06:49:01.608Z'
+    min: 155.38
+    offers: 14
+    updated: '2026-07-25T05:50:07.759Z'
   derived:
     pcie_gen: 4
     has_igpu: false
@@ -790,14 +790,14 @@ AMD Ryzen 7 8700F:
     general: null
     workbench: 42
   value:
-    gaming: 36
+    gaming: 41
     general: null
-    workbench: 50
+    workbench: 57
 AMD Ryzen 7 8700G:
   price:
-    min: 234.99
-    offers: 12
-    updated: '2026-07-17T06:48:37.461Z'
+    min: 234.97
+    offers: 14
+    updated: '2026-07-25T05:50:08.815Z'
   derived:
     pcie_gen: 4
     has_igpu: true
@@ -809,14 +809,14 @@ AMD Ryzen 7 8700G:
     general: 100
     workbench: 43
   value:
-    gaming: 29
+    gaming: 34
     general: 63
-    workbench: 34
+    workbench: 38
 AMD Ryzen 5 9600:
   price:
-    min: 184.99
-    offers: 13
-    updated: '2026-07-17T06:48:28.441Z'
+    min: 187.99
+    offers: 14
+    updated: '2026-07-25T05:50:08.503Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -828,14 +828,14 @@ AMD Ryzen 5 9600:
     general: null
     workbench: 47
   value:
-    gaming: 41
+    gaming: 47
     general: null
-    workbench: 47
+    workbench: 53
 AMD Ryzen 5 9600X:
   price:
-    min: 160
+    min: 162.08
     offers: 20
-    updated: '2026-07-17T06:48:30.276Z'
+    updated: '2026-07-25T05:50:08.786Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -847,14 +847,14 @@ AMD Ryzen 5 9600X:
     general: null
     workbench: 47
   value:
-    gaming: 48
+    gaming: 54
     general: null
-    workbench: 55
+    workbench: 62
 AMD Ryzen 7 9700X:
   price:
     min: 237
     offers: 20
-    updated: '2026-07-17T06:49:00.855Z'
+    updated: '2026-07-25T05:50:09.109Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -866,9 +866,9 @@ AMD Ryzen 7 9700X:
     general: null
     workbench: 55
   value:
-    gaming: 34
+    gaming: 39
     general: null
-    workbench: 43
+    workbench: 49
 AMD Ryzen 7 9800X3D:
   price:
     min: 339.99
@@ -885,14 +885,14 @@ AMD Ryzen 7 9800X3D:
     general: null
     workbench: 63
   value:
-    gaming: 28
+    gaming: 32
     general: null
-    workbench: 34
+    workbench: 39
 AMD Ryzen 9 9900X:
   price:
     min: 298.55
-    offers: 19
-    updated: '2026-07-17T06:48:28.259Z'
+    offers: 20
+    updated: '2026-07-25T05:50:09.553Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -904,14 +904,14 @@ AMD Ryzen 9 9900X:
     general: null
     workbench: 79
   value:
-    gaming: 32
+    gaming: 37
     general: null
-    workbench: 49
+    workbench: 56
 AMD Ryzen 9 9900X3D:
   price:
     min: 436.99
     offers: 18
-    updated: '2026-07-17T06:48:31.846Z'
+    updated: '2026-07-25T05:50:09.923Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -923,14 +923,14 @@ AMD Ryzen 9 9900X3D:
     general: null
     workbench: 82
   value:
-    gaming: 24
+    gaming: 27
     general: null
-    workbench: 34
+    workbench: 39
 AMD Ryzen 9 9950X:
   price:
-    min: 441.57
-    offers: 18
-    updated: '2026-07-17T06:49:01.764Z'
+    min: 452.9
+    offers: 20
+    updated: '2026-07-25T05:50:10.264Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -942,14 +942,14 @@ AMD Ryzen 9 9950X:
     general: null
     workbench: 97
   value:
-    gaming: 24
+    gaming: 27
     general: null
-    workbench: 41
+    workbench: 45
 AMD Ryzen 9 9950X3D:
   price:
-    min: 499.49
-    offers: 15
-    updated: '2026-07-17T06:48:37.584Z'
+    min: 499
+    offers: 16
+    updated: '2026-07-25T05:50:10.668Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -961,9 +961,9 @@ AMD Ryzen 9 9950X3D:
     general: null
     workbench: 100
   value:
-    gaming: 22
+    gaming: 26
     general: null
-    workbench: 37
+    workbench: 42
 Intel Pentium Gold G7400:
   price:
     min: 210
@@ -980,9 +980,9 @@ Intel Pentium Gold G7400:
     general: null
     workbench: 14
   value:
-    gaming: 21
+    gaming: 24
     general: null
-    workbench: 12
+    workbench: 14
 Intel Celeron G6900:
   price:
     min: 76.45
@@ -999,14 +999,14 @@ Intel Celeron G6900:
     general: null
     workbench: 10
   value:
-    gaming: 54
+    gaming: 62
     general: null
-    workbench: 25
+    workbench: 29
 Intel Core i3-12100:
   price:
     min: 149.99
     offers: 13
-    updated: '2026-07-17T06:48:33.455Z'
+    updated: '2026-07-25T05:50:11.700Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1018,14 +1018,14 @@ Intel Core i3-12100:
     general: null
     workbench: 22
   value:
-    gaming: 33
+    gaming: 38
     general: null
-    workbench: 27
+    workbench: 31
 Intel Core i3-12100F:
   price:
     min: 79.99
-    offers: 10
-    updated: '2026-07-17T06:48:28.457Z'
+    offers: 11
+    updated: '2026-07-25T05:50:11.341Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1037,14 +1037,14 @@ Intel Core i3-12100F:
     general: null
     workbench: 22
   value:
-    gaming: 62
+    gaming: 71
     general: null
-    workbench: 51
+    workbench: 59
 Intel Core i5-12400:
   price:
-    min: 186.14
+    min: 164.52
     offers: 17
-    updated: '2026-07-17T06:49:01.630Z'
+    updated: '2026-07-25T05:50:11.737Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1056,14 +1056,14 @@ Intel Core i5-12400:
     general: null
     workbench: 29
   value:
-    gaming: 29
+    gaming: 38
     general: null
-    workbench: 29
+    workbench: 38
 Intel Core i5-12400F:
   price:
     min: 129.88
-    offers: 17
-    updated: '2026-07-17T06:48:32.594Z'
+    offers: 15
+    updated: '2026-07-25T05:50:12.171Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1075,14 +1075,14 @@ Intel Core i5-12400F:
     general: null
     workbench: 29
   value:
-    gaming: 42
+    gaming: 48
     general: null
-    workbench: 41
+    workbench: 48
 Intel Core i5-12500:
   price:
-    min: 199.99
-    offers: 4
-    updated: '2026-07-17T06:48:48.136Z'
+    min: 269.99
+    offers: 3
+    updated: '2026-07-25T05:50:12.470Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1094,14 +1094,14 @@ Intel Core i5-12500:
     general: null
     workbench: 34
   value:
-    gaming: 29
+    gaming: 24
     general: null
-    workbench: 31
+    workbench: 26
 Intel Core i5-12600:
   price:
-    min: 245.95
+    min: 248.89
     offers: 2
-    updated: '2026-07-17T06:49:01.681Z'
+    updated: '2026-07-25T05:50:12.962Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1113,14 +1113,14 @@ Intel Core i5-12600:
     general: null
     workbench: 39
   value:
-    gaming: 25
+    gaming: 28
     general: null
-    workbench: 29
+    workbench: 33
 Intel Core i5-12600K:
   price:
-    min: 196.09
+    min: 177.27
     offers: 9
-    updated: '2026-07-17T06:49:01.633Z'
+    updated: '2026-07-25T05:50:13.242Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1132,14 +1132,14 @@ Intel Core i5-12600K:
     general: null
     workbench: 40
   value:
-    gaming: 32
+    gaming: 40
     general: null
-    workbench: 37
+    workbench: 47
 Intel Core i5-12600KF:
   price:
     min: 158.95
     offers: 8
-    updated: '2026-07-17T06:48:47.837Z'
+    updated: '2026-07-25T05:50:13.621Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1151,14 +1151,14 @@ Intel Core i5-12600KF:
     general: null
     workbench: 40
   value:
-    gaming: 39
+    gaming: 45
     general: null
-    workbench: 46
+    workbench: 52
 Intel Core i7-12700:
   price:
-    min: 295.98
+    min: 307.83
     offers: 7
-    updated: '2026-07-17T06:48:31.952Z'
+    updated: '2026-07-25T05:50:13.934Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1170,14 +1170,14 @@ Intel Core i7-12700:
     general: null
     workbench: 49
   value:
-    gaming: 24
+    gaming: 26
     general: null
-    workbench: 30
+    workbench: 33
 Intel Core i7-12700F:
   price:
     min: 249.99
-    offers: 14
-    updated: '2026-07-17T06:48:31.928Z'
+    offers: 16
+    updated: '2026-07-25T05:50:14.460Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1189,14 +1189,14 @@ Intel Core i7-12700F:
     general: null
     workbench: 44
   value:
-    gaming: 27
+    gaming: 31
     general: null
-    workbench: 32
+    workbench: 37
 Intel Core i7-12700K:
   price:
     min: 269.99
-    offers: 12
-    updated: '2026-07-17T06:48:28.371Z'
+    offers: 13
+    updated: '2026-07-25T05:50:14.779Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1208,14 +1208,14 @@ Intel Core i7-12700K:
     general: null
     workbench: 49
   value:
-    gaming: 26
+    gaming: 30
     general: null
-    workbench: 33
+    workbench: 38
 Intel Core i7-12700KF:
   price:
     min: 244.99
-    offers: 10
-    updated: '2026-07-17T06:48:28.856Z'
+    offers: 11
+    updated: '2026-07-25T05:50:15.162Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1227,14 +1227,14 @@ Intel Core i7-12700KF:
     general: null
     workbench: 48
   value:
-    gaming: 29
+    gaming: 33
     general: null
-    workbench: 36
+    workbench: 42
 Intel Core i9-12900:
   price:
     min: 429.99
-    offers: 4
-    updated: '2026-07-17T06:49:01.014Z'
+    offers: 5
+    updated: '2026-07-25T05:50:16.412Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1246,14 +1246,14 @@ Intel Core i9-12900:
     general: null
     workbench: 61
   value:
-    gaming: 19
+    gaming: 21
     general: null
-    workbench: 26
+    workbench: 30
 Intel Core i9-12900F:
   price:
-    min: 476.16
+    min: 482
     offers: 1
-    updated: '2026-07-17T06:48:31.850Z'
+    updated: '2026-07-25T05:50:16.059Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1265,14 +1265,14 @@ Intel Core i9-12900F:
     general: null
     workbench: 52
   value:
-    gaming: 16
+    gaming: 18
     general: null
-    workbench: 20
+    workbench: 23
 Intel Core i9-12900K:
   price:
     min: 359.99
-    offers: 8
-    updated: '2026-07-17T06:48:26.988Z'
+    offers: 10
+    updated: '2026-07-25T05:50:16.467Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1284,14 +1284,14 @@ Intel Core i9-12900K:
     general: null
     workbench: 61
   value:
-    gaming: 22
+    gaming: 26
     general: null
-    workbench: 31
+    workbench: 36
 Intel Core i9-12900KF:
   price:
     min: 279.99
-    offers: 12
-    updated: '2026-07-17T06:49:03.006Z'
+    offers: 13
+    updated: '2026-07-25T05:50:16.832Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1303,14 +1303,14 @@ Intel Core i9-12900KF:
     general: null
     workbench: 58
   value:
-    gaming: 28
+    gaming: 32
     general: null
-    workbench: 38
+    workbench: 43
 Intel Core i9-12900KS:
   price:
     min: 350
-    offers: 4
-    updated: '2026-07-17T06:48:42.472Z'
+    offers: 5
+    updated: '2026-07-25T05:50:17.163Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1322,14 +1322,14 @@ Intel Core i9-12900KS:
     general: null
     workbench: 61
   value:
-    gaming: 23
+    gaming: 26
     general: null
-    workbench: 32
+    workbench: 37
 Intel Core i3-13100:
   price:
     min: 137.99
-    offers: 2
-    updated: '2026-07-17T06:49:01.388Z'
+    offers: 3
+    updated: '2026-07-25T05:50:17.648Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1341,14 +1341,14 @@ Intel Core i3-13100:
     general: null
     workbench: 23
   value:
-    gaming: 37
+    gaming: 42
     general: null
-    workbench: 31
+    workbench: 36
 Intel Core i3-13100F:
   price:
     min: 98.99
     offers: 3
-    updated: '2026-07-17T06:48:29.288Z'
+    updated: '2026-07-25T05:50:17.961Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1360,14 +1360,14 @@ Intel Core i3-13100F:
     general: null
     workbench: 23
   value:
-    gaming: 51
+    gaming: 59
     general: null
-    workbench: 44
+    workbench: 50
 Intel Core i5-13400:
   price:
     min: 251.99
-    offers: 6
-    updated: '2026-07-17T06:49:00.076Z'
+    offers: 7
+    updated: '2026-07-25T05:50:18.472Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1379,14 +1379,14 @@ Intel Core i5-13400:
     general: null
     workbench: 39
   value:
-    gaming: 24
+    gaming: 28
     general: null
-    workbench: 28
+    workbench: 32
 Intel Core i5-13400F:
   price:
     min: 172.99
-    offers: 7
-    updated: '2026-07-17T06:48:41.637Z'
+    offers: 8
+    updated: '2026-07-25T05:50:18.816Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1398,14 +1398,14 @@ Intel Core i5-13400F:
     general: null
     workbench: 36
   value:
-    gaming: 34
+    gaming: 39
     general: null
-    workbench: 38
+    workbench: 44
 Intel Core i5-13500:
   price:
     min: 290.99
-    offers: 3
-    updated: '2026-07-17T06:49:01.071Z'
+    offers: 4
+    updated: '2026-07-25T05:50:19.800Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1417,14 +1417,14 @@ Intel Core i5-13500:
     general: null
     workbench: 44
   value:
-    gaming: 23
+    gaming: 26
     general: null
-    workbench: 28
+    workbench: 32
 Intel Core i5-13600K:
   price:
     min: 259.99
     offers: 3
-    updated: '2026-07-17T06:48:28.857Z'
+    updated: '2026-07-25T05:50:20.348Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1436,14 +1436,14 @@ Intel Core i5-13600K:
     general: null
     workbench: 52
   value:
-    gaming: 28
+    gaming: 32
     general: null
-    workbench: 37
+    workbench: 42
 Intel Core i5-13600KF:
   price:
     min: 229.99
     offers: 3
-    updated: '2026-07-17T06:49:01.789Z'
+    updated: '2026-07-25T05:50:19.991Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1455,14 +1455,14 @@ Intel Core i5-13600KF:
     general: null
     workbench: 52
   value:
-    gaming: 31
+    gaming: 36
     general: null
-    workbench: 42
+    workbench: 48
 Intel Core i7-13700:
   price:
     min: 440
     offers: 1
-    updated: '2026-07-17T06:48:31.943Z'
+    updated: '2026-07-25T05:50:20.223Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1474,14 +1474,14 @@ Intel Core i7-13700:
     general: null
     workbench: 64
   value:
-    gaming: 19
+    gaming: 21
     general: null
-    workbench: 27
+    workbench: 31
 Intel Core i7-13700F:
   price:
-    min: 296.09
+    min: 328
     offers: 6
-    updated: '2026-07-17T06:48:29.388Z'
+    updated: '2026-07-25T05:50:21.354Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1493,14 +1493,14 @@ Intel Core i7-13700F:
     general: null
     workbench: 55
   value:
-    gaming: 26
+    gaming: 27
     general: null
-    workbench: 34
+    workbench: 35
 Intel Core i7-13700K:
   price:
     min: 349.99
-    offers: 1
-    updated: '2026-07-17T06:48:49.610Z'
+    offers: 2
+    updated: '2026-07-25T05:50:20.957Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1512,14 +1512,14 @@ Intel Core i7-13700K:
     general: null
     workbench: 64
   value:
-    gaming: 23
+    gaming: 27
     general: null
-    workbench: 33
+    workbench: 38
 Intel Core i7-13700KF:
   price:
     min: 314.99
-    offers: 3
-    updated: '2026-07-17T06:48:48.268Z'
+    offers: 2
+    updated: '2026-07-25T05:50:22.031Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1531,14 +1531,14 @@ Intel Core i7-13700KF:
     general: null
     workbench: 64
   value:
-    gaming: 26
+    gaming: 30
     general: null
-    workbench: 37
+    workbench: 43
 Intel Core i9-13900:
   price:
     min: 629.99
-    offers: 2
-    updated: '2026-07-17T06:48:37.459Z'
+    offers: 4
+    updated: '2026-07-25T05:50:21.769Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1550,14 +1550,14 @@ Intel Core i9-13900:
     general: null
     workbench: 82
   value:
-    gaming: 15
+    gaming: 17
     general: null
-    workbench: 24
+    workbench: 27
 Intel Core i9-13900F:
   price:
     min: 365
     offers: 2
-    updated: '2026-07-17T06:48:49.912Z'
+    updated: '2026-07-25T05:50:22.185Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1569,14 +1569,14 @@ Intel Core i9-13900F:
     general: null
     workbench: 68
   value:
-    gaming: 24
+    gaming: 27
     general: null
-    workbench: 34
+    workbench: 39
 Intel Core i9-13900K:
   price:
     min: 437.93
-    offers: 2
-    updated: '2026-07-17T06:49:01.783Z'
+    offers: 1
+    updated: '2026-07-25T05:50:23.399Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1588,14 +1588,14 @@ Intel Core i9-13900K:
     general: null
     workbench: 82
   value:
-    gaming: 21
+    gaming: 25
     general: null
-    workbench: 34
+    workbench: 39
 Intel Core i9-13900KF:
   price:
     min: 387.29
     offers: 4
-    updated: '2026-07-17T06:48:29.426Z'
+    updated: '2026-07-25T05:50:23.016Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1607,14 +1607,14 @@ Intel Core i9-13900KF:
     general: null
     workbench: 78
   value:
-    gaming: 24
+    gaming: 27
     general: null
-    workbench: 37
+    workbench: 43
 Intel Core i9-13900KS:
   price:
-    min: 477.93
-    offers: 2
-    updated: '2026-07-17T06:48:31.877Z'
+    min: 457.57
+    offers: 3
+    updated: '2026-07-25T05:50:23.371Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1626,14 +1626,14 @@ Intel Core i9-13900KS:
     general: null
     workbench: 82
   value:
-    gaming: 20
+    gaming: 23
     general: null
-    workbench: 32
+    workbench: 38
 Intel Core i3-14100:
   price:
-    min: 162.71
-    offers: 8
-    updated: '2026-07-17T06:49:00.912Z'
+    min: 148.34
+    offers: 9
+    updated: '2026-07-25T05:50:24.376Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1645,14 +1645,14 @@ Intel Core i3-14100:
     general: null
     workbench: 25
   value:
-    gaming: 32
+    gaming: 40
     general: null
-    workbench: 28
+    workbench: 35
 Intel Core i3-14100F:
   price:
-    min: 89.99
+    min: 80.52
     offers: 10
-    updated: '2026-07-17T06:48:28.440Z'
+    updated: '2026-07-25T05:50:24.167Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1664,14 +1664,14 @@ Intel Core i3-14100F:
     general: null
     workbench: 25
   value:
-    gaming: 58
+    gaming: 74
     general: null
-    workbench: 50
+    workbench: 64
 Intel Core i5-14400:
   price:
-    min: 181.99
-    offers: 15
-    updated: '2026-07-17T06:48:41.418Z'
+    min: 170.89
+    offers: 16
+    updated: '2026-07-25T05:50:24.555Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1683,14 +1683,14 @@ Intel Core i5-14400:
     general: null
     workbench: 37
   value:
-    gaming: 33
+    gaming: 40
     general: null
-    workbench: 37
+    workbench: 46
 Intel Core i5-14400F:
   price:
-    min: 159.15
+    min: 141.98
     offers: 12
-    updated: '2026-07-17T06:48:48.678Z'
+    updated: '2026-07-25T05:50:25.543Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1702,14 +1702,14 @@ Intel Core i5-14400F:
     general: null
     workbench: 37
   value:
-    gaming: 38
+    gaming: 49
     general: null
-    workbench: 43
+    workbench: 55
 Intel Core i5-14500:
   price:
-    min: 333.18
-    offers: 2
-    updated: '2026-07-17T06:48:29.969Z'
+    min: 240.49
+    offers: 7
+    updated: '2026-07-25T05:50:25.993Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1721,14 +1721,14 @@ Intel Core i5-14500:
     general: null
     workbench: 45
   value:
-    gaming: 20
+    gaming: 32
     general: null
-    workbench: 25
+    workbench: 39
 Intel Core i5-14600K:
   price:
-    min: 239.99
-    offers: 11
-    updated: '2026-07-17T06:49:00.900Z'
+    min: 232.86
+    offers: 12
+    updated: '2026-07-25T05:50:25.725Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1740,14 +1740,14 @@ Intel Core i5-14600K:
     general: null
     workbench: 54
   value:
-    gaming: 30
+    gaming: 36
     general: null
-    workbench: 41
+    workbench: 49
 Intel Core i5-14600KF:
   price:
     min: 214.99
-    offers: 15
-    updated: '2026-07-17T06:49:01.633Z'
+    offers: 14
+    updated: '2026-07-25T05:50:26.101Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1759,14 +1759,14 @@ Intel Core i5-14600KF:
     general: null
     workbench: 53
   value:
-    gaming: 34
+    gaming: 39
     general: null
-    workbench: 46
+    workbench: 52
 Intel Core i7-14700:
   price:
-    min: 335.48
-    offers: 7
-    updated: '2026-07-17T06:49:02.696Z'
+    min: 339.98
+    offers: 8
+    updated: '2026-07-25T05:50:26.552Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1778,14 +1778,14 @@ Intel Core i7-14700:
     general: null
     workbench: 72
   value:
-    gaming: 26
+    gaming: 30
     general: null
-    workbench: 39
+    workbench: 45
 Intel Core i7-14700F:
   price:
-    min: 316.99
-    offers: 12
-    updated: '2026-07-17T06:49:01.358Z'
+    min: 317.99
+    offers: 13
+    updated: '2026-07-25T05:50:26.839Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1797,14 +1797,14 @@ Intel Core i7-14700F:
     general: null
     workbench: 59
   value:
-    gaming: 26
+    gaming: 29
     general: null
-    workbench: 35
+    workbench: 39
 Intel Core i7-14700K:
   price:
-    min: 350.78
+    min: 343.68
     offers: 15
-    updated: '2026-07-17T06:48:31.836Z'
+    updated: '2026-07-25T05:50:27.182Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1815,34 +1815,110 @@ Intel Core i7-14700K:
     gaming: 78
     general: null
     workbench: 72
+  value:
+    gaming: 29
+    general: null
+    workbench: 44
+Intel Core i7-14700KF:
+  price:
+    min: 328.56
+    offers: 12
+    updated: '2026-07-25T05:50:27.676Z'
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 20
+    single_perf: 4469
+    multi_perf: 52107
+  scores:
+    gaming: 78
+    general: null
+    workbench: 72
+  value:
+    gaming: 31
+    general: null
+    workbench: 46
+Intel Core i9-14900:
+  price:
+    min: 532.99
+    offers: 3
+    updated: '2026-07-25T05:50:27.973Z'
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 4817
+    multi_perf: 60129
+  scores:
+    gaming: 84
+    general: null
+    workbench: 82
+  value:
+    gaming: 20
+    general: null
+    workbench: 32
+Intel Core i9-14900F:
+  price:
+    min: 497.99
+    offers: 9
+    updated: '2026-07-25T05:50:29.216Z'
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 4509
+    multi_perf: 46646
+  scores:
+    gaming: 76
+    general: null
+    workbench: 66
+  value:
+    gaming: 20
+    general: null
+    workbench: 28
+Intel Core i9-14900K:
+  price:
+    min: 429.99
+    offers: 14
+    updated: '2026-07-25T05:50:28.826Z'
+  derived:
+    pcie_gen: 5
+    has_igpu: false
+    total_cores: 24
+    single_perf: 4817
+    multi_perf: 60129
+  scores:
+    gaming: 84
+    general: null
+    workbench: 82
   value:
     gaming: 25
     general: null
-    workbench: 38
-Intel Core i7-14700KF:
+    workbench: 40
+Intel Core i9-14900KF:
   price:
-    min: 327.68
-    offers: 14
-    updated: '2026-07-17T06:49:00.957Z'
+    min: 349.95
+    offers: 16
+    updated: '2026-07-25T05:50:29.472Z'
   derived:
     pcie_gen: 5
     has_igpu: false
-    total_cores: 20
-    single_perf: 4469
-    multi_perf: 52107
+    total_cores: 24
+    single_perf: 4692
+    multi_perf: 58210
   scores:
-    gaming: 78
+    gaming: 83
     general: null
-    workbench: 72
+    workbench: 79
   value:
-    gaming: 27
+    gaming: 30
     general: null
-    workbench: 40
-Intel Core i9-14900:
+    workbench: 48
+Intel Core i9-14900KS:
   price:
-    min: 508.91
-    offers: 4
-    updated: '2026-07-17T06:48:27.934Z'
+    min: 599.99
+    offers: 7
+    updated: '2026-07-25T05:50:29.570Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1856,88 +1932,12 @@ Intel Core i9-14900:
   value:
     gaming: 18
     general: null
-    workbench: 30
-Intel Core i9-14900F:
-  price:
-    min: 503.99
-    offers: 8
-    updated: '2026-07-17T06:48:28.389Z'
-  derived:
-    pcie_gen: 5
-    has_igpu: false
-    total_cores: 24
-    single_perf: 4509
-    multi_perf: 46646
-  scores:
-    gaming: 76
-    general: null
-    workbench: 66
-  value:
-    gaming: 17
-    general: null
-    workbench: 24
-Intel Core i9-14900K:
-  price:
-    min: 439.77
-    offers: 12
-    updated: '2026-07-17T06:48:49.930Z'
-  derived:
-    pcie_gen: 5
-    has_igpu: false
-    total_cores: 24
-    single_perf: 4817
-    multi_perf: 60129
-  scores:
-    gaming: 84
-    general: null
-    workbench: 82
-  value:
-    gaming: 21
-    general: null
-    workbench: 34
-Intel Core i9-14900KF:
-  price:
-    min: 349.95
-    offers: 14
-    updated: '2026-07-17T06:48:33.642Z'
-  derived:
-    pcie_gen: 5
-    has_igpu: false
-    total_cores: 24
-    single_perf: 4692
-    multi_perf: 58210
-  scores:
-    gaming: 83
-    general: null
-    workbench: 79
-  value:
-    gaming: 26
-    general: null
-    workbench: 42
-Intel Core i9-14900KS:
-  price:
-    min: 589.99
-    offers: 5
-    updated: '2026-07-17T06:49:01.000Z'
-  derived:
-    pcie_gen: 5
-    has_igpu: false
-    total_cores: 24
-    single_perf: 4817
-    multi_perf: 60129
-  scores:
-    gaming: 84
-    general: null
-    workbench: 82
-  value:
-    gaming: 16
-    general: null
-    workbench: 25
+    workbench: 29
 Intel Core Ultra 5 225:
   price:
     min: 154.99
-    offers: 15
-    updated: '2026-07-17T06:48:32.048Z'
+    offers: 16
+    updated: '2026-07-25T05:50:30.004Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1949,14 +1949,14 @@ Intel Core Ultra 5 225:
     general: null
     workbench: 44
   value:
-    gaming: 43
+    gaming: 49
     general: null
-    workbench: 53
+    workbench: 60
 Intel Core Ultra 5 225F:
   price:
     min: 119.95
-    offers: 15
-    updated: '2026-07-17T06:48:33.692Z'
+    offers: 16
+    updated: '2026-07-25T05:50:30.552Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1968,9 +1968,9 @@ Intel Core Ultra 5 225F:
     general: null
     workbench: 44
   value:
-    gaming: 55
+    gaming: 64
     general: null
-    workbench: 68
+    workbench: 78
 Intel Core Ultra 5 235:
   price:
     min: 231.99
@@ -1987,14 +1987,14 @@ Intel Core Ultra 5 235:
     general: null
     workbench: 57
   value:
-    gaming: 33
+    gaming: 38
     general: null
-    workbench: 46
+    workbench: 52
 Intel Core Ultra 5 245K:
   price:
-    min: 148.99
+    min: 169.99
     offers: 11
-    updated: '2026-07-17T06:48:29.984Z'
+    updated: '2026-07-25T05:50:30.734Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -2012,8 +2012,8 @@ Intel Core Ultra 5 245K:
 Intel Core Ultra 5 245KF:
   price:
     min: 139.99
-    offers: 15
-    updated: '2026-07-17T06:48:41.573Z'
+    offers: 14
+    updated: '2026-07-25T05:50:31.070Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -2025,9 +2025,9 @@ Intel Core Ultra 5 245KF:
     general: null
     workbench: 60
   value:
-    gaming: 55
+    gaming: 64
     general: null
-    workbench: 79
+    workbench: 90
 Intel Core Ultra 7 265:
   price:
     min: 336.24
@@ -2044,14 +2044,14 @@ Intel Core Ultra 7 265:
     general: null
     workbench: 79
   value:
-    gaming: 27
+    gaming: 31
     general: null
-    workbench: 43
+    workbench: 50
 Intel Core Ultra 7 265F:
   price:
-    min: 291.92
+    min: 296.83
     offers: 9
-    updated: '2026-07-17T06:48:41.592Z'
+    updated: '2026-07-25T05:50:31.455Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -2063,9 +2063,9 @@ Intel Core Ultra 7 265F:
     general: null
     workbench: 69
   value:
-    gaming: 29
+    gaming: 33
     general: null
-    workbench: 43
+    workbench: 49
 Intel Core Ultra 7 265K:
   price:
     min: 255.39
@@ -2082,14 +2082,14 @@ Intel Core Ultra 7 265K:
     general: null
     workbench: 79
   value:
-    gaming: 36
+    gaming: 41
     general: null
-    workbench: 57
+    workbench: 65
 Intel Core Ultra 7 265KF:
   price:
-    min: 239.99
-    offers: 13
-    updated: '2026-07-17T06:48:47.667Z'
+    min: 244.99
+    offers: 14
+    updated: '2026-07-25T05:50:31.832Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -2101,14 +2101,14 @@ Intel Core Ultra 7 265KF:
     general: null
     workbench: 79
   value:
-    gaming: 38
+    gaming: 43
     general: null
-    workbench: 61
+    workbench: 68
 Intel Core Ultra 9 285:
   price:
     min: 499.95
-    offers: 11
-    updated: '2026-07-17T06:48:30.540Z'
+    offers: 14
+    updated: '2026-07-25T05:50:32.168Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -2120,14 +2120,14 @@ Intel Core Ultra 9 285:
     general: null
     workbench: 90
   value:
-    gaming: 20
+    gaming: 23
     general: null
-    workbench: 33
+    workbench: 38
 Intel Core Ultra 9 285K:
   price:
     min: 484.99
-    offers: 8
-    updated: '2026-07-17T06:48:31.954Z'
+    offers: 13
+    updated: '2026-07-25T05:50:32.585Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -2139,6 +2139,6 @@ Intel Core Ultra 9 285K:
     general: null
     workbench: 90
   value:
-    gaming: 20
+    gaming: 23
     general: null
-    workbench: 34
+    workbench: 39
