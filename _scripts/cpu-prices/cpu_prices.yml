@@ -9975,30 +9975,13 @@
     availability_code: grey
     availability_text: Unknown
     direct_sale: false
-  - shop_name: awd-it.co.uk
-    shop_url: http://www.awd-it.co.uk
-    shop_type: standalone-shop
-    marketplace_name: N/A
-    shop_review_rating: 0
-    shop_review_count: 0
-    position: 2
-    condition: new
-    currency: GBP
-    price: 209.99
-    shipping: 0
-    total: 209.99
-    free_return: false
-    voucher: false
-    availability_code: grey
-    availability_text: Unknown
-    direct_sale: false
   - shop_name: cclonline.com(UK)
     shop_url: http://www.cclonline.com(uk)
     shop_type: standalone-shop
     marketplace_name: N/A
     shop_review_rating: 1
     shop_review_count: 1
-    position: 3
+    position: 2
     condition: new
     currency: GBP
     price: 210.99
@@ -10007,7 +9990,25 @@
     free_return: false
     voucher: false
     availability_code: green
-    availability_text: "Wed 09 Sept\xE2\u20AC\u201CFri 11 Sept 2026"
+    availability_text: "Thu 17 Sept\xE2\u20AC\u201CSat 19 Sept 2026"
+    direct_sale: false
+  - shop_name: BOX UK
+    shop_url: http://www.amazon.co.uk/sp?seller=AXGEUC00TYC0X
+    shop_type: marketplace-shop
+    marketplace_name: Amazon-marketplace.co.uk
+    seller_id: AXGEUC00TYC0X
+    shop_review_rating: 0
+    shop_review_count: 0
+    position: 3
+    condition: new
+    currency: GBP
+    price: 215.98
+    shipping: 0
+    total: 215.98
+    free_return: false
+    voucher: false
+    availability_code: grey
+    availability_text: Only 2 left in stock.
     direct_sale: false
   - shop_name: cartridgeworld.co.uk
     shop_url: http://www.cartridgeworld.co.uk
@@ -10024,7 +10025,7 @@
     free_return: false
     voucher: false
     availability_code: green
-    availability_text: by Fri 11 Sept 2026
+    availability_text: by Sat 19 Sept 2026
     direct_sale: false
   - shop_name: trippodoshop
     shop_url: http://www.ebay.co.uk/usr/trippodoshop
@@ -10036,13 +10037,13 @@
     position: 5
     condition: new
     currency: GBP
-    price: 228.94
+    price: 227.46
     shipping: 20
-    total: 248.94
+    total: 247.46
     free_return: false
     voucher: false
     availability_code: orange
-    availability_text: "Thu 17 Sept\xE2\u20AC\u201CSat 26 Sept 2026"
+    availability_text: "Sat 26 Sept\xE2\u20AC\u201CTue 06 Oct 2026"
     direct_sale: false
   - shop_name: onbuy.com
     shop_url: http://www.onbuy.com
@@ -10059,27 +10060,27 @@
     free_return: false
     voucher: false
     availability_code: green
-    availability_text: "Sat 12 Sept\xE2\u20AC\u201CTue 15 Sept 2026"
+    availability_text: "Mon 21 Sept\xE2\u20AC\u201CWed 23 Sept 2026"
     direct_sale: false
-  - shop_name: SIERRA PATHWAY
-    shop_url: http://www.amazon.co.uk/sp?seller=A2LZ6HYVFDM31P
+  - shop_name: rarewaves-outlet
+    shop_url: http://www.ebay.co.uk/usr/rarewaves-outlet
     shop_type: marketplace-shop
-    marketplace_name: Amazon-marketplace.co.uk
-    seller_id: A2LZ6HYVFDM31P
+    marketplace_name: ebay.co.uk
+    seller_id: YNubFxcHRCW
     shop_review_rating: 0
     shop_review_count: 0
     position: 7
     condition: new
     currency: GBP
-    price: 373.28
+    price: 344.62
     shipping: 0
-    total: 373.28
+    total: 344.62
     free_return: false
     voucher: false
-    availability_code: green
-    availability_text: "Sat 12 Sept\xE2\u20AC\u201CMon 14 Sept 2026"
+    availability_code: orange
+    availability_text: "Tue 06 Oct\xE2\u20AC\u201CFri 09 Oct 2026"
     direct_sale: false
-  updated_at: '2026-09-08T08:01:30.423Z'
+  updated_at: '2026-09-16T08:31:47.263Z'
 '201660869':
   price_min: 158.99
   offers_count: 8
