@@ -1118,9 +1118,9 @@ Intel Core i5-12600:
     workbench: 35
 Intel Core i5-12600K:
   price:
-    min: 199.99
-    offers: 7
-    updated: '2026-09-16T08:31:47.263Z'
+    min: 209.99
+    offers: 8
+    updated: '2026-09-24T08:23:21.622Z'
   derived:
     pcie_gen: 5
     has_igpu: false
@@ -1132,9 +1132,9 @@ Intel Core i5-12600K:
     general: null
     workbench: 40
   value:
-    gaming: 53
+    gaming: 51
     general: null
-    workbench: 46
+    workbench: 44
 Intel Core i5-12600KF:
   price:
     min: 152.99
