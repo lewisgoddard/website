@@ -24,7 +24,6 @@
 		</a>
 		<nav class="fn-navlinks" aria-label="Primary">
 			<a href="#work">Work</a>
-			<a href="#recs">Recommendations</a>
 			<a href="#support">Support</a>
 		</nav>
 		{% if site.hire_me_enabled %}<a class="fn-cta fn-cta--sm" href="https://www.linkedin.com/in/lewisgoddard/" rel="me">Hire me &rarr;</a>{% endif %}
@@ -237,53 +236,11 @@
 		</div>
 	</section>
 
-	<!-- ─── What I recommend ─── -->
-{% assign counter_components = 0 %}{% assign counter_hardware = 0 %}{% assign counter_services = 0 %}{% assign counter_software = 0 %}
-{% for p in site.pages %}{% if p.url contains '/recommendations/components/' and p.url != '/recommendations/components/' %}{% assign counter_components = counter_components | plus: 1 %}{% endif %}{% if p.url contains '/recommendations/hardware/' and p.url != '/recommendations/hardware/' %}{% assign counter_hardware = counter_hardware | plus: 1 %}{% endif %}{% if p.url contains '/recommendations/services/' and p.url != '/recommendations/services/' %}{% assign counter_services = counter_services | plus: 1 %}{% endif %}{% if p.url contains '/recommendations/software/' and p.url != '/recommendations/software/' %}{% assign counter_software = counter_software | plus: 1 %}{% endif %}{% endfor %}
-
-	<section id="recs" class="fn-section fn-section--alt">
-		<header class="fn-section-h">
-			<span class="fn-section-no">No.&thinsp;02</span>
-			<h2>What I recommend</h2>
-			<p class="fn-section-lede">Personal picks &#8212; CPUs to apps, hosts to peripherals. What I&#8217;d actually buy, install, or pay for.</p>
-		</header>
-		<div class="fn-recs">
-			<a class="fn-rec" href="{{ '/recommendations/components/' | relative_url }}">
-				<span class="fn-rec-no">01</span>
-				<span class="fn-rec-label">Components</span>
-				<span class="fn-rec-count">{{ counter_components }} {% if counter_components == 1 %}pick{% else %}picks{% endif %}</span>
-				<span class="fn-rec-blurb">CPUs, GPUs, RAM &#8212; the parts you pick first.</span>
-				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
-			</a>
-			<a class="fn-rec" href="{{ '/recommendations/hardware/' | relative_url }}">
-				<span class="fn-rec-no">02</span>
-				<span class="fn-rec-label">Other Hardware</span>
-				<span class="fn-rec-count">{{ counter_hardware }} {% if counter_hardware == 1 %}pick{% else %}picks{% endif %}</span>
-				<span class="fn-rec-blurb">Laptops, peripherals, and the rest of the rack.</span>
-				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
-			</a>
-			<a class="fn-rec" href="{{ '/recommendations/services/' | relative_url }}">
-				<span class="fn-rec-no">03</span>
-				<span class="fn-rec-label">Services</span>
-				<span class="fn-rec-count">{{ counter_services }} {% if counter_services == 1 %}pick{% else %}picks{% endif %}</span>
-				<span class="fn-rec-blurb">Hosts, registrars, SaaS &#8212; who I&#8217;d actually pay.</span>
-				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
-			</a>
-			<a class="fn-rec" href="{{ '/recommendations/software/' | relative_url }}">
-				<span class="fn-rec-no">04</span>
-				<span class="fn-rec-label">Software</span>
-				<span class="fn-rec-count">{{ counter_software }} {% if counter_software == 1 %}pick{% else %}picks{% endif %}</span>
-				<span class="fn-rec-blurb">Tools, libraries, and apps I&#8217;d install today.</span>
-				<span class="fn-rec-arr" aria-hidden="true">&rarr;</span>
-			</a>
-		</div>
-	</section>
-
 	<!-- ─── Things I use + Support ─── -->
 	<section class="fn-section fn-section--split">
 		<div class="fn-uses">
 			<header class="fn-section-h fn-section-h--inline">
-				<span class="fn-section-no">No.&thinsp;03</span>
+				<span class="fn-section-no">No.&thinsp;02</span>
 				<h2>Things I use</h2>
 			</header>
 			<ul>
@@ -309,7 +266,7 @@
 		</div>
 		<aside id="support" class="fn-support">
 			<header class="fn-section-h fn-section-h--inline">
-				<span class="fn-section-no">No.&thinsp;04</span>
+				<span class="fn-section-no">No.&thinsp;03</span>
 				<h2>Support the work</h2>
 			</header>
 			<p>The OSS projects are free to use; staying maintained is what costs.</p>
